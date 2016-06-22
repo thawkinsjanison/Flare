@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\settings\Paypal.docx">
+  <TocEntry
+    Title="Paypal introduction" />
+  <TocEntry
+    Title="Setup with Payflow Pro" />
+  <TocEntry
+    Title="Setup PayPal without Payflow Pro" />
+  <TocEntry
+    Title="Setup Self-Enrolment" />
+  <TocEntry
+    Title="Apply Changes to a Catalogue Item" />
+  <TocEntry
+    Title="The Self Enrolment Wizard" />
+  <TocEntry
+    Title="Viewing PayPal Transactions" />
+</CatapultToc>

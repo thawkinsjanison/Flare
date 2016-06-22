@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-22T09:17:17.8373256+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-22T09:18:18.4591546+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Organisation units.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Organisation units.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Organisation units.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Organisation units/Organisation units.htm"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Add organisation unit manually.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Add organisation unit manually_1.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Organisation units/Add organisation unit manually.htm"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Importing an organisation.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Organisation units/Importing an organisation.htm"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/The CLS provides a sample.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/The CLS provides a sample_1.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Organisation units/The CLS provides a sample.htm"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Inspect organisation unit.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Inspect organisation unit_1.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Organisation units/Inspect organisation unit.htm"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Edit organisation unit.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Edit organisation unit_1.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisation units/Edit organisation unit_2.png"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Organisation units/Edit organisation unit.htm"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../TOCs/Organisation units.fltoc"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Organisation units.flmsp"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="22/04/2015 9:18:14 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

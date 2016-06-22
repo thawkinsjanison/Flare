@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="1334" MadCap:lastWidth="1200">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">More details about filters</h1>
+        <h2 class="Heading2">Filter Items</h2>
+        <p>A Filter item takes a Property, an Operand and a Value to compare with. The Property is either a property available directly on the entity (e.g. User’s Last Name), or a Custom Attribute. The following properties are available to participate in filtering at the User level (note that for brevity, standard built-in properties are not included):</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Organisation (select from drop-down or match on Organisation name).</li>
+            <li style="list-style-type: disc;">Organisation Unit (select from drop-down or match on Organisation Unit name).</li>
+            <li style="list-style-type: disc;">Main Role (select from drop-down or match on main role name).</li>
+            <li style="list-style-type: disc;">Last logged on, Last Active, Created – Date Fields related to the user’s account and activity.</li>
+            <li style="list-style-type: disc;">Custom Attributes – note that it’s possible to specify filters against custom attributes, including Boolean values, string values etc. This makes it possible to create reports targeted at specific demographics.</li>
+        </ul>
+        <h2 class="Heading2">Operands</h2>
+        <p>Operands are the logical operations. Depending on the datatype of the Filter Property, different operands are available. For example ‘contains’ cannot operate on a Date Type, but it can operate on a Text String. Below are the operands available:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">= - Equals, available on all data types.</li>
+            <li style="list-style-type: disc;">!= - Does Not Equal, available on all data types.</li>
+        </ul>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Greater than, available on String (alphabetical order) and Numerical types</li>
+        </ul>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Contains - Contains operator, only available for Text String Data Type.</li>
+            <li style="list-style-type: disc;">After - Same as Greater than operator for Data Type.</li>
+            <li style="list-style-type: disc;">Before - Same as Less than operator for Data Type.</li>
+        </ul>
+        <h2 class="Heading2">Value to Compare with</h2>
+        <p>The Value to compare with appears in the third column, and changes its input control depending on the data type. For example, for Date Types, it would show a date picker, and for Text it would show a text box. This is the value that the report will use in the filter item to compare with.</p>
+        <h2 class="Heading2">Parameters</h2>
+        <p>Some data types support parametric comparison values rather than explicit values. For example, it’s often useful to run a report of Users that logged on during the last week. Rather than selecting a ‘hard’ date (which would need to be updated each time a report is run), it’s possible to select a parameter: “during the last week”. At the time of writing, parametric comparison values are only available for Date Type properties, with the following parameters supported:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Today</li>
+            <li style="list-style-type: disc;">Yesterday</li>
+            <li style="list-style-type: disc;">This Month</li>
+            <li style="list-style-type: disc;">This Year</li>
+            <li style="list-style-type: disc;">Last Month</li>
+            <li style="list-style-type: disc;">Last Year</li>
+        </ul>
+        <h2 class="Heading2">Security Filtering</h2>
+        <p>Note that in addition to the filters specified, the system will append further filters based on Security roles of the User who is logged in. </p>
+    </body>
+</html>

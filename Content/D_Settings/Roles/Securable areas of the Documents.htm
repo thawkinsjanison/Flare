@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="4420" MadCap:lastWidth="1196">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Securable areas of the Documents</h1>
+        <p>This sections allows you to specify what a User with the Role assigned to them can see and do in the system. </p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>This section has 4 columns:</p>
+        <p><b>Area</b> – this lists the areas of the CLS where the permissions relate to. It can contain one or more sub areas with child values. The below screenshot lists the Add Learning feature of the system. It has a sub area of Wizard and child values of relating to the Wizard of Create and Edit.</p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p><b>Access</b> – Is the value of the Area and could be:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Allow – Allows User access.</li>
+            <li style="list-style-type: disc;">Deny – Denys User access.</li>
+            <li style="list-style-type: disc;">Inherit – Inherits the value set at the parent level, in this case the Add Learning level which is set to Deny.</li>
+        </ul>
+        <p><b>Effective</b> – To make it obvious what the inherited value is, this column lists the actual values. For example if the parent Area is set to Allow, the Access column will list Inherit whereas the Effective column will list the actual value of Allow.</p>
+        <p><b>Indicator</b> – There are three indicator icons to help you quickly understand the values of the Areas settings.</p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_2.png" style="visibility: visible;mso-wrap-style: square;" /> Users with this Role are allowed in this area of the system.</p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_3.png" style="visibility: visible;mso-wrap-style: square;" /> Users with this Role are not permitted in this area of the system.</p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_4.png" style="visibility: visible;mso-wrap-style: square;" /> Users with this Role are allowed in some Areas and not allowed in other parts of this area of the system.</p>
+        <p>The below screenshot is of the Basic User Role. Three areas are highlighted as examples of different types of access:</p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_5.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p><b>Add Learning</b> is set to Deny as a basic user undertakes learning but does not Add Learning to the system. They therefore do not require access to this part of the system.</p>
+        <p><b>Assignment</b> is set to Mixed as Basic Users will only need access to parts of the Assignment feature.&#160; For example a Basic User may be required to submit an Assignment so Learner Submission will be set to Allow. They will not be required to Create or Edit an Assignment so these areas will be set to Deny. The basic User therefore has Mixed Access to Assignments.</p>
+        <p><b>Course Player</b> is set to Allow as Basic Users require access to the course player to undertake courses.</p>
+        <h2 class="Heading2">Editing Securable Areas of the System</h2>
+        <p>By editing a Role you can add or remove User access to Areas of the CLS. </p>
+        <p>To edit Securable areas click the edit pencil of the Roles section.</p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_6.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>Check the required option, Allow or Deny. Values entered at the parent level will cascade down to the sub and child areas by default and the Inherit radio buttons will be active.</li>
+            <li>If required set any of the child options to Allow or Deny.</li>
+        </ol>
+        <p>In the below example a Content Designer Extra Role has been set to Allow Add Learning but will not be permitted to edit the Learning once created.</p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_7.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2">Identifying which Area needs to be set</h2>
+        <p>Although some Areas are easily identifiable such as <b>Add Learning</b>, others are more challenging to find.</p>
+        <p>As an example, say you need to provide a Tenant Administrator’s access to create <b>User Enrolment Rules</b>. Nothing in the Areas column has this label. To determine the correct Area to specify these step may assist:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Log in as a User with access to the User Enrolment Rules feature and navigate to <b>Settings</b> &gt; <b>User Enrolment Rules</b>.</li>
+            <li style="list-style-type: disc;">Copy the end section of the site URL as highlighted in the screenshot below.</li>
+        </ul>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_8.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Now log in as a User without this access to the User Enrolment Rules feature and paste the URL onto the end of the site URL, in this case, <a href="http://help.cls.janison.com/rules/index?menu=Settings"><span class="Hyperlink">http://help.cls.janison.com/rules/index?menu=Settings</span></a>.</li>
+            <li style="list-style-type: disc;">An <b>Access Denied</b> page will be returned.</li>
+            <li style="list-style-type: disc;">Examine the details of the Access Information as shown in the screenshot below.&#160; The Area will be listed, in this case it is the <b>Rules Manager</b>.</li>
+        </ul>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_9.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>You now know the Area to Allow. It would be advisable to copy the setting configuration of the Role with access to the Area.</p>
+        <p>
+            <img src="../../Resources/Images/Roles1/Securable areas of the Documents_10.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+    </body>
+</html>

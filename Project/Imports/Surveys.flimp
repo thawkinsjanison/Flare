@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-23T17:18:19.8408067+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-23T17:18:40.3086760+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Design/Surveys.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Surveys.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Surveys/Surveys introduction.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/Surveys introduction.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_2.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/How to create a survey for.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a question to a.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a question to a_1.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a question to a_2.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a question to a_3.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/How to add a question to a.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a survey to a learning.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a survey to a learning_1.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a survey to a learning_2.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a survey to a learning_3.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a survey to a learning_4.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a survey to a learning_5.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a survey to a learning_6.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/How to add a survey to a learning.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/End User Experience.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/End User Experience_1.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/End User Experience_2.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/End User Experience.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_1.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_2.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_3.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_4.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_5.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_6.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_7.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_8.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_9.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_10.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to create a survey for_1_11.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/How to create a survey for_1.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a section to a.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a section to a_1.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a section to a_2.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/How to add a section to a_3.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/How to add a section to a.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/End user experience_1_1.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/End user experience_1_2.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/End user experience_1_3.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/End user experience_1_4.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/End user experience_1.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/Response analysis.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Surveys/Response analysis_1.png"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Surveys/Response analysis.htm"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+    <Url
+      Source="../TOCs/Surveys.fltoc"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Surveys.flmsp"
+      TimeStamp="23/04/2015 5:18:37 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="23/04/2015 5:18:38 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

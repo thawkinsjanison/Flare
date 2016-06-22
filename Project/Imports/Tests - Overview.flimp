@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-04T12:28:52.6842752+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-04T12:29:50.5854197+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Design/Tests - Overview.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Tests - Overview.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Tests - Overview/Tests Introduction.htm"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests - Overview/Assessment Modules Tests.png"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../../Content/Tests - Overview/Assessment Modules Tests.htm"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests - Overview/Learning Module Tests.png"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../../Content/Tests - Overview/Learning Module Tests.htm"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests - Overview/Differences in Forms in Learning.png"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests - Overview/Differences in Forms in Learning_1.png"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../../Content/Tests - Overview/Differences in Forms in Learning.htm"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../TOCs/Tests - Overview.fltoc"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="4/06/2015 12:29:22 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

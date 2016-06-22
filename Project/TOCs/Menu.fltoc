@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Menu Settings – Introduction"
+    Link="/Content/D_Settings/Menu/Menu Settings Introduction.htm" />
+  <TocEntry
+    Title="Customise a Menu"
+    Link="/Content/D_Settings/Menu/Customise a Menu.htm" />
+</CatapultToc>

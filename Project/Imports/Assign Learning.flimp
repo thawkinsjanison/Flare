@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-15T10:37:40.1787851+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-15T10:40:22.2450504+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/manage learning/Assign Learning.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Assign Learning.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Assign Learning/Assigning Learning introduction.htm"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assign Learning/Assign Learning wizard.png"
+      TimeStamp="15/05/2015 10:40:17 AM" />
+    <Url
+      Source="../../Content/Assign Learning/Assign Learning wizard.htm"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assign Learning/Step 1 Content.png"
+      TimeStamp="15/05/2015 10:40:17 AM" />
+    <Url
+      Source="../../Content/Assign Learning/Step 1 Content.htm"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assign Learning/Step 2 Recipients.png"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Assign Learning/Step 2 Recipients.htm"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assign Learning/Step 3 Delivery.png"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Assign Learning/Step 3 Delivery.htm"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Assign Learning/Step 4 Review.htm"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assign Learning/Assign Learning Catalogue.png"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assign Learning/Assign Learning Catalogue_1.png"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assign Learning/Assign Learning Catalogue_2.png"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Assign Learning/Assign Learning Catalogue.htm"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../TOCs/Assign Learning.fltoc"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Assign Learning.flmsp"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="15/05/2015 10:40:18 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="List Bullet" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

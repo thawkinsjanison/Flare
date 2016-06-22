@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="4843" MadCap:lastWidth="1168">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1"><a name="_Importing_a_Position"></a>Importing a Position</h1>
+        <p>If there are multiple Users and Positions to create then the import function can be more efficient.</p>
+        <p>Select <b>Manage People</b> &gt; <b>Positions</b> &gt; <b>Import Positions</b>.</p>
+        <p>
+            <img class="shareWithMenu" src="../../Resources/Images/Positions/Importing a Position.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>In the next screen click the link below:</p>
+        <p>
+            <img src="../../Resources/Images/Positions/Importing a Position_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>This takes you to <b>Mange People</b> &gt; <b>Users</b> &gt; <b>Add or synchronise Users from spreadsheet</b> function. With this User import functionality Positions can be created at the same time as Users are created. A new Position will be created through this process if the data entered in the Position columns for a User does not already exist.</p>
+        <p>The data is entered via a spreadsheet. One important decision is the <strong>Data Source</strong>. If you select
+       <strong>Sync data from HR system</strong> the CLS will inactivate any Users that are present in its system but are not present in the imported spreadsheet, i.e. not in the client’s HR system. Thus, the master file for Users, Positions etc is the client's HR system. Note that this approach only inactivates Users who are not in the imported spreadsheet; it does not inactive Positions that are not in the spreadsheet.</p>
+        <p>This is not the case when you select <strong>Data Upload</strong>, which adds Users and updates existing ones but does not deactivate Users who are not in the spreadsheet.</p>
+        <h2 class="Heading2"><a name="_Specification_for_the"></a>Specification for the Import</h2>
+        <p>There are a number of aspects to the import process:</p>
+        <ol>
+            <li>Click to download the CLS Template and fill it in, see <a href="#_Template_for_Import"><span class="Hyperlink">Template for Import</span></a>.</li>
+            <li>Choose the <strong>Data Source </strong>from the drop-down menu as explained above. </li>
+            <li>Click <strong>Default Settings</strong> if you need to go to <strong>Settings &gt; Spreadsheet Import.</strong> Here the default import settings can be edited, including the ability to manually override them in the import process (below), see <a href="#_Settings_for_User"><span class="Hyperlink">Settings for User Import</span></a>. </li>
+            <li>Click <strong>Define column mappings</strong> to examine and, if necessary, change the correlations between the CLS and the client’s HR system, see <a href="#_Define_Column_Mappings"><span class="Hyperlink">Define Column Mappings for HR Synch</span></a>.</li>
+        </ol>
+        <p>The following are the settings that have been made possible by the Default Settings screen (3).</p>
+        <ol style="list-style-type: decimal;" start="5">
+            <li>Click the checkbox to allow the update of existing User records if the imported data differs from that in the CLS.</li>
+            <li>Click the checkbox to allow the creation of any Groups specified in the spreadsheet but not found in the CLS.</li>
+            <li>Click the checkbox to specify that any Group memberships a User already has that are not specified in the import file will be inactivated. This only applies to group types specified in the import file.</li>
+            <li>Click the checkbox to specify that any existing custom attributes of type list can have list items created during the import process if they exist in the spreadsheet but not in the CLS system.</li>
+            <li>Click the checkbox to specify that new Users will receive a welcome email with a customisable message. Click <strong>View Email</strong> to see the current email message.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Positions/Importing a Position_2.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ol style="list-style-type: decimal;" start="10">
+            <li>Click the checkbox to specify that any Org Unit specified in the spreadsheet that is not found in the CLS should be created. Any Org Units in the CLS that do not have associated Users will be deactivated.</li>
+            <li>Click the checkbox to skip the evaluation of an imported password’s strength. </li>
+            <li>Click the checkbox to allow a User’s password to be changed to the one in the spreadsheet.</li>
+            <li>Enter an email address for communication of the results</li>
+            <li>Upload the import file from your local browser by clicking <strong>Select File</strong>.</li>
+            <li>Click <strong>Import</strong> and email result.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Positions/Importing a Position_3.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2"><a name="_Template_for_Import"></a>Template for Import</h2>
+        <p>The Data page in the template shows an example row. A new Position will be created through the import process if the data entered in the Position fields for a User does not already exist. Remember that a Position is in the same Org and Org Unit as the User.</p>
+        <p>The Supported Attributes page gives further information about the fields in the template. The fields that are of particular interest to Positions are indicated in the screenshot below. Note that Position Classification Id and Position Classification Name are not used in an import.</p>
+        <p>c<img src="../../Resources/Images/Positions/Importing a Position_4.png" style="visibility: visible;mso-wrap-style: square;" /></p>
+        <p>For a Position-to-Position manager relationship enter data in the:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Reports To Position Id: the Position that this Position reports to.</li>
+            <li style="list-style-type: disc;">Reports To Org Id: the Org Id that the Reports To Position belongs to.</li>
+            <li style="list-style-type: disc;">Reports To Org Unit Id: the Org Unit Id that the Reports To Position belongs to. <br />Must be used in conjunction with the Reports To Org Id column.</li>
+        </ul>
+        <p>For a User-to-User manager relationship only enter data in the:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Reports To User Id column</li>
+        </ul>
+        <h2 class="Heading2"><a name="_Settings_for_User"></a>Settings for User Import</h2>
+        <p>This part of the CLS allows you to set the default specifications for a User Import. Most of the fields have already been explained in <a href="#_Specification_for_the"><span class="Hyperlink">Specification for the Import</span></a>, with the exception of: </p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>Click the checkbox to globally disable the manual override, so that none of the settings can be customised for a particular import.</li>
+            <li>Click the checkbox to disable an individual manual override so that the setting cannot be customised during an import.</li>
+            <li>Click to hide the import template link.</li>
+            <li>Set the maximum number of Users to be imported using Web Role.</li>
+            <li>Click <strong>Save</strong></li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Positions/Importing a Position_5.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2"><a name="_Define_Column_Mappings"></a>Define Column Mappings for HR Synch</h2>
+        <p>When the data generated from a client’s HR system is imported into the CLS there sometimes needs to be a correlation established between the names that the HR system call each data field and the names that the CLS calls them. This correlation is called a Column Mapping.</p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>The existing mapping is shown on this screen.</li>
+            <li>The mapping can be modified by means of a Spreadsheet. Click Select File to read a correlation file and redefine the mappings.</li>
+            <li>Click <strong>Define Mappings </strong>to save them.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Positions/Importing a Position_6.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+    </body>
+</html>

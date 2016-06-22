@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="User Enrolment Rules - Introduction"
+    Link="/Content/D_Settings/User Enrolment Rules/User Enrolment Rules Introduction.htm" />
+  <TocEntry
+    Title="Add User Enrolment Rule"
+    Link="/Content/D_Settings/User Enrolment Rules/Add User Enrolment Rule.htm" />
+  <TocEntry
+    Title="What does this Rule enrol users for?"
+    Link="/Content/D_Settings/User Enrolment Rules/What does this Rule enrol.htm" />
+  <TocEntry
+    Title="Which users does this rule apply to?"
+    Link="/Content/D_Settings/User Enrolment Rules/Which users does this rule.htm" />
+  <TocEntry
+    Title="When should the rule apply?"
+    Link="/Content/D_Settings/User Enrolment Rules/When should the rule apply.htm" />
+  <TocEntry
+    Title="Testing a User Enrolment Rule"
+    Link="/Content/D_Settings/User Enrolment Rules/Testing a User Enrolment Rule.htm" />
+</CatapultToc>

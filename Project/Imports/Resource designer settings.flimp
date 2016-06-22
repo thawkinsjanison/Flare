@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-08-18T16:16:33.4355853+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-08-18T16:18:18.7004083+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/Resource designer settings.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Resource designer settings.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Designer Settings.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resource designer settings/Resource Designer Settings.htm"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_1.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_2.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_3.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_4.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_5.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_6.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_7.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_8.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_9.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Resource Options_10.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resource designer settings/Resource Options.htm"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Stimulus Options.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Stimulus Options_1.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Stimulus Options_2.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Stimulus Options_3.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Stimulus Options_4.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Stimulus Options_5.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Stimulus Options_6.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Stimulus Options_7.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resource designer settings/Stimulus Options.htm"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Identifier Auto Generation.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Identifier Auto Generation_1.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Identifier Auto Generation_2.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Identifier Auto Generation_3.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resource designer settings/Identifier Auto Generation.htm"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Available Stimuli Templates.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Available Stimuli Templates_1.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resource designer settings/Available Stimuli Templates.htm"
+      TimeStamp="18/08/2015 4:17:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Available Resource Types.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Resource designer settings/Available Resource Types_1.png"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resource designer settings/Available Resource Types.htm"
+      TimeStamp="18/08/2015 4:17:41 PM" />
+    <Url
+      Source="../TOCs/Resource designer settings.fltoc"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Resource designer settings.flmsp"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="18/08/2015 4:17:40 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

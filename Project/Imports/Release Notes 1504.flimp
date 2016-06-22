@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-07-31T13:13:48.4210128+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-07-31T13:14:10.8196199+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Release Notes 1504.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Release Notes 1504.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Release Notes 1504/New Features and Enhancements.htm"
+      TimeStamp="31/07/2015 1:14:07 PM" />
+    <Url
+      Source="../TOCs/Release Notes 1504.fltoc"
+      TimeStamp="31/07/2015 1:14:07 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="31/07/2015 1:14:07 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="4893" MadCap:lastWidth="991">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1"><a name="_Filters_1"></a>Easier introduction to filters</h1>
+        <p>Consider a group of items with different colours and labels:</p>
+        <p>
+            <img class="shareWithMenu" src="../../Resources/Images/Building Filters/Easier introduction to filters.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>If we select all the items that have the number 2 we would only see:</p>
+        <p>
+            <img src="../../Resources/Images/Building Filters/filter2.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>The CLS expresses this kind of selection as a <em>filter</em>, which is another name for a logic rule. In the screenshot below we have entered a rule (filter) that <strong>Number = 2</strong>. You can see it at the bottom part of the image. You can ignore the rest of the image, for now...</p>
+        <p>
+            <img src="../../Resources/Images/Building Filters/filterCLS2.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Perhaps we want to select all the items that:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">are blue, <strong>AND</strong></li>
+            <li style="list-style-type: disc;">have the number 2.</li>
+        </ul>
+        <p>This selection results in a smaller number of items and we see:</p>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_1.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>In the CLS we would express this as:</p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>A rule (filter) that the colour is blue.</li>
+            <li>Another rule that the number is 2.</li>
+            <li>How to combine these rules: <strong>AND</strong>, that is, both rules have to be true for the item to be selected.</li>
+        </ol>
+        <p>In the CLS the screen looks like this:</p>
+        <p>
+            <img alt="" src="../../Resources/Images/Building%20Filters/Easier%20introduction%20to%20filters_2.png" />
+        </p>
+        <p>So now the rest of the screen is relevant. We clicked <strong>Add filter</strong> (<strong>4</strong>) to make that second rule. And the way the two rules were combined was set at the top left hand side (<strong>3</strong>). Note that the filters (rules) are aligned at their left. </p>
+        <p>What if we want to change things and select all the items that:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">are blue, <strong>OR</strong></li>
+            <li style="list-style-type: disc;">have the number 2</li>
+        </ul>
+        <p>We would see a lot more items this time because now <em>either</em> rule has to be true, not <em>both</em> of them:</p>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_3.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" /> </p>
+        <p>In the CLS this would be expressed as:</p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>A rule (filter) that the colour is blue.</li>
+            <li>Another rule (filter) that the number is 2.</li>
+            <li>How to combine these rules: <strong>OR</strong>, that is, at least one of the rules has to be true</li>
+        </ol>
+        <p>This looks very similar to the previous example except that this time <strong>AND</strong> has been replaced with <strong>OR</strong><em> <![CDATA[ ]]></em> at the top left hand side (<strong>3</strong>).</p>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_4.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Now we know how to set up simple selections in the CLS by using Filters. We can create one rule or we can create more than one rule (filters) and we specify how they should be logically combined. There are only two choices for the combination:</p>
+        <ul style="list-style-type: disc;">
+            <li><strong>AND</strong>: all of the rules must be true.</li>
+            <li><strong>OR</strong>: at least one of them must be true.</li>
+        </ul>
+        <p>What if we had a more complicated selection to specify? What if we wanted to eliminate the bottom line (i.e. number = 4) from the selection above? If we did this, we would just see:</p>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_5.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>To specify this selection we need to change our rules because this time we want to select all the items that:</p>
+        <ul style="list-style-type: square;">
+            <li>have the number 2, <strong>OR</strong></li>
+            <li>are blue <em>but</em> the number is not 4</li>
+        </ul>
+        <p>Things are getting more complex. The solution is to start combining the rules into groups. We can still keep the first rule we had before, i.e.</p>
+        <ul>
+            <li>the number = 2</li>
+        </ul>
+        <p>But the second rule has to become a <em>combination</em> of rules, i.e. a group composed of:</p>
+        <ul style="list-style-type: square;">
+            <li>the colour is blue, <strong>AND</strong></li>
+            <li>the number is not 4</li>
+        </ul>
+        <p>The CLS manages this with a rule group. You click <strong>Add group</strong> (<strong>7</strong>) to create a group of one or more rules. The CLS moves the rules in this group over to the right a bit.</p>
+        <p>As the screenshot below shows, within the <strong>group</strong> of rules (<strong>2</strong>) we have entered:</p>
+        <ol style="list-style-type: decimal;" start="4">
+            <li>A rule that the colour is blue.</li>
+            <li>Another rule that the number is not equal to 4 (<strong>!=</strong> means <em>not equal</em>).</li>
+            <li>How to combine these: <strong>AND</strong>, that is, they both have to be true. </li>
+        </ol>
+        <p>This group of rules (<strong>2</strong>) is a kind of standalone unit. It is evaluated separately and then combined with the rule(s) above it.</p>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_6.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>So the main elements in the screenshot are now:</p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>A rule that the number = 2 (as before).</li>
+            <li>Our rule group (collection of rules) that is evaluated separately (to be true or false).</li>
+            <li>How to combine these two: <strong>OR</strong>, that is, at least one of these two has to be true.</li>
+        </ol>
+        <p>Notice that the rule group is indented to the right of the rule(s) that it is combined with. </p>
+        <p>You have now seen <em>all</em> the elements that you need to understand in order to use filters confidently. You will find that it gets easier after you have tried a couple of examples for yourself.</p>
+        <p>You may also have observed that at the very top level, without ever clicking <strong>Add group</strong>, you were actually creating one <em>master</em> rule group, i.e. a combination of rules and a way to logically combine them. You may also have guessed that you can create rule groups inside rule groups that are inside rule groups, and so on, if a <em>really</em> targetted selection must be made.</p>
+        <p>But what are the practical uses of filters in the CLS? One example is when you want to find out who hasn’t completed a certain Catalogue Item. You can go to Customisable Reports, select the Progress CLS entity, create two filters and combine them as below. This will select Progress items where the Catalogue item is “Health and Safety” <strong>and</strong> the Progress Status is Incomplete. A custom Report can list the desired User and progress details for every one of these.</p>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_7.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>You should now be ready to read the details about filters in the CLS <a href="Building Filters.htm#_Building_Filters"><span class="Hyperlink">here</span></a>. But first…</p>
+        <h2 class="Heading2">A joke about filters</h2>
+        <p>A Boolean logician has a baby. Her workmate phones and asks if it’s a boy or a girl. The logician replies “Yes!”</p>
+        <p>As we have seen, the Boolean OR has a different meaning from the everyday usage of the word. In the Boolean world (that filters exist in), if either is true, then the whole statement is true.</p>
+    </body>
+</html>

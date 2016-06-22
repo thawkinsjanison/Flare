@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Organisations.docx">
+  <TocEntry
+    Title="Organisations" />
+  <TocEntry
+    Title="Methods of creating an organisation" />
+  <TocEntry
+    Title="Search for organisation" />
+  <TocEntry
+    Title="Inspect organisation" />
+  <TocEntry
+    Title="Archive organisation" />
+  <TocEntry
+    Title="Archive via organisation list" />
+</CatapultToc>

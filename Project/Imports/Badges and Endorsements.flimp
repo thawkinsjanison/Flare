@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-22T17:42:53.9981429+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-22T17:43:13.6155412+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Badges and Endorsements.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Badges and Endorsements.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/Administrator Overview.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Badges and Endorsements/Administrator Overview.htm"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/Setup.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Badges and Endorsements/Setup.htm"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/2 Setup Enabling Endorsements.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/2 Setup Enabling Endorsements_1.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/2 Setup Enabling Endorsements_2.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Badges and Endorsements/2 Setup Enabling Endorsements.htm"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/3 Setup Endorsement Settings.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/3 Setup Endorsement Settings_1.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/3 Setup Endorsement Settings_2.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/3 Setup Endorsement Settings_3.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/3 Setup Endorsement Settings_4.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Badges and Endorsements/3 Setup Endorsement Settings.htm"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/Learner Overview.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Badges and Endorsements/Learner Overview.htm"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/Workflow.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/Workflow_1.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Badges and Endorsements/Workflow.htm"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/2 Workflow Endorsing other.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/2 Workflow Endorsing other_1.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/2 Workflow Endorsing other_2.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/2 Workflow Endorsing other_3.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Badges and Endorsements/2 Workflow Endorsing other.htm"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/3 Workflow Diagram of Workflow.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Badges and Endorsements/3 Workflow Diagram of Workflow_1.png"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Badges and Endorsements/3 Workflow Diagram of Workflow.htm"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../TOCs/Badges and Endorsements.fltoc"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="22/04/2015 5:43:11 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

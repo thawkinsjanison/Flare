@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-30T14:52:21.6860247+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-30T14:53:18.4569937+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Design/Panel type.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Panel type.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Course designer panels introduction.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Course designer panels introduction.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Introduction.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Introduction.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Plain text.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Plain text.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Reveal list.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Reveal list_1.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Reveal list_2.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Reveal list.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type pop up.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type pop up_1.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type pop up.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Accordion.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Accordion_1.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Accordion.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Tabbed content.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Tabbed content_1.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Tabbed content.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type reflection tiles.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type reflection tiles_1.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type reflection tiles_2.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type reflection tiles.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Slideshow.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Slideshow_1.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Slideshow_2.png"
+      TimeStamp="30/04/2015 2:53:14 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Slideshow.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Hotspot.png"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Hotspot.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Video.png"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Video_1.png"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Video_2.png"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Video.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel type1/Panel type Module progress.png"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Panel type1/Panel type Module progress.htm"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../TOCs/Panel type1.fltoc"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Panel type1.flmsp"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="30/04/2015 2:53:15 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+  </UsedCharacterStyles>
+</MsWordImport>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Design\Templates.docx">
+  <TocEntry
+    Title="Content templates introduction" />
+  <TocEntry
+    Title="Search for templates" />
+  <TocEntry
+    Title="Add new template" />
+  <TocEntry
+    Title="Export templates" />
+</CatapultToc>

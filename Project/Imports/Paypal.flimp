@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-24T15:41:22.8104727+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-24T15:41:45.1402915+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/settings/Paypal.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Paypal.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Paypal/Paypal introduction.htm"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup with Payflow Pro.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup with Payflow Pro_1.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup with Payflow Pro_2.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup with Payflow Pro_3.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup with Payflow Pro_4.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Paypal/Setup with Payflow Pro.htm"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup PayPal without Payflow.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup PayPal without Payflow_1.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup PayPal without Payflow_2.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Paypal/Setup PayPal without Payflow.htm"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Setup Self Enrolment.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Paypal/Setup Self Enrolment.htm"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Apply Changes to a Catalogue.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Apply Changes to a Catalogue_1.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Apply Changes to a Catalogue_2.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Paypal/Apply Changes to a Catalogue.htm"
+      TimeStamp="24/04/2015 3:41:43 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/The Self Enrolment Wizard.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/The Self Enrolment Wizard_1.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/The Self Enrolment Wizard_2.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Paypal/The Self Enrolment Wizard.htm"
+      TimeStamp="24/04/2015 3:41:43 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Viewing PayPal Transactions.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Paypal/Viewing PayPal Transactions_1.png"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Paypal/Viewing PayPal Transactions.htm"
+      TimeStamp="24/04/2015 3:41:43 PM" />
+    <Url
+      Source="../TOCs/Paypal.fltoc"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Paypal.flmsp"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="24/04/2015 3:41:42 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Heading 1 Char" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

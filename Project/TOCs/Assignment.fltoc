@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Assignments Introduction">
+    <TocEntry
+      Title="Assignment sections" />
+    <TocEntry
+      Title="Settings" />
+    <TocEntry
+      Title="Permissions" />
+    <TocEntry
+      Title="Marking Rubric" />
+    <TocEntry
+      Title="Competencies" />
+    <TocEntry
+      Title="Notifications" />
+    <TocEntry
+      Title="Making the Assignment available to the Learner" />
+    <TocEntry
+      Title="Learner experience of the assignment" />
+    <TocEntry
+      Title="Marker experience of the assignment." />
+    <TocEntry
+      Title="Assignment Summary" />
+    <TocEntry
+      Title="Submissions" />
+    <TocEntry
+      Title="Assignment Details" />
+    <TocEntry
+      Title="Recent Activities" />
+    <TocEntry
+      Title="Marking Progress Statuses" />
+  </TocEntry>
+</CatapultToc>

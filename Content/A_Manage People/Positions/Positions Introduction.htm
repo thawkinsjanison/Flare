@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="6" MadCap:lastHeight="2495" MadCap:lastWidth="1044">
+    <head>
+        <link href="../../Resources/Stylesheets/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Positions – Introduction</h1>
+        <p>One User’s experience of a CLS tenant can be totally different from another’s and it very often is. This is because a sophisticated interplay of factors come together to determine who and what a User can see in the system and what s/he can do with this. These factors include a User’s:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">membership of an <a href="../Organisations/Organisations Introduction.htm">Organisation</a> and Org Unit.</li>
+            <li style="list-style-type: disc;">Role(s), see <strong>Settings &gt; <a href="../../D_Settings/Roles/Roles Introduction.htm">Roles</a>.</strong></li>
+            <li style="list-style-type: disc;">membership of <a href="../Groups/Groups Introduction.htm">Group</a>(s).</li>
+            <li style="list-style-type: disc;">involvement in a Position-to-Position or User-to-User management hierarchy.</li>
+        </ul>
+        <p>There are two kinds of management hierarchies that can be set up in the CLS:</p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li><strong>User-to-User</strong> <![CDATA[ ]]></li>
+            <p>The items in the hierarchy are <em>Users</em>, e.g. User B reports to User A</p>
+        </ol>
+        <ol style="list-style-type: decimal;" start="2">
+            <li><strong>Position-to-Position</strong>
+            </li>
+            <p>The items in the hierarchy are <em>Positions</em>, e.g. the <em>Factory Manager </em>Position reports to the <em>CEO</em> Position. </p>
+            <p>In practice this is expressed through actual Users, so that those Users with the <em>Factory Manager</em> Position report to those Users with the <em>CEO</em> Position. Note that a Position can have one or more Users.</p>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Positions/Positions Introduction.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>Both options enable reporting hierarchies such that one item in the hierarchy can report to another item in the hierarchy, that itself reports to another item in the hierarchy, and so on. Each item in these structures ‘sees’:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;"><strong>Direct reports. </strong>This is material relating to the items that report to it (lists of Users, enrolments, etc).</li>
+            <li style="list-style-type: disc;"><strong>Indirect</strong> <strong>reports. </strong>In a sense the item also 'looks over the shoulders' of all the items beneath it in the hierarchy. So it also sees what the items that report to it see, plus what the items that report to <em>them</em> see, plus the level(s) beneath them, and so on, right to the bottom of the hierarchy.</li>
+        </ul>
+        <p>Thus, Users/Positions in a hierarchy have Users/Positions reporting to them both directly and indirectly. Every User/Position reports to another higher up the chain, except the one at the top.</p>
+        <p>Once Users have staff reporting to them via involvement in either kind of hierarchy, they become <strong style="font-weight: normal; font-style: italic;">managers</strong> and are automatically given the Implicit Role of User Manager. Note that this is different from an Explicit Role, which is one explicitly allocated to an individual User. You can make a User a manager of another User <em>outside</em> of a reporting hierarchy by using Explicit Roles, but this will not be part of a hierarchy and hence not show indirect reports.</p>
+        <p>To return to reporting hierarchies, if Users are managers in a reporting hierarchy, even those with a Basic User Role are given the rights to manage the staff that report to them, both directly and indirectly. The power of the User Manager Role can be extended and fine-tuned by editing it and changing the settings for Securable areas of the application, see <strong>Settings &gt; Roles</strong> for details. </p>
+        <p>As an indicative example, Users who become managers through a management hierarchy will see:</p>
+        <ul>
+            <li>A list of the Users managed by them, both directly and indirectly (and including themselves) in <strong>Manage People</strong>.</li>
+            <li>Enrolments and related functions (e.g. Approve Learning) for those Users in <strong>Manage Learning</strong>.</li>
+            <li>Access to Customisable Reports for those Users in <strong>Manage Learning</strong>.</li>
+        </ul>
+        <p>Depending on whether the appropriate plug-ins are installed, they may also see: </p>
+        <ul>
+            <li>CPD displays for those Users in their own <strong>My Learning</strong> screens.</li>
+            <li>Access to CPD and Competencies for those Users in <strong>Manage Learning</strong>.</li>
+        </ul>
+        <p>Of course, an individual User Manager is not limited to these; the list is expanded through, for example:</p>
+        <ul>
+            <li>Settings in Securable areas of the application that expand the power of the User Manager Role.</li>
+            <li>Other Roles that may have been added to the User through User Extra Roles.</li>
+        </ul>
+        <p>Note that if a User is the manager of another User who has, say, a Tenant Admin Role against a particular Catalogue Item, the manager User does not also have access to this Catalogue Item because management is about people and the progress of people. </p>
+        <p>The two management hierarchies are somewhat different. You set up a User hierarchy by:</p>
+        <ul>
+            <li>adding or editing Users, starting at the top so that <em>reports to</em> can be completed for subsequent Users further down the hierarchy.</li>
+        </ul>
+        <p>You set up a Positions hierarchy by:</p>
+        <ul>
+            <li>creating the Positions, starting at the top so that<em> reports to </em>can be completed for subsequent Positions further down the hierarchy, then</li>
+            <li>assigning Positions to Users using the add/edit User screen.</li>
+        </ul>
+        <p>The differences between the two kinds of management hierarchies are summarised below:</p>
+        <table style="mc-table-style: url('../../Resources/Stylesheets/PatternedRows.css');" class="TableStyle-PatternedRows" cellspacing="0">
+            <col class="TableStyle-PatternedRows-Column-Regular" />
+            <col style="width: 320px;" class="TableStyle-PatternedRows-Column-Regular" />
+            <col class="TableStyle-PatternedRows-Column-Regular" />
+            <tbody>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td rowspan="2" class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>&#160;</p>
+                    </td>
+                    <td colspan="2" class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p style="text-align: center;"><b>Management Hierarchy</b>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p><b>User-to-User</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p><b>Position-to-Position</b>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p><b>Direct and Indirect reports?</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>yes</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>yes</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p><b>Reports to</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>another User</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>another Position</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p><strong>Reports to</strong> set up</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>for a User</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>for a Position</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p><b>Reports to </b>
+                            shown at
+                        </p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>User details screen</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>Position details screen</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p><b>Reports on </b>set up
+                        </p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>for the User(s) underneath this User in the hierarchy</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>for the Position(s) underneath this Position in the hierarchy</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p><b>Reports on </b>
+                            shown at
+                        </p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>no</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>Position details screen</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p><b>User Reports to &gt;1 User?</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>no</p>
+                        <p>A User can only report to one User.</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>yes </p>
+                        <p>A Position can report to a Position that has multiple Users holding it, e.g. a job share.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyB-Regular-DarkerRows">
+                        <p><b>Report to User/Position another Org Unit?</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyB-Regular-DarkerRows">
+                        <p>yes</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyA-Regular-DarkerRows">
+                        <p>yes</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

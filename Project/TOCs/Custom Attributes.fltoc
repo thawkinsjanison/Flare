@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Custom Attributes - Introduction"
+    Link="/Content/D_Settings/Custom Attributes/Custom Attributes Introduction.htm" />
+  <TocEntry
+    Title="Manage Custom Attributes"
+    Link="/Content/D_Settings/Custom Attributes/Manage Custom Attributes.htm" />
+  <TocEntry
+    Title="Add Custom Attribute"
+    Link="/Content/D_Settings/Custom Attributes/Add Custom Attribute.htm" />
+  <TocEntry
+    Title="Edit Custom Attribute"
+    Link="/Content/D_Settings/Custom Attributes/Edit Custom Attribute.htm" />
+  <TocEntry
+    Title="Add Custom Attribute Set"
+    Link="/Content/D_Settings/Custom Attributes/Add Custom Attribute Set.htm" />
+  <TocEntry
+    Title="Import Custom Attribute Set"
+    Link="/Content/D_Settings/Custom Attributes/Import Custom Attribute Set.htm" />
+  <TocEntry
+    Title="Custom Attributes and Self Enrolment Questions"
+    Link="/Content/D_Settings/Custom Attributes/Custom Attributes and Self.htm" />
+</CatapultToc>

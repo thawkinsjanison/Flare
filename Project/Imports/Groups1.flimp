@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-09-01T17:18:37.7436309+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-09-01T17:19:24.2989598+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Manage people/Groups.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Manage people/Groups.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Groups Introduction.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Groups Introduction_1.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Groups Introduction_2.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Groups Introduction.htm"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Uses of Groups.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Uses of Groups_1.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Uses of Groups_2.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Uses of Groups_3.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Uses of Groups.htm"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Manage Groups.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Manage Groups.htm"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Inspect Group details.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Inspect Group details_1.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Inspect Group details_2.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Inspect Group details.htm"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Adding a Group.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Adding a Group_1.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Adding a Group_2.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Adding a Group_3.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Adding a Group_4.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Adding a Group_5.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Adding a Group.htm"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Search for a Group.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Search for a Group.htm"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Edit Group.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Edit Group_1.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Edit Group_2.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Edit Group.htm"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Import Users.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Import Users_1.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Import Users_2.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Import Users.htm"
+      TimeStamp="1/09/2015 5:19:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Archive a Group.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Archive a Group_1.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Archive a Group.htm"
+      TimeStamp="1/09/2015 5:19:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Import memberships into a.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Import memberships into a_1.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Groups1/Import memberships into a_2.png"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Groups1/Import memberships into a.htm"
+      TimeStamp="1/09/2015 5:19:18 PM" />
+    <Url
+      Source="../TOCs/Groups1.fltoc"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Groups1.flmsp"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="1/09/2015 5:19:17 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

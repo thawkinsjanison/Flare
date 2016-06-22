@@ -1,0 +1,1085 @@
+﻿  <style type="text/css">
+#slideData img {
+max-width: 300px;
+}
+</style>
+
+<div id="slideshow-outer" class="slideshow-loading controls-inside">
+<div id="slideshow">
+<a id="slide-prev" class="cycle-prev" href="#"></a>
+<a id="slide-next" class="cycle-next" href="#"></a>
+<div id="slide-pager" class="cycle-pager"></div>
+<div id="slide-caption" class="cycle-caption"></div>
+<div id="slide-overlay" class="cycle-overlay"></div>
+</div>
+</div>
+
+<div id="slidemedia-outer">
+<div id="slidemedia"></div>
+</div>
+
+<div id="templateOptions">
+
+<!-- Slide Data -->
+
+<table id="slideData" border="1" style="border-collapse:collapse;" cellpadding="10" width="100%">
+<tr class="ignore">
+<th colspan="6" style="background-color:#ccc;">
+<h3>Slide Data</h3>
+</th>
+</tr>
+<tr class="ignore">
+<td colspan="6" style="background-color:#fcf8e3; font-weight:normal;">
+<p>Insert an <strong>Image</strong> for each slide in the slideshow. Optionally add some <strong>Overlay</strong> text, an MP3 <strong>Audio</strong> clip, set a specific effect <strong>FX</strong> for the transition (<code>none</code>, <code>fade</code>, <code>fadeout</code>, or <code>scrollHorz</code>), choose the transition animation <strong>Speed</strong> (1000 = 1 second animation) and the <strong>Timeout</strong> speed for a slide that progresses to the next slide in an auto-running slideshow (4000 = 4 seconds viewing the slide).</p>
+</td>
+</tr>
+<tr class="ignore">
+<th style="background-color:#eee;">Image</th>
+<th style="background-color:#eee;">Overlay</th>
+<th style="background-color:#eee;">Audio</th>
+<th style="background-color:#eee;">fx</th>
+<th style="background-color:#eee;">speed</th>
+<th style="background-color:#eee;">timeout</th>
+</tr>
+<tr>
+<td><img src="/Content/images/logon-bg.jpg" width="317" height="176" /></td>
+<td>The logon background image.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="/Content/images/rego-bg.jpg" width="317" height="176" /></td>
+<td>The registration background.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="/Content/images/default-portrait-male.png" /></td>
+<td>The <a href="http://www.janison.com.au">Janison</a> default Male portrait</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><img src="/Content/images/default-portrait-female.png" /></td>
+<td>... and the Female portrait.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<!-- Pannel Options -->
+
+<table id="panelOptions" border="1" style="border-collapse:collapse;" width="100%">
+<tr class="ignore">
+<th colspan="5" style="background-color:#ccc;">
+<h3>Panel Options</h3>
+</th>
+</tr>
+<tr class="ignore">
+<th style="background-color:#eee;">Name</th>
+<th style="background-color:#eee;">Type</th>
+<th style="background-color:#eee;">Default Value</th>
+<th style="background-color:#eee;">Custom Value</th>
+<th style="background-color:#eee;">Description</th>
+</tr>
+<tr class="ignore">
+<td colspan="6" style="background-color:#fcf8e3; font-weight:normal;">
+<p>Override a <strong>Default Value</strong> by entering your setting in the <strong>Custom Value</strong> field.</p>
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">content-completed-percentage</th>
+<td>number</td>
+<td>0</td>
+<td>100</td>
+<td>
+Percentage of content that needs to be viewed to mark this interactive content as being "completed". Default is <code>100</code> indicating that <em>100%</em> of the slides need to be viewed. If set to <code>0</code> the content is marked as complete as soon as the slideshow loads. If set to <code>50</code> then half of the slides need to be viewed. 
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-container-outer</th>
+<td>jQuery selector</td>
+<td>#slideshow-outer</td>
+<td></td>
+<td>
+A jQuery ID selector which identifies an element that wraps the Cycle2 element.
+<div class="info">
+We currently only support <strong>ONE slideshow</strong> on the page.
+</div>
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-container</th>
+<td>jQuery selector</td>
+<td>#slideshow</td>
+<td></td>
+<td>
+A jQuery ID selector which identifies the element that should be initialized by Cycle2.
+<div class="info">
+We currently only support <strong>ONE slideshow</strong> on the page.
+</div>
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-controls-inside</th>
+<td>boolean</td>
+<td>true</td>
+<td>false</td>
+<td>
+Determines if the controls <code>prev</code>, <code>next</code>, <code>pager</code>, <code>caption</code> and <code>overlay</code> will be "inside" the slideshow (overlaying the image). If set to <code>false</code> the controls will sit under the image. 
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-outer-no-padding</th>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>
+When <code>slideshow-controls-inside</code> is set to <code>false</code> the slideshow's outer wrapper has enough padding for the <code>prev</code> and <code>next</code> controls to not overlap the slideshow. If <code>slideshow-outer-no-padding</code> is set to <code>true</code> this outer padding is removed resulting in the slideshow having more width and the <code>prev</code> and <code>next</code> buttons overlapping the slideshow.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-outer-forced-width</th>
+<td>integer</td>
+<td>false</td>
+<td></td>
+<td>
+Force a specific width on the slideshow's outer container. Only works with a pixel integer value e.g. for <code>500px</code> enter <code>500</code>. Set to <code>false</code> to disable forced width.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-outer-forced-height</th>
+<td>integer</td>
+<td>false</td>
+<td></td>
+<td>
+Force a specific height on the slideshow's outer container. Only works with a pixel integer value e.g. for <code>500px</code> enter <code>500</code>. Set to <code>false</code> to disable forced width.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-forced-width</th>
+<td>integer</td>
+<td>false</td>
+<td></td>
+<td>
+Force a specific width on the slideshow container. Only works with a pixel integer value e.g. for <code>300px</code> enter <code>300</code>. Set to <code>false</code> to disable forced width.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-forced-height</th>
+<td>integer</td>
+<td>false</td>
+<td></td>
+<td>
+Force a specific height on the slideshow container. Only works with a pixel integer value e.g. for <code>300px</code> enter <code>300</code>. Set to <code>false</code> to disable forced height.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-wide</th>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>
+Makes the slideshow better on a wide (100%) pannel.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-background-color</th>
+<td>CSS color</td>
+<td>false</td>
+<td></td>
+<td>
+A CSS <a href="http://www.w3schools.com/tags/ref_colorpicker.asp">color</a> value to use as the background-colour of the slideshow e.g. <code>#FFFFFF</code> for white. Set to <code>false</code> to use the already set CSS styles. If a slide uses the "fade" transition (fx) you will see the color during the fade animation. If you use "fadeout" you won't see the background color (instead you see the next image during the fade animation).
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slideshow-background-image</th>
+<td>URL</td>
+<td>none</td>
+<td></td>
+<td>
+A URL to an image that will be used as the background-image for the slideshow. The image is positioned in the center of the slideshow and can be seen between "fade" transitions. This may be useful for showing a "loading" GIF image during transitions to large images.
+</td>
+</tr>
+</table>
+
+<!-- Slideshow Options -->
+
+<table id="slideOptions" border="1" style="border-collapse:collapse;" width="100%">
+<thead>
+<tr class="ignore">
+<th colspan="6" style="background-color:#ccc;">
+<h3>Slideshow Settings (for Cycle2)</h3>
+</th>
+</tr>
+<tr class="ignore">
+<td colspan="6" style="background-color:#fcf8e3; font-weight:normal;">
+<p>Override a <strong>Default Value</strong> by entering your setting in the <strong>Custom Value</strong> field.</p>
+
+<p>We are using <a href="http://jquery.malsup.com/cycle2/">Cycle2 jQuery Plugin</a> for our slideshow (read the <a href="http://jquery.malsup.com/cycle2/api/">API</a> and checkout the <a href="http://jquery.malsup.com/cycle2/demo/">DEMOS</a>).</p>
+
+<p>Options in the table below that have a "•" symbol could be overridden on individual slide elements in order to have specific properties for specific slides. <em>However</em>, this Janison template currently only supports: <code>fx</code>, <code>speed</code> and <code>timeout</code> settings on a per-slide-basis (these are set in the <code>Panel Data</code> table above).</p>
+</td>
+</tr>
+<tr class="ignore">
+<th style="background-color:#eee;">Name</th>
+<th style="background-color:#eee;">•</th>
+<th style="background-color:#eee;">Type</th>
+<th style="background-color:#eee;">Default Value</th>
+<th style="background-color:#eee;">Custom Value</th>
+<th style="background-color:#eee;">Description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<th style="background-color:#eee;">allow-wrap</th>
+<td></td>
+<td>boolean</td>
+<td>true</td>
+<td>false</td>
+<td>
+This option determines whether or not a slideshow can advance from the last slide to the first (or vice versa). If set to <code>false</code> then once a slideshow reaches its last slide it can no longer be advanced forward, it can only advance backward. Likewise, when a slideshow is displaying the first slide it can not advance backward.
+
+<p>By default a slideshow will advance seamlessly from the last slide to the first.</p>
+</td>
+</tr>
+<!-- Janison Note: 'auto-height' of 'calc' is desired. But it only works when 'loader' is set to 'wait'. So I'm commenting out both of these options and forcing the settings in JavaScript via SLIDE.initUserSlideOptions({ autoHeight: 'calc', loader: 'wait' }); -->
+<!--
+<tr id="auto-height">
+<th style="background-color:#eee;">auto-height</th>
+<td></td>
+<td>integer or ratio</td>
+<td>0</td>
+<td>calc</td>
+<td>
+<p>This option determines whether or not Cycle2 will provide height management for the slideshow which can be very useful in fluid or responsive designs. There are three ways this option can be used:</p>
+
+<ul>
+<li>an integer can be provided to identify the zero-based slide index for a <em>sentinel</em> slide</li>
+
+<li>the string "calc" can be provided to instruct Cycle2 to calculate the tallest slide and use it as the sentinel</li>
+
+<li>a ratio string can be provided which identifies the width:height aspect ratio for the container</li>
+</ul>By default, the slideshow's first slide is used as the <em>sentinel</em> slide and its demensions will control the height of the slideshow container if the container does not have a specific height set via CSS.
+
+<p>To force the slideshow container to a specific aspect ratio, for example to hold a set of images that are 600x400, use a ratio string like this:</p>
+<pre>data-cycle-auto-height="600:400"</pre>
+
+<p>To disable height management, set this option's value to <code>-1</code> or <code>false</code>.</p>
+
+<p>See <a href="http://jquery.malsup.com/cycle2/demo/autoheight.php">Auto Height demo</a> for more info.</p>
+</td>
+</tr>
+-->
+<!--
+<tr>
+<th style="background-color:#eee;">autoSelector<br>
+<span class="softer">(programmatic use only)</span></th>
+<td></td>
+<td>jQuery selector</td>
+<td>.cycle-slideshow[data-cycle-auto-init!=false]</td>
+<td></td>
+<td>
+A jQuery selector which identifies elements that should be initialized automatically by Cycle2. The default value is <code>.cycle-slideshow</code>. Add the <code>cycle-slideshow</code> class to your slideshow container and Cycle2 will automatically find and initialize it when the DOM ready event fires.
+
+<div class="info">
+This value can only be changed programmatically and it can <strong>not</strong> be changed after the DOM ready event has fired. To change, include script like this <em><strong>after</strong></em> Cycle2 has loaded and <em><strong>before</strong></em> the <em>ready</em> event fires:
+<pre>$.fn.cycle.defaults.autoSelector = '.mySlideshows';</pre>
+</div>
+</td>
+</tr>
+-->
+<tr>
+<th style="background-color:#eee;">caption</th>
+<td></td>
+<td>jQuery selector</td>
+<td>&gt; .cycle-caption</td>
+<td>#slide-caption</td>
+<td>A selector which identifies the element that should be used for the slideshow caption. By default, Cycle2 looks for an element with the class <code>.cycle-caption</code> that exists <em><strong>within</strong></em> the slideshow container.</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">caption-template</th>
+<td><span class="badge">•</span></td>
+<td>string</td>
+<td>[[slideNum]] / [[slideCount]]</td>
+<td></td>
+<td>
+A template string which defines how the slideshow caption should be formatted. The template can reference real-time <a href="http://jquery.malsup.com/cycle2/api/#state">state</a> information from the slideshow, such as the current slide index, etc.<br>
+
+<p>Cycle2 uses simple <a href="http://mustache.github.io/">Mustache</a>-style templates by default.</p>
+</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">delay</th>
+<td></td>
+<td>integer</td>
+<td>0</td>
+<td></td>
+<td>The number of milliseconds to add onto, or substract from, the time before the first slide transition occurs.</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">disabled-class</th>
+<td></td>
+<td>string</td>
+<td>disabled</td>
+<td></td>
+<td>
+The classname to assign to prev/next links when they cannot be activated (due to <code>data-cycle-allow-wrap="false"</code>.
+
+<div class="info">
+The value of this option should <em><strong>not</strong></em> include a preceding "dot".
+</div>
+</td>
+</tr>
+<!--
+<tr>
+<th style="background-color:#eee;">easing</th>
+<td><span class="badge">•</span></td>
+<td>string</td>
+<td>null</td>
+<td></td>
+<td>Name of the easing function to use for animations.</td>
+</tr>
+-->
+<tr>
+<th style="background-color:#eee;">fx</th>
+<td><span class="badge">•</span></td>
+<td>string</td>
+<td>fade</td>
+<td>fadeout</td>
+<td>The name of the slideshow transition to use. The following transition names are available by default and more can be added with plugins: <code>fade</code>, <code>fadeout</code>, <code>none</code>, and <code>scrollHorz</code>.</td>
+</tr>
+<!--
+<tr>
+<th style="background-color:#eee;">hide-non-active</th>
+<td></td>
+<td>boolean</td>
+<td>true</td>
+<td></td>
+<td>Determines whether or not Cycle2 hides the inactive slides.</td>
+</tr>
+-->
+<!-- Janison Note: 'auto-height' of 'calc' is desired. But it only works when 'loader' is set to 'wait'. So I'm commenting out both of these options and forcing the settings in JavaScript via SLIDE.initUserSlideOptions({ autoHeight: 'calc', loader: 'wait' }); -->
+<!--
+<tr>
+<th style="background-color:#eee;">loader</th>
+<td></td>
+<td>true | false | wait</td>
+<td>false</td>
+<td>wait</td>
+<td>
+The <em>loader</em> option sets the image loader behavior for the slideshow. <a href="http://jquery.malsup.com/cycle2/demo/loader.php">Example</a>.
+
+<ul>
+<li><code>false</code> disabled loader functionality</li>
+
+<li><code>true</code> load slides as images arrive</li>
+
+<li><code>"wait"</code> wait for all images to arrive before starting slideshow</li>
+</ul>
+</td>
+</tr>
+-->
+<tr id="log">
+<th style="background-color:#eee;">log</th>
+<td></td>
+<td>boolean</td>
+<td>true</td>
+<td>false</td>
+<td>Set to <code>false</code> to disable console loggin. Enable it to help with debugging.</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">loop</th>
+<td></td>
+<td>integer</td>
+<td>0</td>
+<td></td>
+<td>
+The number of times an auto-advancing slideshow should loop before terminating. If the value is less than 1 then the slideshow will loop continuously. Set to 1 to loop once, etc.
+
+<div class="info">
+Setting the <code>allow-wrap</code> option to false will override looping.
+</div>
+</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">manual-speed</th>
+<td><span class="badge">•</span></td>
+<td>integer</td>
+<td>undefined</td>
+<td></td>
+<td>The speed (in milliseconds) for transitions that are manually initiated, such as those caused by clicking a "next" button or a pager link. By default, manual transitions occur at the same speed as automatic (timer-based) transitions.</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">manual-trump</th>
+<td></td>
+<td>boolean</td>
+<td>true</td>
+<td></td>
+<td>Determines whether or not transitions are interrupted to begin new ones if the new ones are the result of a user action (not timer)</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">next</th>
+<td></td>
+<td>jQuery selector</td>
+<td>&gt; .cycle-next</td>
+<td>#slide-next</td>
+<td>A selector string which identifies the element (or elements) to use as a trigger to advance the slideshow forward. By default, Cycle2 looks for an element with the class <code>.cycle-next</code> that exists <em><strong>within</strong></em> the slideshow container.<br />
+Entering 'courseplayer' as the element identifier will force the slideshow to use the main 'Previous' &amp; 'Next' controls as the slideshow naviagtion.
+</td>
+</tr>
+<!--
+<tr>
+<th style="background-color:#eee;">next-event</th>
+<td></td>
+<td>jQuery selector</td>
+<td>click.cycle</td>
+<td></td>
+<td>The event to bind to elements identified with the <code>next</code> option. By default, Cycle2 binds click events.</td>
+</tr>
+-->
+<tr>
+<th style="background-color:#eee;">overlay</th>
+<td></td>
+<td>jQuery selector</td>
+<td>&gt; .cycle-overlay</td>
+<td>#slide-overlay</td>
+<td>A selector string which identifies the element to use as the overlay element. A slideshow overlay typically provides information about the current slide. By default, Cycle2 looks for an element with the class <code>.cycle-overlay</code> that exists <em><strong>within</strong></em> the slideshow container.</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">overlay-template</th>
+<td><span class="badge">•</span></td>
+<td>string</td>
+<td>&lt;div&gt;[[title]]&lt;/div&gt;&lt;div&gt;[[desc]]&lt;/div&gt;</td>
+<td>&lt;div&gt;[[overlay]]&lt;/div&gt;</td>
+<td>
+A template string which defines how the overlay should be formatted. The template can reference real-time <a href="http://jquery.malsup.com/cycle2/api/#state">state</a> information from the slideshow, such as the current slide index, etc.<br>
+
+<p>Cycle2 uses simple Mustache-style templates by default.</p>
+</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">pager</th>
+<td></td>
+<td>jQuery selector</td>
+<td>&gt; .cycle-pager</td>
+<td>#slide-pager</td>
+<td>A selector string which identifies the element to use as the container for pager links. By default, Cycle2 looks for an element with the class <code>.cycle-pager</code> that exists <em><strong>within</strong></em> the slideshow container.</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">pager-active-class</th>
+<td></td>
+<td>string (css classname)</td>
+<td>cycle-pager-active</td>
+<td></td>
+<td>
+The classname to assign to pager links when a particular link references the currently visible slide.
+
+<div class="info">
+The value of this option should <em><strong>not</strong></em> include a preceding "dot".
+</div>
+</td>
+</tr>
+<!--
+<tr>
+<th style="background-color:#eee;">pager-event</th>
+<td></td>
+<td>string (event name)</td>
+<td>click.cycle</td>
+<td></td>
+<td>The type of event that is bound on the pager links. By default, Cycle2 binds click events.</td>
+</tr>
+-->
+<tr>
+<th style="background-color:#eee;">pager-template</th>
+<td><span class="badge">•</span></td>
+<td>string</td>
+<td>&lt;span&gt;&amp;bull;&lt;/span&gt;</td>
+<td>&lt;a href="#"&gt;&lt;/a&gt;</td>
+<td>
+A template string which defines how the pager links should be formatted. The template can reference real-time <a href="http://jquery.malsup.com/cycle2/api/#state">state</a> information from the slideshow as each slide is added.
+
+<p>The default pager link is simply a bullet.</p>
+
+<p>Cycle2 uses simple Mustache-style templates by default.</p>
+</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">pause-on-hover</th>
+<td></td>
+<td>boolean or string</td>
+<td>false</td>
+<td></td>
+<td>
+If <code>true</code> an auto-running slideshow will be paused while the mouse is over the slideshow.
+
+<div class="info">
+You may also specify a jQuery selector string for the value in order to specify the element(s) to which the hover events should be bound.
+</div>
+</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">paused</th>
+<td></td>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>If <code>true</code> the slideshow will begin in a <em>paused</em> state.</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">prev</th>
+<td></td>
+<td>jQuery selector</td>
+<td>&gt; .cycle-prev</td>
+<td>#slide-prev</td>
+<td>A selector string which identifies the element (or elements) to use as a trigger to advance the slideshow backward. By default, Cycle2 looks for an element with the class <code>.cycle-prev</code> that exists <em><strong>within</strong></em> the slideshow container.<br />
+Enter ing 'courseplayer' as the element identifier will force the slideshow to use the main 'Previous' &amp; 'Next' controls as the slideshow naviagtion.
+</td>
+</tr>
+<!--
+<tr>
+<th style="background-color:#eee;">prev-event</th>
+<td></td>
+<td>string (event name)</td>
+<td>click.cycle</td>
+<td></td>
+<td>The type of event that is bound on the prev and next links. By default, Cycle2 binds click events.</td>
+</tr>
+-->
+<!--
+<tr>
+<th style="background-color:#eee;">progressive</th>
+<td></td>
+<td>selector string</td>
+<td>undefined</td>
+<td></td>
+<td>
+Identifies an element in the DOM which holds a JSON array representing the slides to be progressively loaded into the slideshow. <a href="http://jquery.malsup.com/cycle2/demo/progressive.php">Example</a>.
+</td>
+</tr>
+-->
+<tr id="random">
+<th style="background-color:#eee;">random</th>
+<td></td>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>If <code>true</code> the order of the slides will be randomized. This only effects slides that are initially in the markup, not slides added via the <em>add</em> command or via Cycle2's image loader functionality.</td>
+</tr>
+<!--
+<tr id="reverse">
+<th style="background-color:#eee;">reverse</th>
+<td></td>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>If <code>true</code> the slideshow will proceed in reverse order and transitions that support this option will run a reverse animation.</td>
+</tr>
+-->
+<tr>
+<th style="background-color:#eee;">slide-active-class</th>
+<td></td>
+<td>string</td>
+<td>cycle-slide-active</td>
+<td></td>
+<td>
+The classname to assign to the active slide.
+
+<div class="info">
+The value of this option should <em><strong>not</strong></em> include a preceding "dot".
+</div>
+</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">slide-css</th>
+<td><span class="badge">•</span></td>
+<td>object hash</td>
+<td>{ position: 'absolute', top: 0, left: 0 }</td>
+<td></td>
+<td>An object which defines css properties that should be applied to each slide as it is initialized (once).</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">slide-class</th>
+<td></td>
+<td>string</td>
+<td>cycle-slide</td>
+<td></td>
+<td>Name of the <em>class</em> to add to each slide.</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">slides</th>
+<td></td>
+<td>jQuery selector</td>
+<td>&gt; img</td>
+<td></td>
+<td>
+A selector string which identifies the elements within the slideshow container that should become slides.
+
+<p>By default, Cycle2 finds all image elements that are immediate children of the slideshow container.</p>
+</td>
+</tr>
+
+<tr>
+<th style="background-color:#eee;">speed</th>
+<td><span class="badge">•</span></td>
+<td>integer</td>
+<td>500</td>
+<td></td>
+<td>The speed of the transition effect in milliseconds.</td>
+</tr>
+
+<tr id="starting-slide">
+<th style="background-color:#eee;">starting-slide</th>
+<td></td>
+<td>integer</td>
+<td>0</td>
+<td></td>
+<td>The zero-based index of the slide that should be initially displayed.</td>
+</tr>
+<!-- Janison Course Player captures "swipe" events to navigate to the next page... this prevents the slideshow from making use of the "swipe" plugin.
+<!--
+<tr>
+<th style="background-color:#eee;">swipe</th>
+<td></td>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>Set to <code>true</code> to enable swipe gesture support for advancing the slideshow forward or back.</td>
+</tr>
+-->
+<tr id="sync">
+<th style="background-color:#eee;">sync</th>
+<td></td>
+<td>boolean</td>
+<td>true</td>
+<td></td>
+<td>If <code>true</code> then animation of the incoming and outgoing slides will be synchronized. If <code>false</code> then the animation for the incoming slide will not start until the animation for the outgoing slide completes.</td>
+</tr>
+
+<tr id="timeout">
+<th style="background-color:#eee;">timeout</th>
+<td><span class="badge">•</span></td>
+<td>integer</td>
+<td>4000</td>
+<td>0</td>
+<td>The time between slide transitions in milliseconds. Set to <code>0</code> to prevent automatic slide transition (i.e. user must manually click "next" to progress to the next slide).</td>
+</tr>
+<!--
+<tr>
+<th style="background-color:#eee;">tmpl-regex</th>
+<td><span class="badge">•</span></td>
+<td>string</td>
+<td>[[((.)?.*?)]]</td>
+<td></td>
+<td>The default regular expression used for template tokenization.</td>
+</tr>
+-->
+<tr id="update-view">
+<th style="background-color:#eee;">update-view</th>
+<td></td>
+<td>number</td>
+<td>-1</td>
+<td></td>
+<td>
+Determines when the <code>updateView</code> method is invoked (and event is triggered).
+
+<p>If the value is -1 then updateView is invoked immediately upon the beginning of a slide transition and again immediately after the transition.</p>
+
+<p>If the value is 1 then updateView is only invoked immediately after a slide transition.</p>
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">caption-plugin</th>
+<td></td>
+<td>string</td>
+<td>undefined</td>
+<td>caption2</td>
+<td>
+This <strong>must</strong> be set to <code>"caption2"</code> to enable this plugin.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">caption-fx-out</th>
+<td></td>
+<td>string</td>
+<td>fadeOut</td>
+<td>hide</td>
+<td>
+Animation <em>out</em> effect for caption. Set to <code>hide</code> to prevent fx.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">caption-fx-in</th>
+<td></td>
+<td>string</td>
+<td>fadeIn</td>
+<td>show</td>
+<td>
+Animation <em>in</em> effect for caption. Set to <code>show</code> to prevent fx.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">caption-fx-sel</th>
+<td></td>
+<td>jQuery selector</td>
+<td>undefined</td>
+<td></td>
+<td>
+Selector to identify the elements <em>within</em> the caption that should be animated. Leave <code>undefined</code> to animate the entire caption element.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">overlay-fx-out</th>
+<td></td>
+<td>string</td>
+<td>fadeOut</td>
+<td></td>
+<td>
+Animation <em>out</em> effect for overlay. Set to <code>undefined</code> to prevent fx.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">overlay-fx-in</th>
+<td></td>
+<td>string</td>
+<td>fadeIn</td>
+<td></td>
+<td>
+Animation <em>in</em> effect for overlay. Set to <code>undefined</code> to prevent fx.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">overlay-fx-sel</th>
+<td></td>
+<td>string</td>
+<td>undefined</td>
+<td>&gt; *</td>
+<td>
+Selector to identify the elements <em>within</em> the overlay that should be animated. Leave <code>undefined</code> to animate the entire overlay element.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">center-horz</th>
+<td></td>
+<td>boolean</td>
+<td>false</td>
+<td>true</td>
+<td>
+Set to <code>true</code> to enable horizontal auto-centering of your slides.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">center-vert</th>
+<td></td>
+<td>boolean</td>
+<td>false</td>
+<td>true</td>
+<td>
+Set to <code>true</code> to enable vertical auto-centering of your slides.
+</td>
+</tr>
+</tbody>
+</table>
+
+<!-- Slide Media Options -->
+
+<table id="slideMediaOptions" border="1" style="border-collapse:collapse;" width="100%">
+<tr class="ignore">
+<th colspan="5" style="background-color:#ccc;">
+<h3>Slide Media Options</h3>
+</th>
+</tr>
+<tr class="ignore">
+<th style="background-color:#eee;">Name</th>
+<th style="background-color:#eee;">Type</th>
+<th style="background-color:#eee;">Default Value</th>
+<th style="background-color:#eee;">Custom Value</th>
+<th style="background-color:#eee;">Description</th>
+</tr>
+<tr class="ignore">
+<td colspan="6" style="background-color:#fcf8e3; font-weight:normal;">
+<p>Override a <strong>Default Value</strong> by entering your setting in the <strong>Custom Value</strong> field.</p>
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">flash-player-url</th>
+<td>string</td>
+<td>/Scripts/jwplayer/player.swf</td>
+<td></td>
+<td>
+URL to JWPlayer swf file (tested using JWPlayer version 5.10.2295)
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">flash-player-skin</th>
+<td>string</td>
+<td>/Scripts/jwplayer/skins/five-20/five-20.zip</td>
+<td></td>
+<td>
+URL to JWPlayer skin file (for theming the player). See <a href="http://www.longtailvideo.com/addons/skins?q=&category=skins&pageID=1" target="_blank">more JWPlayer v5.x skins</a>.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slidemedia-container-outer</th>
+<td>jQuery selector</td>
+<td>#slidemedia-outer</td>
+<td></td>
+<td>
+A jQuery ID selector which identifies an element that wraps the Slide Media (JWPlayer).
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">slidemedia-container</th>
+<td>jQuery selector</td>
+<td>#slidemedia</td>
+<td></td>
+<td>
+A jQuery ID selector which identifies the element that should be initialized by JWPlayer
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">set-container-min-height</th>
+<td>boolean</td>
+<td>true</td>
+<td></td>
+<td>
+If set to <code>true</code> the <code>slidemedia-container-outer</code> element will be given a CSS <code>min-height</code> equal to the media players <code>height</code>. This prevents the slideshow container height from "jumping" up in height when the media player is loaded and added to the page. Most useful when navigating between slides with media, to slides without media.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">height</th>
+<td>string</td>
+<td>20px</td>
+<td></td>
+<td>
+Height of the media player. Note: <code>20px</code> sets JWPlayer as a "mini-player" for audio.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">width</th>
+<td>string</td>
+<td>100%</td>
+<td></td>
+<td>
+Width of the media player.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">preview</th>
+<td>string</td>
+<td>undefined</td>
+<td></td>
+<td>
+File path to an image that will be displayed as a placeholder while media content is loaded
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">autostart</th>
+<td>boolean</td>
+<td>true</td>
+<td></td>
+<td>
+Should media automatically play when the slide has finished loading. If set to <code>false</code> then the user must click the <em>play</em> button to start media playback.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">is-audio</th>
+<td>boolean</td>
+<td>true</td>
+<td></td>
+<td>
+Optimise the media player for audio playback. Note: if set to <code>false</code> the media play can be used to display videos - but video functionality has not been fully tested.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">repeat</th>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>
+Should media loop it's playback i.e. keep on repeating over and over.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">clear-on-nav</th>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>
+Should media be completely removed when you navigate to another slide in the slideshow, then re-created when you return to this slide. When set to <code>true</code> this setting takes precedence over <code>hide-on-nav</code> (because the media is litterally removed from the DOM).
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">hide-on-nav</th>
+<td>boolean</td>
+<td>true</td>
+<td></td>
+<td>
+Should media be hidden (and stop playing) when you navigate to another slide in the slideshow. If set to <code>false</code> the player will still be visible and playing (unless you set <code>pause-on-nav</code>) when you navigate to other slides.
+</td>
+</tr>
+<tr>
+<th style="background-color:#eee;">pause-on-nav</th>
+<td>boolean</td>
+<td>false</td>
+<td></td>
+<td>
+When <code>hide-on-nav</code> is <code>true</code> should the audio be "paused" so that when you return to the slide it will continue playing from where it left off. If set to <code>false</code> the audio will start playback from the begining when you return to the slide. If <code>hide-on-nav</code> is <code>false</code> and <code>pause-on-nav</code> is <code>true</code> the media remains visible, but is paused as you navigate away from the slide that started it.
+</td>
+</tr>
+</table>
+
+</div>

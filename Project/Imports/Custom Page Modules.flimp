@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-11-10T16:51:53.3071163+11:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-11-10T16:52:46.7021124+11:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Design/Custom Page Modules.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Custom Page Modules.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Custom Page Modules Introduction.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Custom Page Modules/Custom Page Modules Introduction.htm"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Create a Custom Page module.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Create a Custom Page module_1.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Create a Custom Page module_2.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Custom Page Modules/Create a Custom Page module.htm"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Allow Unauthenticated Access.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Allow Unauthenticated Access_1.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Allow Unauthenticated Access_2.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Allow Unauthenticated Access_3.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Custom Page Modules/Allow Unauthenticated Access.htm"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Custom Page Pin this Page.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Custom Page Pin this Page_1.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Custom Page Pin this Page_2.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Custom Page Pin this Page_3.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Custom Page Pin this Page_4.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Custom Page Pin this Page_5.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Custom Page Pin this Page_6.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Custom Page Modules/Custom Page Pin this Page.htm"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Custom Page Modules/Linking Custom Pages to the.htm"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Restricting access to a Custom.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Custom Page Modules/Restricting access to a Custom.htm"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Adding a Discussion Forum.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Adding a Discussion Forum_1.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Page Modules/Adding a Discussion Forum_2.png"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Custom Page Modules/Adding a Discussion Forum.htm"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../TOCs/Custom Page Modules.fltoc"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="10/11/2015 4:52:37 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="b"
+      To="b.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="b" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

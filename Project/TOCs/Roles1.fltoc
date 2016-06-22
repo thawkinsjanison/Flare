@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Roles Introduction"
+    Link="/Content/D_Settings/Roles/Roles Introduction.htm" />
+  <TocEntry
+    Title="Some Concepts of Roles"
+    Link="/Content/D_Settings/Roles/Some Concepts of Roles.htm" />
+  <TocEntry
+    Title="Security Hierarchies"
+    Link="/Content/D_Settings/Roles/Security Hierarchies.htm" />
+  <TocEntry
+    Title="Roles - Key Actions Available"
+    Link="/Content/D_Settings/Roles/Roles Key Actions Available.htm" />
+  <TocEntry
+    Title="Menu Items and Key Action Buttons"
+    Link="/Content/D_Settings/Roles/Menu Items and Key Action.htm" />
+  <TocEntry
+    Title="Roles Manager – List Form"
+    Link="/Content/D_Settings/Roles/Roles Manager List Form.htm" />
+  <TocEntry
+    Title="Inspect a Role"
+    Link="/Content/D_Settings/Roles/Inspect a Role.htm" />
+  <TocEntry
+    Title="Role Form - Top Section"
+    Link="/Content/D_Settings/Roles/Role Form Top Section.htm" />
+  <TocEntry
+    Title="Applicable Documents"
+    Link="/Content/D_Settings/Roles/Applicable Documents.htm" />
+  <TocEntry
+    Title="Securable areas of the Documents"
+    Link="/Content/D_Settings/Roles/Securable areas of the Documents.htm" />
+  <TocEntry
+    Title="Role Restrictions"
+    Link="/Content/D_Settings/Roles/Role Restrictions.htm" />
+  <TocEntry
+    Title="How this role compares to other roles"
+    Link="/Content/D_Settings/Roles/How this role compares to.htm" />
+  <TocEntry
+    Title="Menu"
+    Link="/Content/D_Settings/Roles/Menu.htm" />
+  <TocEntry
+    Title="Roles Manager – Add Role"
+    Link="/Content/D_Settings/Roles/Roles Manager Add Role.htm" />
+  <TocEntry
+    Title="Roles Manager – Export and Import"
+    Link="/Content/D_Settings/Roles/Roles Manager Export and Import.htm" />
+  <TocEntry
+    Title="User Extra Roles Widget"
+    Link="/Content/D_Settings/Roles/User Extra Roles Widget.htm" />
+  <TocEntry
+    Title="Administrators Widget"
+    Link="/Content/D_Settings/Roles/Administrators Widget.htm" />
+  <TocEntry
+    Title="Why can't I edit someone?"
+    Link="/Content/D_Settings/Roles/Why can t I edit someone.htm" />
+  <TocEntry
+    Title="Explicit Roles vs Implicit Roles"
+    Link="/Content/D_Settings/Roles/Explicit Roles vs Implicit.htm" />
+</CatapultToc>

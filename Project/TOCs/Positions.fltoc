@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Positions – Introduction"
+    Link="/Content/A_Manage People/Positions/Positions Introduction.htm" />
+  <TocEntry
+    Title="Position Management"
+    Link="/Content/A_Manage People/Positions/Position Management.htm" />
+  <TocEntry
+    Title="Setting up management relationships"
+    Link="/Content/A_Manage People/Positions/Setting up management relationships.htm" />
+  <TocEntry
+    Title="Adding a Position"
+    Link="/Content/A_Manage People/Positions/Adding a Position.htm" />
+  <TocEntry
+    Title="Manually adding a Position"
+    Link="/Content/A_Manage People/Positions/Manually adding a Position.htm" />
+  <TocEntry
+    Title="Importing a Position"
+    Link="/Content/A_Manage People/Positions/Importing a Position.htm" />
+  <TocEntry
+    Title="Inspect a Position"
+    Link="/Content/A_Manage People/Positions/Inspect a Position.htm" />
+  <TocEntry
+    Title="Searching for a Position"
+    Link="/Content/A_Manage People/Positions/Searching for a Position.htm" />
+  <TocEntry
+    Title="Edit a Position"
+    Link="/Content/A_Manage People/Positions/Edit a Position.htm" />
+  <TocEntry
+    Title="Archive a Position"
+    Link="/Content/A_Manage People/Positions/Archive a Position.htm" />
+</CatapultToc>

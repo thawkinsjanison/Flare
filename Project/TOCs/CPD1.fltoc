@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="CPD Introduction"
+    Link="/Content/B_Manage Learning/CPD1/CPD Introduction.htm" />
+  <TocEntry
+    Title="CPD Plan Colour Legend:"
+    Link="/Content/B_Manage Learning/CPD1/CPD Plan Colour Legend.htm" />
+  <TocEntry
+    Title="CPD Points"
+    Link="/Content/B_Manage Learning/CPD1/CPD Points.htm" />
+  <TocEntry
+    Title="CPD Tags"
+    Link="/Content/B_Manage Learning/CPD1/CPD Tags.htm" />
+  <TocEntry
+    Title="CPD Plans"
+    Link="/Content/B_Manage Learning/CPD1/CPD Plans.htm" />
+  <TocEntry
+    Title="Creating a CPD plan"
+    Link="/Content/B_Manage Learning/CPD1/Creating a CPD plan.htm" />
+  <TocEntry
+    Title="CPD and Catalogue Items"
+    Link="/Content/B_Manage Learning/CPD1/CPD and Catalogue Items.htm" />
+  <TocEntry
+    Title="Allowing Users to Record their own CPD Points"
+    Link="/Content/B_Manage Learning/CPD1/Allowing Users to Record their.htm" />
+  <TocEntry
+    Title="How CPD looks and works for the User"
+    Link="/Content/B_Manage Learning/CPD1/How CPD looks and works for.htm" />
+  <TocEntry
+    Title="Manage CPD progress"
+    Link="/Content/B_Manage Learning/CPD1/Manage CPD progress.htm" />
+  <TocEntry
+    Title="My Learning Transcript and CPD Points"
+    Link="/Content/B_Manage Learning/CPD1/My Learning Transcript and.htm" />
+</CatapultToc>

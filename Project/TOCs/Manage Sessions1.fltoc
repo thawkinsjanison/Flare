@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Manage Sessions – Introduction" />
+  <TocEntry
+    Title="Manage Sessions" />
+  <TocEntry
+    Title="Add Learning Event" />
+  <TocEntry
+    Title="Add Session" />
+  <TocEntry
+    Title="Manage Session and Waiting Lists" />
+  <TocEntry
+    Title="Mark a Session" />
+  <TocEntry
+    Title="View Session" />
+  <TocEntry
+    Title="Edit a Session" />
+  <TocEntry
+    Title="Learning Event Settings" />
+</CatapultToc>

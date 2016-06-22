@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Authenticating Users"
+    Link="/Content/D_Settings/authentication/Authentication - Introduction.htm" />
+  <TocEntry
+    Title="Standard username/password"
+    Link="/Content/D_Settings/authentication/User Name in Database.htm" />
+  <TocEntry
+    Title="SAML"
+    Link="/Content/D_Settings/authentication/SAML.htm" />
+</CatapultToc>

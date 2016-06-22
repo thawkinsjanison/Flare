@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Tests Introduction"
+    Link="/Content/C_Design/Assessment Module Tests/Tests Introduction.htm" />
+  <TocEntry
+    Title="Search for tests"
+    Link="/Content/C_Design/Assessment Module Tests/Search for tests.htm" />
+  <TocEntry
+    Title="View test details"
+    Link="/Content/C_Design/Assessment Module Tests/View test details.htm" />
+  <TocEntry
+    Title="Preview"
+    Link="/Content/C_Design/Assessment Module Tests/Preview.htm" />
+  <TocEntry
+    Title="Create a test for an Assessment Module"
+    Link="/Content/C_Design/Assessment Module Tests/Create a test for an Assessment.htm" />
+  <TocEntry
+    Title="How to link questions to a test"
+    Link="/Content/C_Design/Assessment Module Tests/How to link questions to a.htm" />
+  <TocEntry
+    Title="Edit a test"
+    Link="/Content/C_Design/Assessment Module Tests/Edit a test.htm" />
+  <TocEntry
+    Title="Single and multi-sections"
+    Link="/Content/C_Design/Assessment Module Tests/Single and multi sections.htm" />
+  <TocEntry
+    Title="View, edit or add a section"
+    Link="/Content/C_Design/Assessment Module Tests/View edit or add a section.htm" />
+  <TocEntry
+    Title="Pass/fail and attempts"
+    Link="/Content/C_Design/Assessment Module Tests/Pass fail and attempts.htm" />
+  <TocEntry
+    Title="Timing options"
+    Link="/Content/C_Design/Assessment Module Tests/Timing options.htm" />
+  <TocEntry
+    Title="Randomisation"
+    Link="/Content/C_Design/Assessment Module Tests/Randomisation.htm" />
+  <TocEntry
+    Title="Using a test"
+    Link="/Content/C_Design/Assessment Module Tests/Using a test.htm" />
+</CatapultToc>

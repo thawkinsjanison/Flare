@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Message templates introduction"
+    Link="/Content/D_Settings/Message templates1/Message templates introduction.htm" />
+  <TocEntry
+    Title="Using Message Templates"
+    Link="/Content/D_Settings/Message templates1/Using Message Templates.htm" />
+  <TocEntry
+    Title="Tokens and how they work"
+    Link="/Content/D_Settings/Message templates1/Tokens and how they work.htm" />
+  <TocEntry
+    Title="Inserting HTML Tokens into a Message Template"
+    Link="/Content/D_Settings/Message templates1/Inserting HTML Tokens into.htm" />
+  <TocEntry
+    Title="Further Information and Notes"
+    Link="/Content/D_Settings/Message templates1/Further Information and Notes.htm" />
+</CatapultToc>

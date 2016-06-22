@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="8" MadCap:lastHeight="921" MadCap:lastWidth="1117">
+    <head>
+        <link href="../../Resources/Stylesheets/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Versioning – Introduction</h1>
+        <p>Software versioning is the assignment of unique version names or numbers to unique states of software. The Janison CLS uses numbers. Versions are made up of major and minor components. The major version is to the left of the decimal place, the minor to the right. For example 1.53 has a major version of 1 and a minor version of 53.</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">An entity starts at version 0.01 when it is first created or imported.</li>
+            <li style="list-style-type: disc;">Every time an entity is saved the minor version number increases by 0.01.</li>
+            <li style="list-style-type: disc;">Modifications to metadata increase the minor version number by 0.01 every time a metadata set is saved.</li>
+            <li style="list-style-type: disc;">If the minor version reaches .99 the increment changes to 0.001. If it reaches .999, the increment changes to 0.0001.</li>
+            <li style="list-style-type: disc;">When an entity transitions to the management review workflow state, the major version is increased by 1 and the minor reset to zero (e.g. 0.55 would become 1.00).</li>
+        </ul>
+        <p><b>Note</b> that if a Resource or Stimulus that belongs to a Question is updated, the version number of the Question will not automatically update.</p>
+        <p>Versioning can be applied to the following entities;</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Questions</li>
+            <li style="list-style-type: disc;">Stimulus</li>
+            <li style="list-style-type: disc;">Resources</li>
+            <li style="list-style-type: disc;">Tests</li>
+        </ul>
+        <table style="mc-table-style: url('../../Resources/Stylesheets/PatternedRows.css');" class="TableStyle-PatternedRows" cellspacing="0">
+            <col style="width: 418px;" class="TableStyle-PatternedRows-Column-Regular" />
+            <col class="TableStyle-PatternedRows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-PatternedRows-Head-Header1">
+                    <th class="TableStyle-PatternedRows-HeadE-Regular-Header1">
+                        <p>Trigger</p>
+                    </th>
+                    <th class="TableStyle-PatternedRows-HeadD-Regular-Header1">
+                        <p>Version change</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>New entity created or Imported.</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>Begins at 0.01</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>Entity saved</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>The minor version number increases by 0.01.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyB-Regular-LightRows">
+                        <p>Workflow transitions:</p>
+                        <ul style="list-style-type: disc;">
+                            <li style="list-style-type: disc;">from: draft, internal review, requires modification or modification review</li>
+                            <li style="list-style-type: disc;">to: management review</li>
+                        </ul>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyA-Regular-LightRows">
+                        <p>The version increases by an increment of 1.0</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

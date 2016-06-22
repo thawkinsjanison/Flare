@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="false"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-10-22T14:41:36.5951771+11:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-10-22T14:42:08.1285269+11:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Design/courses.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/courses.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/courses1/Courses Introduction.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Courses Introduction_1.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Courses Introduction_2.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/courses1/Courses Introduction.htm"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_1.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_2.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_3.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_4.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_5.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_6.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_7.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_8.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_9.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_10.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Add a Course_11.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/courses1/Add a Course.htm"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Inspect Course details.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Inspect Course details_1.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/courses1/Inspect Course details.htm"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Edit or Delete a Course.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Edit or Delete a Course_1.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/courses1/Edit or Delete a Course.htm"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Search for Courses.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/courses1/Search for Courses.htm"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Learners experience of a Course.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Learners experience of a Course_1.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Learners experience of a Course_2.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses1/Learners experience of a Course_3.png"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/courses1/Learners experience of a Course.htm"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../TOCs/courses1.fltoc"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/courses1.flmsp"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="22/10/2015 2:41:59 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="b" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

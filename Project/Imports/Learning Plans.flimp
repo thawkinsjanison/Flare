@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-23T15:43:22.1702180+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-23T15:43:37.3435403+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Learning Plans.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Learning Plans.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Learning Plans Introduction.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Learning Plans Introduction_1.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Learning Plans Introduction_2.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Learning Plans/Learning Plans Introduction.htm"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Creating a learning plan.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Creating a learning plan_1.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Learning Plans/Creating a learning plan.htm"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Completion Rules.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Learning Plans/Completion Rules.htm"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Start End Date rules.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Learning Plans/Start End Date rules.htm"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Plan entry tag types.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Plan entry tag types_1.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Learning Plans/Plan entry tag types.htm"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/External Learning.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Learning Plans/External Learning.htm"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Learning Plans/Setting up the catalogue item.htm"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_1.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_2.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_3.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_4.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_5.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_6.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_7.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_8.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_9.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Learning Plans/Using a learning plan as a_10.png"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Learning Plans/Using a learning plan as a.htm"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../TOCs/Learning Plans.fltoc"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Learning Plans.flmsp"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="23/04/2015 3:43:35 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="Heading 4" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

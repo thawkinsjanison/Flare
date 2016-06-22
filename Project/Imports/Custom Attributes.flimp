@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-20T16:20:30.6496849+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-20T16:21:23.7273917+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Design/Custom Attributes.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Custom Attributes.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Custom Attributes Introduction.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Custom Attributes/Custom Attributes Introduction.htm"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Manage Custom Attributes.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Manage Custom Attributes_1.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Custom Attributes/Manage Custom Attributes.htm"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_1.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_2.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_3.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_4.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_5.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_6.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_7.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_8.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_9.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_10.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_11.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_12.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_13.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_14.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_15.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_16.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_17.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_18.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_19.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_20.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute_21.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Custom Attributes/Add Custom Attribute.htm"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Edit Custom Attribute.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Custom Attributes/Edit Custom Attribute.htm"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Add Custom Attribute Set.png"
+      TimeStamp="20/05/2015 4:21:12 PM" />
+    <Url
+      Source="../../Content/Custom Attributes/Add Custom Attribute Set.htm"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Import Custom Attribute Set.png"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Import Custom Attribute Set_1.png"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Custom Attributes/Import Custom Attribute Set.htm"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Custom Attributes and Self.png"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Custom Attributes and Self_1.png"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Custom Attributes and Self_2.png"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Custom Attributes and Self_3.png"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Custom Attributes/Custom Attributes and Self_4.png"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Custom Attributes/Custom Attributes and Self.htm"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../TOCs/Custom Attributes.fltoc"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="20/05/2015 4:21:13 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

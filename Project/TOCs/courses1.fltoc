@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Courses – Introduction" />
+  <TocEntry
+    Title="Add a Course" />
+  <TocEntry
+    Title="Inspect Course details" />
+  <TocEntry
+    Title="Edit or Delete a Course" />
+  <TocEntry
+    Title="Search for Courses" />
+  <TocEntry
+    Title="Learners experience of a Course" />
+</CatapultToc>

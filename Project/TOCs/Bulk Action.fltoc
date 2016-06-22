@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Bulk Action.docx">
+  <TocEntry
+    Title="Bulk Action plugin"
+    Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm" />
+  <TocEntry
+    Title="Regenerate Passwords"
+    Link="/Content/A_Manage People/Bulk Action/Regenerate Passwords.htm" />
+  <TocEntry
+    Title="Account Activation / Deactivation" />
+  <TocEntry
+    Title="Send Welcome Email"
+    Link="/Content/A_Manage People/Bulk Action/Send Welcome Email.htm" />
+</CatapultToc>

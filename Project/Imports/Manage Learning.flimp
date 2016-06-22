@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-16T16:09:17.6218355+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-16T16:10:14.0727804+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/manage learning/Manage Learning.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Manage Learning.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning/Manage Learning.png"
+      TimeStamp="16/06/2015 4:10:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning/Manage Learning_1.png"
+      TimeStamp="16/06/2015 4:10:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning/Manage Learning_2.png"
+      TimeStamp="16/06/2015 4:10:06 PM" />
+    <Url
+      Source="../../Content/Manage Learning/Manage Learning.htm"
+      TimeStamp="16/06/2015 4:10:06 PM" />
+    <Url
+      Source="../TOCs/Manage Learning.fltoc"
+      TimeStamp="16/06/2015 4:10:06 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="16/06/2015 4:10:06 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

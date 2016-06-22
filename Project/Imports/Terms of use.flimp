@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-04T17:48:58.4260651+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-04T17:49:23.2777050+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/settings/Terms of use.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Terms of use.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Terms of use/Terms of use.png"
+      TimeStamp="4/05/2015 5:49:18 PM" />
+    <Url
+      Source="../../Content/Terms of use/Terms of Use introduction.htm"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Terms of use/Enabling self registration.png"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Terms of use/Enabling self registration_1.png"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Terms of use/Enabling self registration_2.png"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Terms of use/Enabling self registration.htm"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Terms of use/Setup Terms of Use.png"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Terms of use/Setup Terms of Use_1.png"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Terms of use/Setup Terms of Use.htm"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Terms of use/End user experience.png"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Terms of use/End user experience.htm"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../TOCs/Terms of use.fltoc"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Terms of use.flmsp"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="4/05/2015 5:49:19 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Bullet" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

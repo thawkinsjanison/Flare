@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="2106" MadCap:lastWidth="1329">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Creating an Organisation</h1>
+        <p>Organisations can be added to the system manually or by importing a CSV file. </p>
+        <p>Note that Organisations support linking to Custom Attributes, which can be really useful for reporting purposes. Set up the Custom Attributes for the Organisations entity first, see <a href="../../D_Settings/Custom Attributes/Custom Attributes Introduction.htm"><span class="Hyperlink">Custom attributes</span></a>, then enter values for them in the manual edit form or spreadsheet import. </p>
+        <h2 class="Heading2"><a name="_Manually_adding_an"></a>Manually adding an Organisation</h2>
+        <p>Select <b>Manage People</b> &gt; <b>Organisations</b> &gt; <b>Add Organisation</b>.</p>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Creating an Organisation.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>Create a <b>Title</b> for the Organisation.</li>
+            <li>The <b>Identifier</b> will automatically load the same as the <b>Title</b> however this can be changed. Note that like many entities in the CLS, Organisations have a mandatory and unique ‘human-readable’ identifier. This identifier shouldn’t be changed often and is relied upon during the spreadsheet import to match existing organisations.</li>
+            <li>A brief <b>Description</b> about the Organisation can be added but is not mandatory.</li>
+            <li>The Organisation will be active in the system unless the <b>Inactive</b> box is checked.</li>
+            <li>Select <b>Save Organisation</b>.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Creating an Organisation_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2">Import an Organisation</h2>
+        <p>Select <b>Manage People</b> &gt; <b>Organisations</b> &gt; <b>Import Organisations</b>.</p>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Creating an Organisation_2.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>The CLS provides a sample excel template that can be obtained by clicking <b>Template</b>.&#160; </li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Creating an Organisation_3.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Enter all required data in the template and save to your local machine. </p>
+        <p>Note that there is a provision for the addition of values for Custom Attributes and these must exist in the system prior to the import. In the example above there <b>must</b> be custom attributes already in the system with identifiers PostCode and Address. If so, the importer will assign these custom attributes to the Organisation entity and they should be visible on the Organisation details screen.</p>
+        <ol style="list-style-type: decimal;;" start="2">
+            <li>Click <b>Select</b> to browse to the required CSV file from your local browser and save it.</li>
+            <li>Click <b>Upload</b>.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Creating an Organisation_4.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+    </body>
+</html>

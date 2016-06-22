@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="false"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-10-02T10:42:23.5095416+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-10-02T10:43:38.7949916+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Design/Assessment Questions.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Assessment Questions.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Assessment Module Questions.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Assessment Module Questions_1.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Assessment Module Questions_2.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Assessment Module Questions.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_1.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_2.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_3.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_4.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_5.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_6.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_7.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_8.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_9.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_10.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Question Details_11.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Question Details.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add a Question.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add a Question_1.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add a Question_2.png"
+      TimeStamp="2/10/2015 10:43:19 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Add a Question.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Edit a Question.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Edit a Question_1.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Edit a Question.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Preview a Question.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Preview a Question_1.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Preview a Question.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Search for Questions.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Search for Questions_1.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Search for Questions.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Copy Question.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Copy Question_1.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Copy Question_2.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Copy Question_3.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Copy Question_4.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Copy Question_5.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Copy Question.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Move a Question.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Move a Question_1.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Move a Question.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Questions.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Questions_1.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Questions_2.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Questions_3.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Questions.jpg"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Questions_4.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Import Questions.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add Composite Question.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add Composite Question_1.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add Composite Question_2.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add Composite Question_3.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add Composite Question_4.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add Composite Question_5.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Add Composite Question_6.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Add Composite Question.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Custom Attributes.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Custom Attributes_1.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Questions/Import Custom Attributes_2.png"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Assessment Questions/Import Custom Attributes.htm"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../TOCs/Assessment Questions.fltoc"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Assessment Questions.flmsp"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="2/10/2015 10:43:20 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

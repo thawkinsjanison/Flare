@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-22T16:51:39.5911117+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-22T16:51:57.4319228+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Manage Learning Assets.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Manage Learning Assets.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Manage Learning Assets/Manage Learning Assets introduction.htm"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Manage Learning Assets/Types of Learning Assets.htm"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets/Manage Learning Assets.png"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets/Manage Learning Assets_1.png"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Manage Learning Assets/Manage Learning Assets.htm"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets/Add Learning asset.png"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets/Add Learning asset_1.png"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Manage Learning Assets/Add Learning asset.htm"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Manage Learning Assets/Inspect Learning Assets.htm"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../TOCs/Manage Learning Assets.fltoc"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Manage Learning Assets.flmsp"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="22/04/2015 4:51:55 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

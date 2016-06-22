@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Certificates – Introduction"
+    Link="/Content/B_Manage Learning/Certificates1/Certificates Introduction.htm" />
+  <TocEntry
+    Title="Creating and Editing a Certificate Template"
+    Link="/Content/B_Manage Learning/Certificates1/Creating and Editing a Certificate.htm" />
+  <TocEntry
+    Title="Upload Certificate Templates in Settings"
+    Link="/Content/B_Manage Learning/Certificates1/Upload Certificate Templates.htm" />
+  <TocEntry
+    Title="Attaching Certificates to Catalogue items"
+    Link="/Content/B_Manage Learning/Certificates1/Attaching Certificates to.htm" />
+  <TocEntry
+    Title="Certificate Number generation"
+    Link="/Content/B_Manage Learning/Certificates1/Certificate Number generation.htm" />
+  <TocEntry
+    Title="Access and View the Completed Certificate"
+    Link="/Content/B_Manage Learning/Certificates1/Access and View the Completed.htm" />
+</CatapultToc>

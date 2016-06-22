@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="7511" MadCap:lastWidth="1223">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Customise a Menu </h1>
+        <p>Navigate to <strong>Settings &gt; Menu</strong>.</p>
+        <p>The process involves:</p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>Selecting the required Subdomain (if applicable).</li>
+            <li>Copying the existing XML menu code in the <strong>Built In</strong> box.</li>
+            <li>Pasting this code into the <strong>Custom</strong> box.</li>
+            <li>Editing the code in the Custom box.</li>
+            <li>Saving it. </li>
+        </ol>
+        <h2 class="Heading2">Select Subdomains</h2>
+        <p>If there are no Subdomains you will be taken straight to step 2.</p>
+        <p>If there are Subdomains, select the one where you want to customise menus from the drop-down list. </p>
+        <p>Click <strong>Continue</strong> and study the <a href="#_The_existing_code"><span class="Hyperlink">existing code</span></a>.</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>You can also use the drop-down list above in conjunction with <strong>Delete Selected Subdomain settings</strong>. </p>
+        <p>When you click this button it will clear the contents of the <strong>Custom</strong> box for the Subdomain selected in the drop-down list, thus removing all its custom menu settings.</p>
+        <p>Note that if you leave the Subdomain set at <em>[Default]</em> in either of these two actions above, any subDomain that does not already have custom menu code will have it either added (when you click <strong>Continue</strong>) or deleted (when you click <strong>Delete Selected Subdomain settings</strong>).</p>
+        <h2 class="Heading2"><a name="_The_existing_code"></a>The existing code</h2>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>The text inside the <strong>Built In</strong> box is the existing XML code for the menu.</p>
+        <p>If you study the code you can see that it starts with two tags:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_2.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>These tags are terminated at the very end of the code with:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_3.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Between these pairs of code, there are several collections of statements defining <em>subMenu</em> tags, for example <strong>Home</strong> starts with:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_4.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>and is terminated with:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_5.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Each of these collections that define subMenu tags tags describes a main menu item and its secondary menu items. </p>
+        <p>For example, the first collection creates the <strong>Home</strong> menu in the hamburger and specifies the top page menu items:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Menu Settings Introduction_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_6.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>The second collection creates the <strong>People</strong> submenu and its secondary navigation:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_7.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_8.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>The remaining collections, not shown here, create <strong>Design</strong>, <strong>Manage Learning </strong>and <strong>Settings</strong>.</p>
+        <h2 class="Heading2">Copy existing XML code</h2>
+        <p>Using standard text editing techniques, select all text in the <strong>Built In</strong> box and copy it.</p>
+        <p>Paste it into the <strong>Custom</strong> Box.</p>
+        <h2 class="Heading2">Edit and save XML code</h2>
+        <p>You can now make modifications to the code in the <strong>Custom</strong> box. Make sure that you do not accidentally delete any important text, such as end tag statements, because dysfunctional XML code cannot work and will not create custom menus.</p>
+        <p>Make changes to the code as desired in order to:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;"><a href="#_Reorder_a_Menu" class="Hyperlink">Reorder a Menu</a>
+            </li>
+            <li style="list-style-type: disc;"><a href="#_Remove_entries_from" class="Hyperlink">Remove entries from a Menu</a>
+            </li>
+            <li style="list-style-type: disc;"><a href="#_Remove_entries_from" class="Hyperlink">Remove entries from a Menu</a>
+            </li>
+            <li style="list-style-type: disc;"><a href="#_Add_an_external" class="Hyperlink">Add an external item link</a>
+            </li>
+            <li style="list-style-type: disc;"><a href="#_Add_a_Custom" class="Hyperlink">Add a Custom Page link</a>
+            </li>
+        </ul>
+       
+        <p>You can also add other subMenu attributes :</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;"><em>Icon</em> for the subMenus: user, girl, car, plus, minus, windows and so on</li>
+        </ul>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_9.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;"><em>Resource</em>, in order to have a subMenu caption that can be translated.</li>
+        </ul>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_10.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Note that, as discussed, changing the <em>caption</em> attribute for an exiting menu item will not change its label in the menu. To achieve this change you would use String Resources. However the <em>caption</em> attribute determines the label of new menu items: external links and Custom Pages (see below).</p>
+        <p>When you have finished editing the custom code click <strong>Save</strong>. Wait until the page has finished processing (you may need to click <strong>Save</strong> twice to trigger this) and then check your changes in the menu.</p>
+        <h2 class="Heading2"><a name="_Reorder_a_Menu"></a>Reorder a Menu </h2>
+        <p>It is a simple matter to reorder the list of menu items. Simply change the position of the tag in the list. For example, if we move the highlighted statement from the beginning to the end of the list, we create a secondary menu where <em>Latest Activity</em> has moved to the bottom of the list.</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_11.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_12.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>This kind of reordering could also be done to the order of the five subMenu collections to reorder items in the <em>hamburger. </em>For example moving the <em>Settings</em> collection so that it is the first collection in the XML code will have this result:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_13.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2"><a name="_Remove_entries_from"></a>Remove entries from a Menu</h2>
+        <p>Items can also be deleted from a menu. For example, if the line below is deleted, <em>Latest Activity </em>disappears from the secondary menu area in <strong>Manage People</strong>.</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_14.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_15.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Of course, you can also delete an entire collection from the list.</p>
+        <p>If you delete everything between, for example:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_16.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>and</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_17.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>then <strong>Manage People</strong> disappears from the <em>hamburger</em> altogether:</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_18.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>It’s important to understand (and reassuring, if you do this accidentally) that while the menu access to the <strong>Manage People</strong> page has gone, an authenticated (logged on) User with permission to see the page can still type its address in the browser and get to it.</p>
+        <h2 class="Heading2"><a name="_Add_an_external"></a>Add an external item link</h2>
+        <p>To add a link to a webpage outside the CLS use the tag <em>externalMenuItem</em>. </p>
+        <p>For example, to add a link to google to the bottom of the People submenu, locate the relevant collection of statements for People and add this statement to the list:</p>
+        <p><em>&lt;externalMenuItem id="google" url="http://google.com" target="_self" caption="google" /&gt;</em>
+        </p>
+        <p>The example below shows where it has been moved and the result.</p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_19.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_20.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Usage:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Clicking the link takes Users to a new webpage <em>outside</em> the CLS</li>
+            <li style="list-style-type: disc;">The <em>url</em> address is within quotation marks and is the full http address of the external webpage.</li>
+            <li style="list-style-type: disc;">The menu label for the new entry is specified by <em>caption</em>. </li>
+            <li style="list-style-type: disc;"><em>Target</em> has several options. If you select “_self” as above, the new web page replaces the current one. If you select “_new” or “_blank” then the new web page opens in a separate, independent window.</li>
+            <li style="list-style-type: disc;">If you insert the highlighted statement so that it is first in the list, i.e. immediately after the <em>item</em> tag, then it replaces the entire subMenu. If that was the case in the example above, then clicking <strong>Manage People</strong> in the <em>hamburger</em> would take Users straight to google.</li>
+        </ul>
+        <h2 class="Heading2"><a name="_Add_a_Custom"></a>Add a Custom Page link</h2>
+        <p>To add a menu item that links to a Custom Page, first create the Page in a Custom Pages Module and make a note of its Identifier, see <a href="../../C_Design/Custom Page Modules/Create a Custom Page module.htm">Add a Custom Page</a>.</p>
+        <p>The next steps and options are the same as for <a href="#_Add_an_external"><span class="Hyperlink">Add an external item link</span></a> with these differences: </p>
+         <ul style="list-style-type: disc;">
+         <li>The url address is the address of the page and is <em>relative</em> to the CLS. </li>
+        <p>The url address is "/pages/IDENTIFIER”, where IDENTIFIER is the Identifier of the Custom Page.</p>
+             <li>Clicking the link takes Users to this Custom Page <em>within</em> the CLS and surrounded by the <em>hamburger</em> and secondary menu at the left, etc, regardless of whether it is in a separate window or not.</li>
+        </ul>
+         <p>For example, to add a link to a custom page at the bottom of the People submenu, locate the relevant collection of statements for People and add the statement below to the end of the list. Here <em>cells</em> is the identifier of the custom page and <em>/pages/cells</em> is its relative address:</p>
+        <p><em>&lt;externalMenuItem id="cells" url="/pages/cells" target="_self" caption="custom page" /&gt;</em>
+        </p>
+        <p>
+            <img src="../../Resources/Images/Menu/Customise a Menu_21.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+      
+         </body>
+</html>

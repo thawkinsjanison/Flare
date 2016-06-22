@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Templates Introduction"
+    Link="/Content/C_Design/Templates1/Templates Introduction.htm" />
+  <TocEntry
+    Title="Search for Templates"
+    Link="/Content/C_Design/Templates1/Search for Templates.htm" />
+  <TocEntry
+    Title="Edit a Template"
+    Link="/Content/C_Design/Templates1/Edit a Template.htm" />
+  <TocEntry
+    Title="Add Content Layout Template"
+    Link="/Content/C_Design/Templates1/Add Content Layout Template.htm" />
+  <TocEntry
+    Title="Program Template"
+    Link="/Content/C_Design/Templates1/Program Template.htm" />
+  <TocEntry
+    Title="Export Content Templates"
+    Link="/Content/C_Design/Templates1/Export Content Templates.htm" />
+  <TocEntry
+    Title="Import Content Templates"
+    Link="/Content/C_Design/Templates1/Import Content Templates.htm" />
+</CatapultToc>

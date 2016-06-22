@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Manage Catalogue introduction.htm" />
+  <TocEntry
+    Title="Add Catalogue Item"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Add Catalogue Item.htm" />
+  <TocEntry
+    Title="Components"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Components.htm" />
+  <TocEntry
+    Title="Catalogue Component Grouping"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Component Grouping.htm" />
+  <TocEntry
+    Title="Component Equivalency Groups"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Component Equivalency Groups.htm" />
+  <TocEntry
+    Title="Sections of the Catalogue Item."
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Sections of the Catalogue.htm" />
+  <TocEntry
+    Title="Inspect Catalogue Item details"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Inspect Catalogue Item details.htm" />
+  <TocEntry
+    Title="Tags"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Tags.htm" />
+  <TocEntry
+    Title="Point Allocation"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Point Allocation.htm" />
+  <TocEntry
+    Title="Competencies"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Competencies.htm" />
+  <TocEntry
+    Title="Prerequisites"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Items and Prerequisites.htm" />
+  <TocEntry
+    Title="Prerequisites between Catalogue Items"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Prerequisites between Catalogue.htm" />
+  <TocEntry
+    Title="Prerequisites within Programs"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Prerequisites within Programs.htm" />
+  <TocEntry
+    Title="Recent Activities"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Recent Activities.htm" />
+  <TocEntry
+    Title="Thumbnails"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Thumbnails.htm" />
+  <TocEntry
+    Title="Extended Information"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Extended Information.htm" />
+  <TocEntry
+    Title="Self-Enrolment Settings"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Self Enrolment.htm" />
+  <TocEntry
+    Title="Additional Enrolment Settings"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Additional.htm" />
+  <TocEntry
+    Title="Enrolment in a Catalogue Item"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Enrolment in a Catalogue Item.htm" />
+  <TocEntry
+    Title="Edit Catalogue Item"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Edit Catalogue Item.htm" />
+  <TocEntry
+    Title="Extra features for Programs"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Extra features for Programs.htm" />
+  <TocEntry
+    Title="Search for Catalogue Item"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Search for Catalogue Item.htm" />
+  <TocEntry
+    Title="Catalogue Manager"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Manager.htm" />
+  <TocEntry
+    Title="Edit in Wizard"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Edit in Wizard.htm" />
+  <TocEntry
+    Title="Add Learning Wizard"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Add Learning Wizard.htm" />
+  <TocEntry
+    Title="Assign Learning"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Assign Learning.htm" />
+  <TocEntry
+    Title="Import Catalogue Item Tags"
+    Link="/Content/B_Manage Learning/Manage Catalogue1/Import Catalogue Item Tags.htm" />
+</CatapultToc>

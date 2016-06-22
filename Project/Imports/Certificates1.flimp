@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-20T12:22:50.0876040+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-20T12:24:01.1724949+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/manage learning/Certificates.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Certificates.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Certificates1/Certificates Introduction.htm"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Creating and Editing a Certificate.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Creating and Editing a Certificate_1.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Creating and Editing a Certificate_2.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Creating and Editing a Certificate_3.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Creating and Editing a Certificate_4.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Creating and Editing a Certificate_5.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Certificates1/Creating and Editing a Certificate.htm"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Upload Certificate Templates.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Upload Certificate Templates_1.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Certificates1/Upload Certificate Templates.htm"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Attaching Certificates to.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Certificates1/Attaching Certificates to.htm"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Certificate Number generation.jpg"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Certificate Number generation.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Certificate Number generation_1.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Certificate Number generation_1.jpg"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Certificate Number generation_2.jpg"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Certificates1/Certificate Number generation.htm"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Access and View the Completed.png"
+      TimeStamp="20/05/2015 12:23:41 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Access and View the Completed_1.png"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Access and View the Completed_2.png"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates1/Access and View the Completed_3.png"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Certificates1/Access and View the Completed.htm"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../TOCs/Certificates1.fltoc"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="20/05/2015 12:23:42 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Bullet" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

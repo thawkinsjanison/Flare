@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-04T12:49:17.4533302+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-04T12:49:57.7633794+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Manage people/Manage People Overview.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Manage people/Manage People Overview.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Manage People Overview/Menu overview.png"
+      TimeStamp="4/06/2015 12:49:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage People Overview/Menu overview_1.png"
+      TimeStamp="4/06/2015 12:49:40 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage People Overview/Menu overview_2.png"
+      TimeStamp="4/06/2015 12:49:40 PM" />
+    <Url
+      Source="../../Content/Manage People Overview/Menu overview.htm"
+      TimeStamp="4/06/2015 12:49:40 PM" />
+    <Url
+      Source="../TOCs/Manage People Overview.fltoc"
+      TimeStamp="4/06/2015 12:49:40 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="4/06/2015 12:49:40 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 2" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Payment Settings - Introduction"
+    Link="/Content/D_Settings/Payment Settings/Payment Settings Introduction.htm" />
+  <TocEntry
+    Title="Payment Settings - Credit Card Settings"
+    Link="/Content/D_Settings/Payment Settings/Payment Settings Credit Card.htm" />
+  <TocEntry
+    Title="Payment Settings - PayPal settings"
+    Link="/Content/D_Settings/Payment Settings/Payment Settings PayPal settings.htm" />
+  <TocEntry
+    Title="Payment Settings - GST settings"
+    Link="/Content/D_Settings/Payment Settings/Payment Settings GST settings.htm" />
+  <TocEntry
+    Title="Payment Settings - Catalogue Item Configurations"
+    Link="/Content/D_Settings/Payment Settings/Payment Settings Catalogue.htm" />
+  <TocEntry
+    Title="Payment Settings - Viewing Payment Transactions"
+    Link="/Content/D_Settings/Payment Settings/Payment Settings Viewing Payment.htm" />
+</CatapultToc>

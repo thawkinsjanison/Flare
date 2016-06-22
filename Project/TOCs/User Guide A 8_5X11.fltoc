@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="Title"
+    Link="/Content/B_Manage Learning/Print Only Topics/PDFGuideATitle.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/Title8_5X11.flpgl"
+    StartPageLayout="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/B_Manage Learning/Print Only Topics/Copyright.htm"
+    StartPageLayout="true"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/Copyright8_5X11.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/B_Manage Learning/Print Only Topics/TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/TOC8_5X11.flpgl"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="CH 1 Welcome"
+    Link="/Content/B_Manage Learning/Print Only Topics/Welcome.htm"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+    PageNumber=""
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    BreakType="chapter"
+    PageType="firstright">
+    <TocEntry
+      Title="Getting Started" />
+    <TocEntry
+      Title="Basic Steps" />
+    <TocEntry
+      Title="What's New" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2 Links and Lists"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+    PageNumber=""
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright">
+    <TocEntry
+      Title="Links" />
+    <TocEntry
+      Title="Lists"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 3 Conditions, Notes, and Tables"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+    PageNumber=""
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"
+    BreakType="chapter"
+    PageType="firstright"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Conditions" />
+    <TocEntry
+      Title="Notes, Examples, and Blockquotes" />
+    <TocEntry
+      Title="Tables"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 4 Images"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+    PageType="firstright">
+    <TocEntry
+      Title="Positioned Left" />
+    <TocEntry
+      Title="Positioned Right"></TocEntry>
+    <TocEntry
+      Title="Absolute Position" />
+    <TocEntry
+      Title="Image in a List" />
+  </TocEntry>
+  <TocEntry
+    Title="Appendix"
+    Link="/Content/B_Manage Learning/Print Only Topics/Appendix.htm"
+    StartPageLayout="false"
+    StartSection="false"
+    BreakPageType="normal"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/ChaptersLandscape8_5X11.flpgl"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageType="firstright"
+    AutoEndOnLeftPage="enabled"
+    BreakType="chapter"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Glossary"
+    Link="/Content/B_Manage Learning/Print Only Topics/Glossary.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/Glossary8_5X11.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Index"
+    Link="/Content/B_Manage Learning/Print Only Topics/Index.htm"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/8_5X11/Index8_5X11.flpgl"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+</CatapultToc>

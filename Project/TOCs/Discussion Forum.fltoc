@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Discussion Forum.docx">
+  <TocEntry
+    Title="Discussion Forum - Introduction"
+    Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Introduction.htm" />
+  <TocEntry
+    Title="Add a Discussion Forum"
+    Link="/Content/B_Manage Learning/Discussion Forum/Add a Discussion Forum.htm" />
+  <TocEntry
+    Title="Discussion Forum - Linked Documents"
+    Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Linked Documents.htm" />
+  <TocEntry
+    Title="Discussion Forum - Notifications"
+    Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Notifications.htm" />
+  <TocEntry
+    Title="Discussion Forum - Completion Settings"
+    Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Completion.htm" />
+  <TocEntry
+    Title="Discussion Forum - Administrators"
+    Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Administrators.htm" />
+  <TocEntry
+    Title="Setting Favourites and Following posts"
+    Link="/Content/B_Manage Learning/Discussion Forum/Setting Favourites and Following.htm" />
+</CatapultToc>

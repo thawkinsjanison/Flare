@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="People - Introduction"
+    Link="/Content/A_Manage People/People/People Introduction.htm" />
+  <TocEntry
+    Title="Adding fields to the People tile"
+    Link="/Content/A_Manage People/People/Adding fields to the People.htm" />
+  <TocEntry
+    Title="Search for People"
+    Link="/Content/A_Manage People/People/Search for People.htm" />
+</CatapultToc>

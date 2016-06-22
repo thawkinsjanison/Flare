@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Custom Page Modules – Introduction"
+    Link="/Content/C_Design/Custom Page Modules/Custom Page Modules Introduction.htm" />
+  <TocEntry
+    Title="Create a Custom Page module"
+    Link="/Content/C_Design/Custom Page Modules/Create a Custom Page module.htm" />
+  <TocEntry
+    Title="Allow Unauthenticated Access to a Custom Page"
+    Link="/Content/C_Design/Custom Page Modules/Allow Unauthenticated Access.htm" />
+  <TocEntry
+    Title="Custom Page - Pin this Page to the Dashboard"
+    Link="/Content/C_Design/Custom Page Modules/Custom Page Pin this Page.htm" />
+  <TocEntry
+    Title="Linking Custom Pages to the My Learning Dashboard Using a string resource"
+    Link="/Content/C_Design/Custom Page Modules/Linking Custom Pages to the.htm" />
+  <TocEntry
+    Title="Restricting access to a Custom Page using roles"
+    Link="/Content/C_Design/Custom Page Modules/Restricting access to a Custom.htm" />
+  <TocEntry
+    Title="Adding a Discussion Forum to a Custom Page"
+    Link="/Content/C_Design/Custom Page Modules/Adding a Discussion Forum.htm" />
+</CatapultToc>

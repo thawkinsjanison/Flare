@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Test Panels in Learning Page Modules"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panels in Learning Page.htm" />
+  <TocEntry
+    Title="Test Panel type –Micro-Quiz (system)"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Micro Quiz.htm" />
+  <TocEntry
+    Title="Test Panel type –Free Text (assessable)"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Free Text.htm" />
+  <TocEntry
+    Title="Test Panel type –Quiz with Pagination"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Quiz with.htm" />
+  <TocEntry
+    Title="Test Panel type –Free Text"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Free Text_1.htm" />
+  <TocEntry
+    Title="Test Panel type –Free Text Review"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Free Text_2.htm" />
+  <TocEntry
+    Title="Test Panel type –Model Answers"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Model Answers.htm" />
+  <TocEntry
+    Title="Test Panel type –Match drag-n-drop"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Match drag.htm" />
+  <TocEntry
+    Title="Test Panel type –Sortable Quiz"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Sortable Quiz.htm" />
+  <TocEntry
+    Title="Test Panel type –Poll Quiz"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Poll Quiz.htm" />
+  <TocEntry
+    Title="Test Panel type –Survey Quiz"
+    Link="/Content/C_Design/Panel Types for Tests/Test Panel type Survey Quiz.htm" />
+</CatapultToc>

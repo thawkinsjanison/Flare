@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="4423" MadCap:lastWidth="1169">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Tenant Settings – Login</h1>
+        <h2 class="Heading2">Custom Login URL</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Custom Login URL provides the ability to have a custom login page with Janison CLS authentication embedded into it. This is usually a page that has been created using a <b>Custom Page</b>.</p>
+        <p>If you require this feature please contact the Janison Helpdesk for further details.</p>
+        <p>Note: Inserting a subdomain or URL in this field which does not have Janison CLS Authentication can result in the site becoming inaccessible until the URL is removed from the database. </p>
+        <h2 class="Heading2">Display Remember Me Checkbox</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Ticking this option will activate a checkbox on the Login page that will allow the user to save their login details for future sessions. </p>
+        <p> <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_2.png" style="visibility: visible;mso-wrap-style: square;" /></p>
+        <h2 class="Heading2">Hide Forgot My Password Link</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_3.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Checking this option will remove the Forgot your Password link from the Login Authentication box. If this link is hidden users will no longer have the ability to trigger the email allowing them to reset their passwords.</p>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_4.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Note: If a User enters a <b>Username</b> that does not exist in the system, for security purposes the system returns a generic error message regardless of whether the user ID or password is incorrect.</p>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_4b.png" />
+        </p>
+        <h2 class="Heading2">Disabling Auto-Complete for Username and Password</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_5.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>This functionality works with your browser’s cache to fill in the Username and Password once it recognises a returning users. The below screenshot shows the behaviour when the option is left unchecked.</p>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_6.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2">Reset Password On First Login</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_7.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>If this option is enabled Users will be prompted to reset their password on first logon.</p>
+        <h2 class="Heading2">Password Reset emails if email address not found</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_8.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>If a User clicks the Forgot your password link and enters an email address as the Username and that email does not exist in the system, the following email will be sent to that User. This email is configurable in Settings &gt; Message Templates.</p>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_9.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2">Allow One Logon Session at a Time</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_10.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>This limits a session for a single account to one session at a time. For example if User A is logged in with a certain account and User B logs in using that same account, User A will automatically be logged out.</p>
+        <h2 class="Heading2">No locking no message</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_11.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>When this option is selected the CLS will never lock a user out for entering the incorrect password. It will give the user unlimited login attempts.</p>
+        <h2 class="Heading2">Lock account</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_12.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>This option controls 3 aspects of account locking.</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Number of Consecutive Failed Logons – set the number of failed login attempts before the CLS will lock the User out.</li>
+            <li style="list-style-type: disc;">Number Of Minutes To Lock Account For - after the User account is locked, set the time it will remain locked for.</li>
+            <li style="list-style-type: disc;">Lock Message - the message that is shown when the CLS locks out as shown in the screenshot.</li>
+        </ul>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_13.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2">Session Timeout</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_14.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Session Timeout is the length of time a user can remain inactive in the system for before it logs them out. Enter the number of minutes you would like the system to stay active before the it times-out.&#160; This applies to all Roles but can be configured differently per role.</p>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_15.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">In the drop-down select a role you would like to adjust the timeout for.</li>
+            <li style="list-style-type: disc;">Enter the minutes for timeout and click add. </li>
+        </ul>
+        <h2 class="Heading2">Forgot Password re-submit wait period (min)</h2>
+        <p>
+            <img src="../../Resources/Images/Tenant Settings/Tenant Settings Login_16.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>This option is used to set the time a User must wait before they can reset their password after their previous password reset.</p>
+    </body>
+</html>

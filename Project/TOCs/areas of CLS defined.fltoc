@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\areas of CLS defined.docx">
+  <TocEntry
+    Title="Manage People" />
+  <TocEntry
+    Title="Manage Learning" />
+  <TocEntry
+    Title="Design" />
+  <TocEntry
+    Title="Settings"
+    Link="/Content/D_Settings/Settings.htm" />
+</CatapultToc>

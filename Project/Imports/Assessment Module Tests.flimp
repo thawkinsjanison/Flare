@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-03T11:15:26.6891178+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-03T11:16:02.2487674+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Design/Assessment Module Tests.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Assessment Module Tests.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Tests Introduction.png"
+      TimeStamp="3/06/2015 11:15:57 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Tests Introduction.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Search for tests.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Search for tests.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/View test details.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/View test details_1.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/View test details.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Preview.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Preview_1.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Preview_2.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Preview.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Create a test for an Assessment.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Create a test for an Assessment_1.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Create a test for an Assessment.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/How to link questions to a.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/How to link questions to a_1.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/How to link questions to a_2.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/How to link questions to a.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Edit a test.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Edit a test_1.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Edit a test.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Single and multi sections.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/View edit or add a section.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/View edit or add a section_1.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/View edit or add a section_2.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/View edit or add a section_3.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/View edit or add a section_4.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/View edit or add a section.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Pass fail and attempts.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Pass fail and attempts.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Timing options.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Timing options.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Module Tests/Randomisation.png"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Randomisation.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Assessment Module Tests/Using a test.htm"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../TOCs/Assessment Module Tests.fltoc"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Assessment Module Tests.flmsp"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css.css"
+      TimeStamp="3/06/2015 11:15:58 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

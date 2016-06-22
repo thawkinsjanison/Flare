@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="CPD Introduction" />
+  <TocEntry
+    Title="CPD Colour Legend:" />
+  <TocEntry
+    Title="CPD Points" />
+  <TocEntry
+    Title="CPD Tags" />
+  <TocEntry
+    Title="CPD Plans" />
+  <TocEntry
+    Title="Creating a CPD plan" />
+  <TocEntry
+    Title="CPD &amp; Catalogue Items" />
+  <TocEntry
+    Title="How CPD looks and works for the User" />
+  <TocEntry
+    Title="Manage CPD progress" />
+</CatapultToc>

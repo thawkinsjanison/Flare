@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="6" MadCap:lastHeight="1495" MadCap:lastWidth="917">
+    <head>
+        <link href="../../Resources/Stylesheets/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Panel type – Hotspot</h1>
+        <p>A hotspot is an image with coordinates set which create several active regions. Each active region becomes a pop-up with text relating to the region. In this example 4 hotspots have been set, one for each type of flower.</p>
+        <p>
+            <img src="../../Resources/Images/Panel type1/Panel type Hotspot.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p> Finding the coordinates can be calculated for simple images such as the one above. The coordinates of the top-left corner of an area are 0,0. The size of the image is 400x400px. Each flower inset is 200x200px. The coordinates of the sunflower are therefore "0,0,200,200". 0,0 are the coordinates of the top left corner and 200,200 the bottom right corner.&#160; The Fuchsia&#160; is "200,200,400,400".</p>
+        <p>For more complicated images any image editor such a Paint can be used to find the coordinates usually by hovering in the required area.</p>
+        <p>To add this hotspot to the page:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Add a panel of Hotspot type.</li>
+            <li style="list-style-type: disc;">Upload the <a href="../../Resources/Images/Panel type1/hotspot.jpg" target="_blank">image</a> using the Resource Editor <img src="../../Resources/Images/Panel type1/Panel type Slideshow_1.png" style="visibility: visible;mso-wrap-style: square;" />.</li>
+            <p>It is important to populate the Description and Text Alternate fields with the text <i>map=hotspotmap</i></p>
+        </ul>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Once you have added the image press the enter key to move the cursor to the line after the image.</li>
+            <li style="list-style-type: disc;">In the editor enter the Source code mode by clicking the <img src="../../Resources/Images/Panel type1/Panel type Reveal list_1.png" style="visibility: visible;mso-wrap-style: square;" />icon.</li>
+            <li style="list-style-type: disc;">Copy the code from below and paste it into the source code window after the &lt;p&gt; &lt;/p&gt; tags.</li>
+            <li style="list-style-type: disc;">Save and view the page in your course player.&#160; You will need to refresh to see the most recent changes.</li>
+            <li style="list-style-type: disc;">You can then customise the text, coordinates and image to suit your page.</li>
+        </ul>
+        <table style="mc-table-style: url('../../Resources/Stylesheets/PatternedRows.css');" class="TableStyle-PatternedRows" cellspacing="0">
+            <col class="TableStyle-PatternedRows-Column-Regular" />
+            <tbody>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyA-Regular-LightRows">
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;map id="hotspotmap" name="hotspotmap"&gt; </p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;area shape="rect" coords="0,0,200,200" href="#" /&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;area shape="rect" coords="200,0,400,200" href="#" /&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;area shape="rect" coords="0,200,200,400" href="#" /&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;area shape="rect" coords="200,200,400,400" href="#" /&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;/map&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;h2&gt;First hotspot&lt;/h2&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;p&gt;First hotspot popup text&lt;/p&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;h2&gt;second hotspot&lt;/h2&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;p&gt;second hotspot popup text&lt;/p&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;h2&gt;third hotspot&lt;/h2&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;p&gt;third hotspot popup text&lt;/p&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;h2&gt;fourth hotspot&lt;/h2&gt;</p>
+                        <p style="font-family: 'Courier New';font-size: 10pt;">&lt;p&gt;fourth hotspot popup text&lt;/p&gt;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Organisations – Introduction"
+    Link="/Content/A_Manage People/Organisations/Organisations Introduction.htm" />
+  <TocEntry
+    Title="Organisations and Groups"
+    Link="/Content/A_Manage People/Organisations/Organisations and Groups.htm" />
+  <TocEntry
+    Title="Manage Organisations"
+    Link="/Content/A_Manage People/Organisations/Manage Organisations.htm" />
+  <TocEntry
+    Title="Inspect Organisation details"
+    Link="/Content/A_Manage People/Organisations/Inspect Organisation details.htm" />
+  <TocEntry
+    Title="Creating an Organisation"
+    Link="/Content/A_Manage People/Organisations/Creating an Organisation.htm" />
+  <TocEntry
+    Title="Search for Organisation"
+    Link="/Content/A_Manage People/Organisations/Search for Organisation.htm" />
+  <TocEntry
+    Title="Edit Organisation"
+    Link="/Content/A_Manage People/Organisations/Edit Organisation.htm" />
+  <TocEntry
+    Title="Archive organisation"
+    Link="/Content/A_Manage People/Organisations/Archive organisation.htm" />
+</CatapultToc>

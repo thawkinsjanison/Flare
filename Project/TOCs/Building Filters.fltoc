@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Building filters"
+    Link="/Content/D_Settings/Building Filters/Filters Introduction.htm" />
+  <TocEntry
+    Title="Easier introduction to filters"
+    Link="/Content/D_Settings/Building Filters/Easier introduction to filters.htm" />
+  <TocEntry
+    Title="More details about filters"
+    Link="/Content/D_Settings/Building Filters/More details about filters.htm" />
+</CatapultToc>

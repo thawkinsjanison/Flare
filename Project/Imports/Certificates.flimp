@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-23T10:56:30.2358794+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-23T10:57:03.0439516+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Certificates.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Certificates.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Certificates/Certificates Introduction.htm"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Create the certificate template.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Create the certificate template_1.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Create the certificate template_2.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Create the certificate template_3.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Create the certificate template_4.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Create the certificate template_5.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Create the certificate template_6.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Certificates/Create the certificate template.htm"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Upload the Certificate Template.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Upload the Certificate Template_1.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Certificates/Upload the Certificate Template.htm"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Setup when the Certificate.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Certificates/Setup when the Certificate.htm"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Certificates/Access and View the Completed.htm"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Download the Completion Certificate.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Certificates/Download the Completion Certificate.htm"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Download the Completion Certificate_1.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Certificates/Download the Completion Certificate_1.htm"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Download the Completion Certificate_2.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Certificates/Download the Completion Certificate_2_1.png"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Certificates/Download the Completion Certificate_2.htm"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../TOCs/Certificates.fltoc"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Certificates.flmsp"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="23/04/2015 10:56:49 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Bullet" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

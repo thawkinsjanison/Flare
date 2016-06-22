@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-27T11:40:18.6505713+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-27T11:40:29.9812142+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/General/Getting started.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/General/Getting started.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Getting started/The Janison Cloud Learning.png"
+      TimeStamp="27/04/2015 11:40:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Getting started/The Janison Cloud Learning_1.png"
+      TimeStamp="27/04/2015 11:40:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Getting started/The Janison Cloud Learning_2.png"
+      TimeStamp="27/04/2015 11:40:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Getting started/The Janison Cloud Learning_3.png"
+      TimeStamp="27/04/2015 11:40:27 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Getting started/The Janison Cloud Learning_4.png"
+      TimeStamp="27/04/2015 11:40:27 AM" />
+    <Url
+      Source="../../Content/Getting started/The Janison Cloud Learning.htm"
+      TimeStamp="27/04/2015 11:40:27 AM" />
+    <Url
+      Source="../TOCs/Getting started_1.fltoc"
+      TimeStamp="27/04/2015 11:40:27 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="27/04/2015 11:40:27 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

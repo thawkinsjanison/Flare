@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="1256" MadCap:lastWidth="1196">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Some Concepts of Roles</h1>
+        <ol style="list-style-type: decimal;" start="1">
+            <li><b>Rights</b> – These are actions that can be performed in the system, such as Add User or Create Course.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Roles1/Some Concepts of Roles.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ol style="list-style-type: decimal;" start="2">
+            <li><b>Roles</b>– A collection of rights that refers to a set of actions or responsibilities a user can perform. A role could be Content Reviewer or Tenant Administrator.</li>
+            <li><b>Entities</b> – These are the objects in the system, such as Questions, Modules, Users, Organisations that are protected by security rules.</li>
+            <li><b>Role Membership</b> – When a User is assigned a role, they will be able to perform the rights for that role.</li>
+            <li><b>Role Membership Scope</b> – The Scope of Entities that a Role Membership applies to. For example, a user might be a Content Reviewer for a Course, or a Marker for a particular Tests.</li>
+            <li><b>Role Inheritance from Global Tenant</b> - Security roles are not inherited from the Global Tenant. When a new tenant is created, the roles will be created on the new tenant. This is because the Janison CLS cannot assume that Role Inheritance from the Global Tenant is desired behaviour. The Global Tenant typically serves different purposes, and may include plug-in settings that do not match the other tenants.</li>
+        </ol>
+        <p>The CLS has some fundamental rules in order to maintain data integrity around the enforcement of Security. </p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">A user must always belong to an Org Unit. An Org Unit which could be a school, or some other organisational entity – is necessary for the system to understand where a user belongs – without this, the system would not know who can see or edit a given user.</li>
+            <li style="list-style-type: disc;">A user must always have a Main Role. For any user to log on, the system must understand what that user’s role is. By default, the Main Role of a user is Basic User. This Basic User role is hard-wired into the system as the default. It can still be customised, but it’s always there.</li>
+            <li style="list-style-type: disc;">Every Role is granted within a Scope. When a user is assigned a role, it must be assigned within a particular scope. This is important, because it limits and contains the scope within which a user can do things. For example, if a User has the role Teacher, the scope is likely to be set as the User’s School – that is, this User is a Teacher at their school. If the scope wasn’t specified, then the system would not be able to decide which students a Teacher is and is not allowed to see.</li>
+        </ul>
+        <p>
+            <img src="../../Resources/Images/Roles1/Some Concepts of Roles_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">The default scope for the default role, Basic User, is the User’s Org Unit.</li>
+            <li style="list-style-type: disc;">Users can have multiple roles. In addition to the Main Role, users can have extra roles. They must always have a Main Role – that is, regardless of any Extra Roles such as Content Reviewer for a Discipline, a user would still have a Main Role.</li>
+        </ul>
+    </body>
+</html>

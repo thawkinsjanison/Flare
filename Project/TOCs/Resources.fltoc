@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Design\Resources.docx">
+  <TocEntry
+    Title="Resources Introduction"
+    Link="/Content/C_Design/resources/Resources Introduction.htm" />
+  <TocEntry
+    Title="Search for a resource"
+    Link="/Content/C_Design/resources/Search for a resource.htm" />
+  <TocEntry
+    Title="Inspect resource details"
+    Link="/Content/C_Design/resources/Inspect resource details.htm" />
+  <TocEntry
+    Title="Edit resource"
+    Link="/Content/C_Design/resources/Edit resource.htm" />
+  <TocEntry
+    Title="Resource types"
+    Link="/Content/C_Design/resources/Resource types.htm" />
+  <TocEntry
+    Title="Add resource sets"
+    Link="/Content/C_Design/resources/Add resource sets.htm" />
+  <TocEntry
+    Title="Add bulk resources"
+    Link="/Content/C_Design/resources/Add bulk resources.htm" />
+  <TocEntry
+    Title="Add stimulus"
+    Link="/Content/C_Design/resources/Add stimulus.htm" />
+</CatapultToc>

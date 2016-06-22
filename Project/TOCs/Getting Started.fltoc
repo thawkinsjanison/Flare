@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="A_Getting Started">
+    <TocEntry
+      Title="Basic Steps" />
+    <TocEntry
+      Title="Getting Started" />
+    <TocEntry
+      Title="What's New" />
+  </TocEntry>
+</CatapultToc>

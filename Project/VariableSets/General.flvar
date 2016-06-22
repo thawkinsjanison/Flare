@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">Janison</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">+61 2 6652 9850</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress">394A Harbour Dr., Coffs Harbour NSW 2450</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName">Janison CLS</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text">NSW</Variable>
+  <Variable
+    Name="UserGuideTitle"
+    Comment="">User Guide A</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot">1.0</Variable>
+  <Variable
+    Name="Year"
+    OriginalName="Year">2016</Variable>
+</CatapultVariableSet>

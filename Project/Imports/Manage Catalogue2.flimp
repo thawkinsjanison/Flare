@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-11-03T11:55:42.7976677+11:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-11-03T11:58:07.4457368+11:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/manage learning/Manage Catalogue.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Manage Catalogue.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Manage Catalogue introduction.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Manage Catalogue introduction_1.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Manage Catalogue introduction_2.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Manage Catalogue introduction_3.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Manage Catalogue introduction_4.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Manage Catalogue introduction_5.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Manage Catalogue introduction.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_1.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_2.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_3.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_4.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_5.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_6.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_7.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_8.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_9.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_10.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_11.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Catalogue Item_12.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Add Catalogue Item.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Components.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Components.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_1.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_2.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_3.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_4.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_5.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_6.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_7.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_8.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_9.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_10.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Component Grouping_11.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Component Grouping.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Sections of the Catalogue.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Sections of the Catalogue.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Inspect Catalogue Item details.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Inspect Catalogue Item details_1.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Inspect Catalogue Item details_2.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Inspect Catalogue Item details_3.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Inspect Catalogue Item details_4.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Inspect Catalogue Item details.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Tags.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Tags_1.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Tags_2.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Tags.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Point Allocation.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Point Allocation.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Competencies.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Competencies.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Items and Prerequisites.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Items and Prerequisites.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Prerequisites between Catalogue.png"
+      TimeStamp="3/11/2015 11:56:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Prerequisites between Catalogue_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Prerequisites between Catalogue_2.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Prerequisites between Catalogue_3.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Prerequisites between Catalogue.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Prerequisites within Programs.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Prerequisites within Programs_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Prerequisites within Programs.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Recent Activities.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Recent Activities.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Thumbnails.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Thumbnails_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Thumbnails_2.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Thumbnails.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Extended Information.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Extended Information.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Self Enrolment.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Self Enrolment_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Self Enrolment_2.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Self Enrolment_3.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Self Enrolment_4.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Self Enrolment_5.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Self Enrolment.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Additional.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Additional_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Additional_2.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Additional_3.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Additional_4.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Additional_5.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Item Additional_6.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Item Additional.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Enrolment in a Catalogue Item.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Edit Catalogue Item.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Edit Catalogue Item_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Edit Catalogue Item.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Extra features for Programs.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Extra features for Programs_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Extra features for Programs_2.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Extra features for Programs.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Search for Catalogue Item.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Search for Catalogue Item.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Manager.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Manager_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Manager_2.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Manager_3.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Manager_4.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Catalogue Manager_5.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Catalogue Manager.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Edit in Wizard.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Edit in Wizard.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Add Learning Wizard.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Add Learning Wizard.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Assign Learning.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Assign Learning.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Import Catalogue Item Tags.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue2/Import Catalogue Item Tags_1.png"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Manage Catalogue2/Import Catalogue Item Tags.htm"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../TOCs/Manage Catalogue2.fltoc"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Manage Catalogue2.flmsp"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="3/11/2015 11:56:18 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="li" />
+    <StyleName
+      Name="li_1" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="p" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="em" />
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="span_Hyperlink" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-26T16:57:48.9645374+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-26T16:59:18.3193314+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/manage learning/Tags and Tag Types.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Tags and Tag Types.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Tags Introduction.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Tags Introduction_1.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Tags Introduction_2.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Tags Introduction_3.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Tags Introduction_4.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Tags Introduction_5.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Tags Introduction_6.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Tags Introduction_7.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Tags Introduction.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Managing and Inspecting Tags.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Managing and Inspecting Tags_1.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Managing and Inspecting Tags_2.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Managing and Inspecting Tags.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Adding Tags.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Adding Tags_1.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Adding Tags.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Edit Tag.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Edit Tag.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Importing Tags.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Importing Tags_1.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Importing Tags_2.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Importing Tags.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Managing and Inspecting Tag.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Managing and Inspecting Tag_1.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Managing and Inspecting Tag_2.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Managing and Inspecting Tag_3.png"
+      TimeStamp="26/05/2015 4:59:08 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Managing and Inspecting Tag.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Adding Tag Types.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Adding Tag Types_1.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Adding Tag Types.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Archive Tags.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Archive Tags.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Linking Tags to Catalogue.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Linking Tags to Catalogue_1.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Linking Tags to Catalogue.htm"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Display Tags on Tiles in Browse.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Display Tags on Tiles in Browse_1.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Display Tags on Tiles in Browse.htm"
+      TimeStamp="26/05/2015 4:59:10 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Linking Tags to a Course Module.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tags and Tag Types/Linking Tags to a Course Module_1.png"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/Linking Tags to a Course Module.htm"
+      TimeStamp="26/05/2015 4:59:10 PM" />
+    <Url
+      Source="../../Content/Tags and Tag Types/CPD Tags.htm"
+      TimeStamp="26/05/2015 4:59:10 PM" />
+    <Url
+      Source="../TOCs/Tags and Tag Types.fltoc"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Tags and Tag Types.flmsp"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="26/05/2015 4:59:09 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

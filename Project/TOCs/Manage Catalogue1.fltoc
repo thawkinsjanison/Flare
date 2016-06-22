@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Manage Catalogue- introduction" />
+  <TocEntry
+    Title="Enrolment in a Catalogue Item" />
+  <TocEntry
+    Title="Manage Catalogue Statuses" />
+  <TocEntry
+    Title="Inspect Catalogue Item" />
+  <TocEntry
+    Title="Add Catalogue Item" />
+  <TocEntry
+    Title="Catalogue Item - Components" />
+  <TocEntry
+    Title="Catalogue Component Grouping" />
+  <TocEntry
+    Title="Catalogue Item - Thumbnails" />
+  <TocEntry
+    Title="Catalogue Item - Competencies" />
+  <TocEntry
+    Title="Catalogue Item - Self-Enrolment Settings" />
+  <TocEntry
+    Title="Catalogue Item - additional enrolment settings" />
+  <TocEntry
+    Title="Catalogue Items and Prerequisites" />
+  <TocEntry
+    Title="Prerequisites between Catalogue Items" />
+  <TocEntry
+    Title="Prerequisites within Programs" />
+  <TocEntry
+    Title="Edit Catalogue Item" />
+  <TocEntry
+    Title="Extra features for Programs" />
+  <TocEntry
+    Title="Search for Catalogue Item" />
+  <TocEntry
+    Title="Archive a Catalogue Item" />
+  <TocEntry
+    Title="Edit in Wizard" />
+  <TocEntry
+    Title="Add Learning Wizard" />
+  <TocEntry
+    Title="Assign Learning" />
+  <TocEntry
+    Title="Import Catalogue Item Tags and link to Catalogue Items in bulk" />
+</CatapultToc>

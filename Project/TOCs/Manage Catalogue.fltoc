@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Manage Catalogue- introduction" />
+  <TocEntry
+    Title="Enrolment in a Catalogue Item" />
+  <TocEntry
+    Title="Manage Catalogue" />
+  <TocEntry
+    Title="Inspect Catalogue Item" />
+  <TocEntry
+    Title="Add Catalogue Item" />
+  <TocEntry
+    Title="Edit Catalogue Item" />
+  <TocEntry
+    Title="Search for Catalogue Item" />
+  <TocEntry
+    Title="Make a Catalogue Item private or public" />
+  <TocEntry
+    Title="Archive a Catalogue Item" />
+  <TocEntry
+    Title="Edit in Wizard" />
+  <TocEntry
+    Title="Add Learning Wizard" />
+  <TocEntry
+    Title="Assign Learning" />
+  <TocEntry
+    Title="Import Catalogue Item Tags and link to Catalogue Items in bulk" />
+</CatapultToc>

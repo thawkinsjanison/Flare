@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="User settings - Introduction"
+    Link="/Content/D_Settings/User Settings/User settings Introduction.htm" />
+  <TocEntry
+    Title="Self-Registration form"
+    Link="/Content/D_Settings/User Settings/Self Registration form.htm" />
+  <TocEntry
+    Title="Edit form"
+    Link="/Content/D_Settings/User Settings/Edit form.htm" />
+  <TocEntry
+    Title="List view"
+    Link="/Content/D_Settings/User Settings/List view.htm" />
+  <TocEntry
+    Title="Details view"
+    Link="/Content/D_Settings/User Settings/Details view.htm" />
+  <TocEntry
+    Title="Public profile"
+    Link="/Content/D_Settings/User Settings/Public profile.htm" />
+  <TocEntry
+    Title="Default User settings"
+    Link="/Content/D_Settings/User Settings/Default User settings.htm" />
+</CatapultToc>

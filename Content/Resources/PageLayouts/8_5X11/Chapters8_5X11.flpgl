@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="All" Padding="20px" PageType="normal" PaddingLeft="1cm" PaddingRight="1cm" PaddingTop="1cm" PaddingBottom="1cm" BleedLeft="0.25in" Orientation="portrait" BleedBottom="0.25in" BleedTop="0.25in" BleedRight="0.25in" PageSize="A4">
+        <Frame Flow="body" Y="48px" Bottom="72px" X="0px" Right="0px" ColumnCount="1" ColumnGap="30px" ColumnDivider="Solid 1px Red" Anchors="Left,Right,Top,Bottom" Width="718px" Height="927px" BorderLeftStyle="solid" BorderLeftWidth="0px" BorderLeftColor="" BorderRightStyle="solid" BorderRightWidth="0px" BorderRightColor="" BorderTopStyle="solid" BorderTopWidth="0px" BorderTopColor="" BorderBottomStyle="solid" BorderBottomWidth="0px" BorderBottomColor="">
+        </Frame>
+        <Frame Flow="footer" Height="66px" Anchors="Left,Right,Bottom" Right="0px" Bottom="0px" X="0px" Y="981px" Width="718px" TextAlign="left" VerticalAlign="bottom" BackgroundRepeat="no-repeat" BackgroundPositionX="right" BackgroundPositionY="bottom" BackgroundImage="../../Images/janisonlogo_print_sml.tif">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="FrameFooterText"><MadCap:variable xhtml:name="System.PageNumber" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-38px" Y="-37px" Width="794px" Height="85px" Flow="header" Right="-38px" Bottom="999px" BackgroundRepeat="no-repeat" BackgroundPositionX="left" BackgroundPositionY="top" Anchors="" BackgroundImage="../../Images/header.tif" />
+    </Page>
+</PageStyles>

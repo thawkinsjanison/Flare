@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Resource Designer Settings – Introduction"
+    Link="/Content/D_Settings/Resource designer settings/Resource Designer Settings.htm" />
+  <TocEntry
+    Title="Resource Options"
+    Link="/Content/D_Settings/Resource designer settings/Resource Options.htm" />
+  <TocEntry
+    Title="Stimulus Options"
+    Link="/Content/D_Settings/Resource designer settings/Stimulus Options.htm" />
+  <TocEntry
+    Title="Identifier Auto Generation"
+    Link="/Content/D_Settings/Resource designer settings/Identifier Auto Generation.htm" />
+  <TocEntry
+    Title="Available Stimuli Templates"
+    Link="/Content/D_Settings/Resource designer settings/Available Stimuli Templates.htm" />
+  <TocEntry
+    Title="Available Resource Types"
+    Link="/Content/D_Settings/Resource designer settings/Available Resource Types.htm" />
+</CatapultToc>

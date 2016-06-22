@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Design\Surveys.docx">
+  <TocEntry
+    Title="Surveys – introduction"
+    Link="/Content/C_Design/Surveys/Surveys introduction.htm" />
+  <TocEntry
+    Title="How to create a survey for a learning module"
+    Link="/Content/C_Design/Surveys/How to create a survey for.htm" />
+  <TocEntry
+    Title="How to add a question to a survey"
+    Link="/Content/C_Design/Surveys/How to add a question to a.htm" />
+  <TocEntry
+    Title="How to add a survey to a learning module"
+    Link="/Content/C_Design/Surveys/How to add a survey to a learning.htm" />
+  <TocEntry
+    Title="End User Experience"
+    Link="/Content/C_Design/Surveys/End User Experience.htm" />
+  <TocEntry
+    Title="How to create a survey for the survey player"
+    Link="/Content/C_Design/Surveys/How to create a survey for_1.htm" />
+  <TocEntry
+    Title="How to add a section to a multiple section survey"
+    Link="/Content/C_Design/Surveys/How to add a section to a.htm" />
+  <TocEntry
+    Title="End user experience"
+    Link="/Content/C_Design/Surveys/End user experience_1.htm" />
+  <TocEntry
+    Title="Response analysis"
+    Link="/Content/C_Design/Surveys/Response analysis.htm" />
+</CatapultToc>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Users.docx">
+  <TocEntry
+    Title="Users introduction" />
+  <TocEntry
+    Title="Manually adding a user" />
+  <TocEntry
+    Title="Quick add user" />
+  <TocEntry
+    Title="Import a user" />
+  <TocEntry
+    Title="Search for users" />
+  <TocEntry
+    Title="Archive a user" />
+  <TocEntry
+    Title="Change user password" />
+  <TocEntry
+    Title="Add user roles" />
+  <TocEntry
+    Title="Inspect user" />
+</CatapultToc>

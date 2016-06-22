@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Locations – Introduction"
+    Link="/Content/D_Settings/Locations/Locations Introduction.htm" />
+  <TocEntry
+    Title="Add a Location"
+    Link="/Content/D_Settings/Locations/Add a Location.htm" />
+  <TocEntry
+    Title="Inspect a Location details"
+    Link="/Content/D_Settings/Locations/Inspect a Location details.htm" />
+</CatapultToc>

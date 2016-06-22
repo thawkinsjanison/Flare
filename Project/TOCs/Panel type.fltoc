@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Design\Panel type.docx">
+  <TocEntry
+    Title="Course designer panels – introduction" />
+  <TocEntry
+    Title="Panel type - Introduction" />
+  <TocEntry
+    Title="Panel type – Plain text" />
+  <TocEntry
+    Title="Panel type - Reveal list" />
+  <TocEntry
+    Title="Panel type – pop-up" />
+  <TocEntry
+    Title="To add a pop-up to the page:" />
+  <TocEntry
+    Title="In the editor enter Source code mode by clicking the  icon as shown in the screenshot below." />
+  <TocEntry
+    Title="Copy the code from below and" />
+  <TocEntry
+    Title="Save and view the page in your course player. You will need to refresh to see the most recent changes." />
+  <TocEntry
+    Title="You can then customise the text to suite your page. In the sample code overwrite the text 'This is the text in the body of the pop-up'." />
+  <TocEntry
+    Title="Note: It is possible to use most formatting supported by this editor as well as upload images to the pop-up." />
+  <TocEntry
+    Title="Panel type - Accordion" />
+  <TocEntry
+    Title="Panel type – Tabbed content" />
+  <TocEntry
+    Title="Panel type – reflection tiles" />
+  <TocEntry
+    Title="Panel type – Slideshow" />
+  <TocEntry
+    Title="Panel type – Hotspot" />
+  <TocEntry
+    Title="Panel type – Video" />
+  <TocEntry
+    Title="Panel type – Module progress" />
+</CatapultToc>

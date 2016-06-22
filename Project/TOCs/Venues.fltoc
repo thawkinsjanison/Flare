@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Venues – Introduction"
+    Link="/Content/D_Settings/Venues/Venues Introduction.htm" />
+  <TocEntry
+    Title="Add a Venue"
+    Link="/Content/D_Settings/Venues/Add a Venue.htm" />
+  <TocEntry
+    Title="Inspect Venue details"
+    Link="/Content/D_Settings/Venues/Inspect Venue details.htm" />
+  <TocEntry
+    Title="Edit a Venue"
+    Link="/Content/D_Settings/Venues/Edit a Venue.htm" />
+  <TocEntry
+    Title="Import Venues and Locations"
+    Link="/Content/D_Settings/Venues/Import Venues and Locations.htm" />
+</CatapultToc>

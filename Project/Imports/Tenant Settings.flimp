@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-08-04T15:47:14.4880083+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-08-04T15:48:11.4180696+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/Tenant Settings.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Tenant Settings.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Introduction.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Introduction.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_1.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_2.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_3.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_4.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_5.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_6.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_7.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_8.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_9.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_10.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_11.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_12.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_13.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_14.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_15.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Login_16.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Login.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Welcome Tours.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Welcome Tours_1.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Welcome Tours.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Organisation.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Organisation_1.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Organisation_2.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Organisation.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_1.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_2.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_3.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_4.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_5.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_6.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_7.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_8.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_9.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_10.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_11.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_12.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_13.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_14.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_15.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Catalogue_16.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Catalogue.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Certificate.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Certificate_1.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Certificate.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Security.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Security_1.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Security_2.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Security_3.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Security_4.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Security.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Time Zone.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Time Zone.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Block Browser.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Block Browser_1.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Block Browser.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_1.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_2.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_3.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_4.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_5.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_6.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_7.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_8.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_9.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_10.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_11.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_12.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_13.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_14.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_15.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_16.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_17.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_18.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_19.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_20.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_21.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_22.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_23.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_24.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tenant Settings/Tenant Settings Miscellaneous_25.png"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Tenant Settings/Tenant Settings Miscellaneous.htm"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../TOCs/Tenant Settings.fltoc"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Tenant Settings.flmsp"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="4/08/2015 3:47:52 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Bullet" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

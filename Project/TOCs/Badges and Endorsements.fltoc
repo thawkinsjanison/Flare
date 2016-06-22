@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Badges and Endorsements.docx">
+  <TocEntry
+    Title="Administrator Overview"
+    Link="/Content/B_Manage Learning/Badges and Endorsements/Administrator Overview.htm" />
+  <TocEntry
+    Title="Setup"
+    Link="/Content/B_Manage Learning/Badges and Endorsements/Setup.htm" />
+  <TocEntry
+    Title="2 Setup – Enabling Endorsements"
+    Link="/Content/B_Manage Learning/Badges and Endorsements/2 Setup Enabling Endorsements.htm" />
+  <TocEntry
+    Title="3 Setup – Endorsement Settings"
+    Link="/Content/B_Manage Learning/Badges and Endorsements/3 Setup Endorsement Settings.htm" />
+  <TocEntry
+    Title="Learner Overview"
+    Link="/Content/B_Manage Learning/Badges and Endorsements/Learner Overview.htm" />
+  <TocEntry
+    Title="Workflow"
+    Link="/Content/B_Manage Learning/Badges and Endorsements/Workflow.htm" />
+  <TocEntry
+    Title="2 Workflow – Endorsing other Learners"
+    Link="/Content/B_Manage Learning/Badges and Endorsements/2 Workflow Endorsing other.htm" />
+  <TocEntry
+    Title="Extended – People"
+    Link="/Content/B_Manage Learning/Badges and Endorsements/3 Workflow Diagram of Workflow.htm" />
+</CatapultToc>

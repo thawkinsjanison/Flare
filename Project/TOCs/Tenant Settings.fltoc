@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Tenant Settings – Introduction"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Introduction.htm" />
+  <TocEntry
+    Title="Tenant Settings – Login"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Login.htm" />
+  <TocEntry
+    Title="Tenant Settings – Welcome Tours"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Welcome Tours.htm" />
+  <TocEntry
+    Title="Tenant Settings – Organisation"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Organisation.htm" />
+  <TocEntry
+    Title="Tenant Settings – Catalogue Item Settings"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Catalogue.htm" />
+  <TocEntry
+    Title="Tenant Settings – Certificate Templates"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Certificate.htm" />
+  <TocEntry
+    Title="Tenant Settings – Security"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Security.htm" />
+  <TocEntry
+    Title="Tenant Settings – Time Zone"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Time Zone.htm" />
+  <TocEntry
+    Title="Block Browser"
+    Link="/Content/D_Settings/Tenant Settings/Block Browser.htm" />
+  <TocEntry
+    Title="Tenant Settings – Miscellaneous"
+    Link="/Content/D_Settings/Tenant Settings/Tenant Settings Miscellaneous.htm" />
+</CatapultToc>

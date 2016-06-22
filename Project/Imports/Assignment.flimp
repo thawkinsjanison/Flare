@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-22T17:09:06.9433248+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-22T17:09:30.7349948+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Assignment.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Assignment.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Assignments Introduction.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Assignments Introduction.htm"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Assignment sections.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Assignment sections.htm"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Settings.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Settings.htm"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Permissions.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Permissions_1.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Permissions.htm"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Marking Rubric.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Marking Rubric.htm"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Competencies.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Competencies.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Notifications.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Notifications.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Making the Assignment available.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Making the Assignment available.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Learner experience of the.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Learner experience of the_1.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Learner experience of the_2.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Learner experience of the.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Marker experience of the assignment.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Marker experience of the assignment.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Assignment Summary.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Assignment Summary.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Submissions.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Submissions.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Assignment Details.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Assignment Details.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Recent Activities.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Recent Activities.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Marking Progress Statuses.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Marking Progress Statuses_1.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assignment/Marking Progress Statuses_2.png"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Assignment/Marking Progress Statuses.htm"
+      TimeStamp="22/04/2015 5:09:29 PM" />
+    <Url
+      Source="../TOCs/Assignment.fltoc"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Assignment.flmsp"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="22/04/2015 5:09:28 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Bullets" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

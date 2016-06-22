@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Marking – introduction"
+    Link="/Content/B_Manage Learning/Marking/Marking introduction.htm" />
+  <TocEntry
+    Title="Inspect Marking"
+    Link="/Content/B_Manage Learning/Marking/Inspect Marking.htm" />
+  <TocEntry
+    Title="View Marking"
+    Link="/Content/B_Manage Learning/Marking/View Marking.htm" />
+  <TocEntry
+    Title="Mark Test Attempt"
+    Link="/Content/B_Manage Learning/Marking/Mark Test Attempt.htm" />
+  <TocEntry
+    Title="Assigning Markers"
+    Link="/Content/B_Manage Learning/Marking/Assigning Markers.htm" />
+  <TocEntry
+    Title="Email settings for Marking"
+    Link="/Content/B_Manage Learning/Marking/Email settings for Marking.htm" />
+  <TocEntry
+    Title="Export Test Attempts to PDF"
+    Link="/Content/B_Manage Learning/Marking/Export Test Attempts to PDF.htm" />
+</CatapultToc>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="false"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-10-16T13:51:11.1212131+11:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-10-16T13:51:56.2210785+11:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/Roles.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Roles.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Roles Introduction.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Roles Introduction.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Some Concepts of Roles.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Some Concepts of Roles_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Some Concepts of Roles.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Security Hierarchies.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Security Hierarchies_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Security Hierarchies_2.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Security Hierarchies.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Roles Key Actions Available.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Roles Key Actions Available.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Menu Items and Key Action.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Roles Manager List Form.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Roles Manager List Form_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Roles Manager List Form.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Inspect a Role.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Inspect a Role.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section_2.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section_3.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section_4.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section_5.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section_6.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section_7.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Form Top Section_8.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Role Form Top Section.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Applicable Documents.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Applicable Documents_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Applicable Documents_2.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Applicable Documents.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_2.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_3.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_4.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_5.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_6.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_7.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_8.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_9.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Securable areas of the Documents_10.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Securable areas of the Documents.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Restrictions.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Restrictions_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Restrictions_2.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Restrictions_3.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Role Restrictions_4.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Role Restrictions.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/How this role compares to.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/How this role compares to_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/How this role compares to.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Menu.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Menu_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Menu.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Roles Manager Add Role.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Roles Manager Add Role.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Roles Manager Export and Import.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Roles Manager Export and Import_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Roles Manager Export and Import.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/User Extra Roles Widget.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/User Extra Roles Widget_1.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/User Extra Roles Widget_2.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/User Extra Roles Widget_3.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/User Extra Roles Widget.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Administrators Widget.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Administrators Widget.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Why can t I edit someone.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles1/Explicit Roles vs Implicit.png"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Roles1/Explicit Roles vs Implicit.htm"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../TOCs/Roles1.fltoc"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Roles1.flmsp"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="16/10/2015 1:51:44 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Heading 1 Char" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

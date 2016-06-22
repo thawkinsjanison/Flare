@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-11-02T09:41:39.1375380+11:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-11-02T09:42:33.7896863+11:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Design/Assessment Modules.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Assessment Modules.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Assessment Modules.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Assessment Modules_1.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Assessment Modules.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Manage Assessment Modules.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Manage Assessment Modules.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Inspect Assessment Module.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Inspect Assessment Module_1.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Inspect Assessment Module.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Add an Assessment Module.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Add an Assessment Module_1.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Add an Assessment Module.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Edit an Assessment Module.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Edit an Assessment Module_1.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Edit an Assessment Module.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Export an Assessment Module.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Deep Copy Assessment Module.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Deep Copy Assessment Module_1.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Deep Copy Assessment Module_2.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Deep Copy Assessment Module.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Import an Assessment Module.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Import an Assessment Module.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Export QTI Items.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Export QTI Items.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Admin Delete Assessment Module.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Admin Delete Assessment Module_1.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment Modules/Admin Delete Assessment Module_2.png"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Assessment Modules/Admin Delete Assessment Module.htm"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../TOCs/Assessment Modules.fltoc"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Assessment Modules.flmsp"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="2/11/2015 9:42:10 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="b"
+      To="b.(MS Word Style)" />
+    <Map
+      From="em"
+      To="i.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="Title" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="b" />
+    <StyleName
+      Name="em" />
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="Hyperlink1" />
+  </UsedCharacterStyles>
+</MsWordImport>

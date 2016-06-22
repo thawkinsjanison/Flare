@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Competencies.docx">
+  <TocEntry
+    Title="Competencies – an introduction"
+    Link="/Content/B_Manage Learning/Competencies/Competencies an introduction.htm" />
+  <TocEntry
+    Title="Manage Competencies"
+    Link="/Content/B_Manage Learning/Competencies/Manage Competencies.htm" />
+  <TocEntry
+    Title="Add a Competency"
+    Link="/Content/B_Manage Learning/Competencies/Add a Competency.htm" />
+  <TocEntry
+    Title="Archive, Delete or Edit a Competency"
+    Link="/Content/B_Manage Learning/Competencies/Archive Delete or Edit a Competency.htm" />
+  <TocEntry
+    Title="Link Competency to a Catalogue Item"
+    Link="/Content/B_Manage Learning/Competencies/Link Competency to a Catalogue.htm" />
+  <TocEntry
+    Title="Add a Competency Requirement"
+    Link="/Content/B_Manage Learning/Competencies/Add a Competency Requirement.htm" />
+  <TocEntry
+    Title="Run Requirements"
+    Link="/Content/B_Manage Learning/Competencies/Run Requirements.htm" />
+  <TocEntry
+    Title="Edit a Competency Requirement"
+    Link="/Content/B_Manage Learning/Competencies/Edit a Competency Requirement.htm" />
+  <TocEntry
+    Title="Delete a Competency Requirement"
+    Link="/Content/B_Manage Learning/Competencies/Delete a Competency Requirement.htm" />
+  <TocEntry
+    Title="Manage Compliance with Competency Requirements"
+    Link="/Content/B_Manage Learning/Competencies/Manage Compliance with Competency.htm" />
+  <TocEntry
+    Title="Add a Competency Set"
+    Link="/Content/B_Manage Learning/Competencies/Add a Competency Set.htm" />
+  <TocEntry
+    Title="Manage Competency Set Types"
+    Link="/Content/B_Manage Learning/Competencies/Manage Competency Set Types.htm" />
+  <TocEntry
+    Title="View competencies as a learner"
+    Link="/Content/B_Manage Learning/Competencies/View competencies as a learner.htm" />
+  <TocEntry
+    Title="Import Competencies"
+    Link="/Content/B_Manage Learning/Competencies/Import Competencies.htm" />
+  <TocEntry
+    Title="Import Competency User Status"
+    Link="/Content/B_Manage Learning/Competencies/Import Competency User Status.htm" />
+</CatapultToc>

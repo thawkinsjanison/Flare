@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Creating Questions" />
+  <TocEntry
+    Title="Associate Interaction" />
+  <TocEntry
+    Title="Cloze" />
+  <TocEntry
+    Title="Comment" />
+  <TocEntry
+    Title="File Upload" />
+  <TocEntry
+    Title="Gap Match Interaction" />
+  <TocEntry
+    Title="Graphic Associate Interaction" />
+  <TocEntry
+    Title="Graphic Gap Match Interaction" />
+  <TocEntry
+    Title="Graphic order interaction" />
+  <TocEntry
+    Title="Hotspot interaction" />
+  <TocEntry
+    Title="Keyword" />
+  <TocEntry
+    Title="Match interaction" />
+  <TocEntry
+    Title="Multiple Short Answers" />
+  <TocEntry
+    Title="Order Interaction" />
+  <TocEntry
+    Title="Position Object Interaction" />
+  <TocEntry
+    Title="Select Point Interaction" />
+  <TocEntry
+    Title="Short Answer" />
+  <TocEntry
+    Title="Slider Interaction" />
+  <TocEntry
+    Title="Text Spot" />
+  <TocEntry
+    Title="Text Spot Interaction" />
+  <TocEntry
+    Title="True/False" />
+  <TocEntry
+    Title="Yes/No" />
+</CatapultToc>

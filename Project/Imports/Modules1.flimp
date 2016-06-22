@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-23T16:25:16.2456142+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-23T16:25:30.3800513+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Design/Modules.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Modules.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Modules Introduction.png"
+      TimeStamp="23/04/2015 4:25:25 PM" />
+    <Url
+      Source="../../Content/Modules1/Modules Introduction.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Add a learning module manually.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Add a learning module manually_1.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Modules1/Add a learning module manually.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Export a module.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Modules1/Export a module.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Import a module.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Import a module_1.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Modules1/Import a module.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Search for a module.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Modules1/Search for a module.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Inspect a module.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Inspect a module_1.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Modules1/Inspect a module.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding pages to a module.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding pages to a module_1.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding pages to a module_2.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding pages to a module_3.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Modules1/Adding pages to a module.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding new panels to a page.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding new panels to a page_1.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding new panels to a page_2.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Modules1/Adding new panels to a page.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding existing panels to.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Modules1/Adding existing panels to_1.png"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Modules1/Adding existing panels to.htm"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../TOCs/Modules1.fltoc"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Modules1.flmsp"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="23/04/2015 4:25:26 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

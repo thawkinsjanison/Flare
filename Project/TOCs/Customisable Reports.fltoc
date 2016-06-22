@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Customisable reports - introduction" />
+  <TocEntry
+    Title="Create a Custom Report"
+    Link="/Content/B_Manage Learning/Customisable Reports/Create a Custom Report.htm" />
+  <TocEntry
+    Title="Notes on building filters"
+    Link="/Content/B_Manage Learning/Customisable Reports/Notes on building filters.htm" />
+  <TocEntry
+    Title="Inspect a Custom Report"
+    Link="/Content/B_Manage Learning/Customisable Reports/Inspect a Custom Report.htm" />
+  <TocEntry
+    Title="Save the Report"
+    Link="/Content/B_Manage Learning/Customisable Reports/Save the Report.htm" />
+  <TocEntry
+    Title="Export the Report Results" />
+  <TocEntry
+    Title="Using Custom Report Templates"
+    Link="/Content/B_Manage Learning/Customisable Reports/Using Custom Report Templates.htm" />
+</CatapultToc>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Assessment Module Tests - introduction" />
+  <TocEntry
+    Title="Manage tests" />
+  <TocEntry
+    Title="Test Designer settings" />
+  <TocEntry
+    Title="View test details" />
+  <TocEntry
+    Title="Create a test for an assessment module" />
+  <TocEntry
+    Title="Edit a test" />
+  <TocEntry
+    Title="Pass/fail and attempts" />
+  <TocEntry
+    Title="Timing options" />
+  <TocEntry
+    Title="Manage sections" />
+  <TocEntry
+    Title="View, create or edit a section" />
+  <TocEntry
+    Title="Randomisation" />
+  <TocEntry
+    Title="Test questions" />
+  <TocEntry
+    Title="Subsections" />
+  <TocEntry
+    Title="Using a test" />
+</CatapultToc>

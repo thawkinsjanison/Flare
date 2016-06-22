@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-30T14:06:57.6431757+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-30T14:07:30.9670494+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/manage learning/Add Learning.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Add Learning.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Add Learning1/Adding Learning introduction.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Add Learning.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Add Learning_1.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Add Learning_2.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Add Learning.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 1 Learning Type.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Step 1 Learning Type.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Steps 2 Description.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Steps 2 Description_1.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Steps 2 Description.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 3 Details for Learning.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 3 Details for Learning_1.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 3 Details for Learning_2.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Step 3 Details for Learning.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 3 Details for Other Learning.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Step 3 Details for Other Learning.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 3 Details for Program.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 3 Details for Program_1.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Step 3 Details for Program.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 3 Details for SCORM Course.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Step 3 Details for SCORM Course.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Add Learning1/Step 3 Details for Trackable.png"
+      TimeStamp="30/04/2015 2:07:27 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Step 3 Details for Trackable.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Add Learning1/Step 4 Review Publish.htm"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../TOCs/Add Learning1.fltoc"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Add Learning1.flmsp"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="30/04/2015 2:07:28 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Heading 2 Char" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

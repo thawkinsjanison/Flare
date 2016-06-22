@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="1935" MadCap:lastWidth="1046">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Organisations – Introduction</h1>
+        <p>Organisations are the top-level structures for organising people in the CLS and are directly attached to the Tenant </p>
+        <p>Organisations are set up using a strict tree structure, a structure that is based on an upside-down, idealised tree:</p>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Organisations Introduction.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>Consider the example of a tiny company with four separate sections:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Management: 1 staff member.</li>
+            <li style="list-style-type: disc;">Office: 2 staff members.</li>
+            <li style="list-style-type: disc;">Sales and Marketing: 1 staff member.</li>
+            <li style="list-style-type: disc;">Factory: 3 staff members.</li>
+        </ul>
+        <p>To bring this company into the CLS we start with their HR diagram:</p>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Organisations Introduction_1.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>If we take this HR structure and translate it into the CLS Organisations model, the company would be the Organisation. From the Organisation there are several specific categories of people. In the CLS these categories are called Organisation Units and their staff are the CLS Users:</p>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Organisations Introduction_2.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>After merging these two hierarchies into the diagram below, we can see that the Organisation Units are now:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">Management –1 User.</li>
+            <li style="list-style-type: disc;">Office –2 Users.</li>
+            <li style="list-style-type: disc;">Sales and Marketing –1 User.</li>
+            <li style="list-style-type: disc;">Factory –3 Users.</li>
+        </ul>
+        <p>
+            <img src="../../Resources/Images/Organisations1/Organisations Introduction_3.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <p>[The abbreviation Org Unit is used in the CLS for Organisation Unit].</p>
+        <p>As is clear, this strict tree structure models the HR structure of the company. Each person belongs to one and only one Org Unit. As is also clear in the diagram, the strict tree structure means that (working from the bottom to the top) a User can only belong to one Organisation Unit but s/he could be one of a number of Users that also belong to this Organisation Unit. And this Organisation Unit can only belong to one Organisation but it could be one of many Organisation Units that also belong to the Organisation. </p>
+        <p>This kind of strict tree structure is used in other parts of the CLS, for example with Position to Position reporting hierarchies, see <a href="../Positions/Positions Introduction.htm"><span class="Hyperlink">Positions</span></a>. Groups use a different, more flexible kind of tree structure. They can play an important role in the CLS by augmenting and/or bypassing the organisation structure above, see <a href="Organisations and Groups.htm#_Oganisations_and_Groups"><span class="Hyperlink">Organisations and Groups</span></a> for a full description.</p>
+        <p>Overall, every CLS User is a member of one Organisation, one Organisation Unit and possibly one or more Groups. A User may also have a Position. Combining these functionalities makes it possible to model the HR structures of Health, Government, Education and Corporate organisations and to make it easier to manage and report on large numbers of Users.</p>
+        <p>Note also that most Users will not be able to see the Manage Organisations screens described here because the CLS Security management system uses scope-based Roles. This does not allow Users to see lists of items beyond the scope of their assigned Role. For example, someone who manages a particular organisation will not be able to see a list of <i>all</i> organisations. Organisations are the highest level (widest scoped) people structure in the CLS, thus only high-level administrators are able to see them.</p>
+        <p> [Tree image courtesy of <a href="http://cliparts.co/clipart/2434973" target="_blank"><span class="Hyperlink">cliparts.co</span></a>] </p>
+    </body>
+</html>

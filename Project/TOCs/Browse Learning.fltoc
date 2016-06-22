@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Browse Learning Introduction"
+    Link="/Content/D_Settings/Browse Learning/Browse Learning Introduction.htm" />
+  <TocEntry
+    Title="Browse Learning Settings"
+    Link="/Content/D_Settings/Browse Learning/Browse Learning Settings.htm" />
+  <TocEntry
+    Title="Browse Learning and Catalogue Appearance"
+    Link="/Content/D_Settings/Browse Learning/Browse Learning and Catalogue.htm" />
+  <TocEntry
+    Title="Browse Learning - Content of Interest"
+    Link="/Content/D_Settings/Browse Learning/Browse Learning Content of.htm" />
+  <TocEntry
+    Title="Browse Learning - Discuss Catalogue Content"
+    Link="/Content/D_Settings/Browse Learning/Browse Learning Discuss Catalogue.htm" />
+  <TocEntry
+    Title="Browse Learning - Recommended Content"
+    Link="/Content/D_Settings/Browse Learning/Browse Learning Recommended.htm" />
+</CatapultToc>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Groups.docx">
+  <TocEntry
+    Title="Groups Introduction" />
+  <TocEntry
+    Title="Add group manually" />
+  <TocEntry
+    Title="Import groups" />
+  <TocEntry
+    Title="Search for groups" />
+  <TocEntry
+    Title="Edit groups" />
+  <TocEntry
+    Title="Import users to a group" />
+  <TocEntry
+    Title="Inspect a group" />
+  <TocEntry
+    Title="Archive a group" />
+</CatapultToc>

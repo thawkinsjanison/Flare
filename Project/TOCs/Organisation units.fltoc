@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Organisation units.docx">
+  <TocEntry
+    Title="Organisation unit Introduction"
+    Link="/Content/A_Manage People/Organisation units/Organisation units.htm" />
+  <TocEntry
+    Title="Add organisation unit manually"
+    Link="/Content/A_Manage People/Organisation units/Add organisation unit manually.htm" />
+  <TocEntry
+    Title="Importing an organisation unit"
+    Link="/Content/A_Manage People/Organisation units/Importing an organisation.htm" />
+  <TocEntry
+    Title="The CLS provides a sample" />
+  <TocEntry
+    Title="Inspect organisation unit"
+    Link="/Content/A_Manage People/Organisation units/Inspect organisation unit.htm" />
+  <TocEntry
+    Title="Edit organisation unit"
+    Link="/Content/A_Manage People/Organisation units/Edit organisation unit.htm" />
+</CatapultToc>

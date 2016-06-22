@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Assessment Question Types"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Assessment question types1.fltoc"
+  AutoSizeCaptureCaptions="false"
+  GetLatestBeforeCompile="true"
+  Medium="print"
+  MasterPageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/WordStyles.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Keywords="Assessment Question Types"
+    Title="Assessment Question Types"
+    Subject="Assessment Question Types" />
+  <PDF
+    ShowUsedBookmarks="false"
+    TitleBar="DocumentTitle"
+    PageMode="UseNone"
+    PageLayout="SinglePage"
+    ImageCompression="JPEG"
+    RestrictPermissions="false" />
+</CatapultTarget>

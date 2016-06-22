@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-05T17:04:36.3816361+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-05T17:05:12.1507908+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Design/Tests.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Tests.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Tests/Assessment Module Tests introduction.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Assessment Module Tests introduction.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Manage tests.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Manage tests.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Test Designer settings.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Test Designer settings_1.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Test Designer settings_2.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Test Designer settings_3.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Test Designer settings_4.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Test Designer settings.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/View test details.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/View test details_1.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/View test details_2.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/View test details_3.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/View test details_4.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/View test details_5.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/View test details.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Create a test for an assessment.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Create a test for an assessment_1.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Create a test for an assessment.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Edit a test.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Edit a test_1.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Edit a test.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Pass fail and attempts.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Pass fail and attempts.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Timing options.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Timing options.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Manage sections.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Manage sections.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/View create or edit a section.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/View create or edit a section_1.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/View create or edit a section.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Randomisation.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Randomisation.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Test questions.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Test questions.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Subsections.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Tests/Subsections_1.png"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Subsections.htm"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Tests/Using a test.htm"
+      TimeStamp="5/05/2015 5:05:04 PM" />
+    <Url
+      Source="../TOCs/Tests.fltoc"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Tests.flmsp"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="5/05/2015 5:05:03 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

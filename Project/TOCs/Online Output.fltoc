@@ -1,0 +1,1895 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="People"
+    Link="/Content/A_Manage People/Manage People Overview/Manage People.htm">
+    <TocEntry
+      Title="Introduction"
+      Link="/Content/A_Manage People/Manage People Overview/Manage People.htm" />
+    <TocEntry
+      Title="Bulk Action"
+      Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm">
+      <TocEntry
+        Title="Bulk Action Plugin"
+        Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm" />
+      <TocEntry
+        Title="Regenerate Passwords"
+        Link="/Content/A_Manage People/Bulk Action/Regenerate Passwords.htm" />
+      <TocEntry
+        Title="Account Activation / Deactivation"
+        Link="/Content/A_Manage People/Bulk Action/Account Activation Deactivation.htm" />
+      <TocEntry
+        Title="Send Welcome Email"
+        Link="/Content/A_Manage People/Bulk Action/Send Welcome Email.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Groups"
+      Link="/Content/A_Manage People/Groups/Groups Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/A_Manage People/Groups/Groups Introduction.htm" />
+      <TocEntry
+        Title="Uses of Groups"
+        Link="/Content/A_Manage People/Groups/Uses of Groups.htm" />
+      <TocEntry
+        Title="Manage Groups"
+        Link="/Content/A_Manage People/Groups/Manage Groups.htm" />
+      <TocEntry
+        Title="Inspect Group Details"
+        Link="/Content/A_Manage People/Groups/Inspect Group details.htm" />
+      <TocEntry
+        Title="Adding a Group"
+        Link="/Content/A_Manage People/Groups/Adding a Group.htm" />
+      <TocEntry
+        Title="Search for a Group"
+        Link="/Content/A_Manage People/Groups/Search for a Group.htm" />
+      <TocEntry
+        Title="Edit Group"
+        Link="/Content/A_Manage People/Groups/Edit Group.htm" />
+      <TocEntry
+        Title="Import Users"
+        Link="/Content/A_Manage People/Groups/Import Users.htm" />
+      <TocEntry
+        Title="Archive a Group"
+        Link="/Content/A_Manage People/Groups/Archive a Group.htm" />
+      <TocEntry
+        Title="Import Memberships into a Group"
+        Link="/Content/A_Manage People/Groups/Import memberships into a.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Group Types"
+      Link="/Content/A_Manage People/Group types/Group types Introduction.htm">
+      <TocEntry
+        Title="Group Types Introduction"
+        Link="/Content/A_Manage People/Group types/Group types Introduction.htm" />
+      <TocEntry
+        Title="Add Group Types"
+        Link="/Content/A_Manage People/Group types/Add group types.htm" />
+      <TocEntry
+        Title="Search for Group Types"
+        Link="/Content/A_Manage People/Group types/Search for group types.htm" />
+      <TocEntry
+        Title="Inspect Group Types"
+        Link="/Content/A_Manage People/Group types/Inspect group types.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="My Learning Transcript"
+      Link="/Content/D_Settings/My Learning Transcript/My Learning Transcript Introduction.htm">
+      <TocEntry
+        Title="My Learning Transcript - Introduction"
+        Link="/Content/D_Settings/My Learning Transcript/My Learning Transcript Introduction.htm" />
+      <TocEntry
+        Title="Customising My Learning Transcript"
+        Link="/Content/D_Settings/My Learning Transcript/Customising My Learning Transcript.htm" />
+      <TocEntry
+        Title="Optional Attributes for Transcripts"
+        Link="/Content/D_Settings/My Learning Transcript/Optional Attributes for transcripts.htm" />
+      <TocEntry
+        Title="Tag Type Columns"
+        Link="/Content/D_Settings/My Learning Transcript/Tag Type Columns.htm" />
+      <TocEntry
+        Title="PDF Transcripts"
+        Link="/Content/D_Settings/My Learning Transcript/PDF Transcripts.htm" />
+      <TocEntry
+        Title="Other Learning"
+        Link="/Content/D_Settings/My Learning Transcript/Other learning.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Organisations"
+      Link="/Content/A_Manage People/Organisations/Organisations Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/A_Manage People/Organisations/Organisations Introduction.htm" />
+      <TocEntry
+        Title="Organisations and Groups"
+        Link="/Content/A_Manage People/Organisations/Organisations and Groups.htm" />
+      <TocEntry
+        Title="Manage Organisations"
+        Link="/Content/A_Manage People/Organisations/Manage Organisations.htm" />
+      <TocEntry
+        Title="Inspect Organisation Details"
+        Link="/Content/A_Manage People/Organisations/Inspect Organisation details.htm" />
+      <TocEntry
+        Title="Creating an Organisation"
+        Link="/Content/A_Manage People/Organisations/Creating an Organisation.htm" />
+      <TocEntry
+        Title="Search for Organisation"
+        Link="/Content/A_Manage People/Organisations/Search for Organisation.htm" />
+      <TocEntry
+        Title="Edit Organisation"
+        Link="/Content/A_Manage People/Organisations/Edit Organisation.htm" />
+      <TocEntry
+        Title="Archive organisation"
+        Link="/Content/A_Manage People/Organisations/Archive organisation.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Organisation Units"
+      Link="/Content/A_Manage People/Organisation units/Organisation units.htm">
+      <TocEntry
+        Title="Organisation Unit Introduction"
+        Link="/Content/A_Manage People/Organisation units/Organisation units.htm" />
+      <TocEntry
+        Title="Add Organisation Unit Manually"
+        Link="/Content/A_Manage People/Organisation units/Add organisation unit manually.htm" />
+      <TocEntry
+        Title="Edit Organisation Unit"
+        Link="/Content/A_Manage People/Organisation units/Edit organisation unit.htm" />
+      <TocEntry
+        Title="Importing an Organisation Unit"
+        Link="/Content/A_Manage People/Organisation units/Importing an organisation.htm"></TocEntry>
+      <TocEntry
+        Title="Inspect Organisation Unit"
+        Link="/Content/A_Manage People/Organisation units/Inspect organisation unit.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Positions"
+      Link="/Content/A_Manage People/Positions/Positions Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/A_Manage People/Positions/Positions Introduction.htm" />
+      <TocEntry
+        Title="Position Management"
+        Link="/Content/A_Manage People/Positions/Position Management.htm" />
+      <TocEntry
+        Title="Setting up Management Relationships"
+        Link="/Content/A_Manage People/Positions/Setting up management relationships.htm" />
+      <TocEntry
+        Title="Manually adding a Position"
+        Link="/Content/A_Manage People/Positions/Manually adding a Position.htm" />
+      <TocEntry
+        Title="Importing a Position"
+        Link="/Content/A_Manage People/Positions/Importing a Position.htm" />
+      <TocEntry
+        Title="Inspect a Position"
+        Link="/Content/A_Manage People/Positions/Inspect a Position.htm" />
+      <TocEntry
+        Title="Searching for a Position"
+        Link="/Content/A_Manage People/Positions/Searching for a Position.htm" />
+      <TocEntry
+        Title="Edit a Position"
+        Link="/Content/A_Manage People/Positions/Edit a Position.htm" />
+      <TocEntry
+        Title="Archive a Position"
+        Link="/Content/A_Manage People/Positions/Archive a Position.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="People"
+      Link="/Content/A_Manage People/People/People Introduction.htm">
+      <TocEntry
+        Title="People  Introduction"
+        Link="/Content/A_Manage People/People/People Introduction.htm" />
+      <TocEntry
+        Title="Adding Fields to the People Tile"
+        Link="/Content/A_Manage People/People/Adding fields to the People.htm" />
+      <TocEntry
+        Title="Search for People"
+        Link="/Content/A_Manage People/People/Search for People.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Users"
+      Link="/Content/A_Manage People/Users1/Users introduction.htm">
+      <TocEntry
+        Title="Users introduction"
+        Link="/Content/A_Manage People/Users1/Users introduction.htm" />
+      <TocEntry
+        Title="Manually adding a user"
+        Link="/Content/A_Manage People/Users1/Manually adding a user.htm" />
+      <TocEntry
+        Title="User profile picture"
+        Link="/Content/A_Manage People/Users1/User profile picture.htm" />
+      <TocEntry
+        Title="Quick add user"
+        Link="/Content/A_Manage People/Users1/Quick add user.htm" />
+      <TocEntry
+        Title="Import a user"
+        Link="/Content/A_Manage People/Users1/Import a user.htm" />
+      <TocEntry
+        Title="Search for users"
+        Link="/Content/A_Manage People/Users1/Search for users.htm" />
+      <TocEntry
+        Title="Archive a user"
+        Link="/Content/A_Manage People/Users1/Archive a user.htm" />
+      <TocEntry
+        Title="Change user password"
+        Link="/Content/A_Manage People/Users1/Change user password.htm" />
+      <TocEntry
+        Title="Add user roles"
+        Link="/Content/A_Manage People/Users1/Add user roles.htm" />
+      <TocEntry
+        Title="Inspect user"
+        Link="/Content/A_Manage People/Users1/Inspect user.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Learning"
+    Link="/Content/B_Manage Learning/Manage Learning.htm">
+    <TocEntry
+      Title="Introduction"
+      Link="/Content/B_Manage Learning/Manage Learning.htm" />
+    <TocEntry
+      Title="Add Learning"
+      Link="/Content/B_Manage Learning/Add Learning/Adding Learning introduction.htm">
+      <TocEntry
+        Title="Add Learning Introduction"
+        Link="/Content/B_Manage Learning/Add Learning/Adding Learning introduction.htm" />
+      <TocEntry
+        Title="Add Learning Wizard"
+        Link="/Content/B_Manage Learning/Add Learning/Add Learning.htm" />
+      <TocEntry
+        Title="Step 1 Learning Type"
+        Link="/Content/B_Manage Learning/Add Learning/Step 1 Learning Type.htm" />
+      <TocEntry
+        Title="Steps 2 Description"
+        Link="/Content/B_Manage Learning/Add Learning/Steps 2 Description.htm" />
+      <TocEntry
+        Title="Step 3 Details for Learning Event"
+        Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Learning.htm" />
+      <TocEntry
+        Title="Step 3 Details for Other Learning"
+        Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Other Learning.htm" />
+      <TocEntry
+        Title="Step 3 Details for Program"
+        Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Program.htm" />
+      <TocEntry
+        Title="Step 3 Details for SCORM Course"
+        Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for SCORM Course.htm" />
+      <TocEntry
+        Title="Step 3 Details for Test"
+        Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Test.htm" />
+      <TocEntry
+        Title="Step 3 Details for Trackable Document"
+        Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Trackable.htm" />
+      <TocEntry
+        Title="Step 4 Review/Publish"
+        Link="/Content/B_Manage Learning/Add Learning/Step 4 Review Publish.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Approve Learning"
+      Link="/Content/B_Manage Learning/Approve Learning/Approve Learning Introduction.htm">
+      <TocEntry
+        Title="Approve Learning Introduction"
+        Link="/Content/B_Manage Learning/Approve Learning/Approve Learning Introduction.htm" />
+      <TocEntry
+        Title="Approve Learning Requests"
+        Link="/Content/B_Manage Learning/Approve Learning/Approve Learning Requests.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Assign Learning"
+      Link="/Content/B_Manage Learning/Assign Learning/Assigning Learning introduction.htm">
+      <TocEntry
+        Title="Assigning Learning Introduction"
+        Link="/Content/B_Manage Learning/Assign Learning/Assigning Learning introduction.htm" />
+      <TocEntry
+        Title="Assign Learning Wizard"
+        Link="/Content/B_Manage Learning/Assign Learning/Assign Learning wizard.htm" />
+      <TocEntry
+        Title="Step 1  Content"
+        Link="/Content/B_Manage Learning/Assign Learning/Step 1 Content.htm" />
+      <TocEntry
+        Title="Step 2  Recipients"
+        Link="/Content/B_Manage Learning/Assign Learning/Step 2 Recipients.htm" />
+      <TocEntry
+        Title="Step 3  Delivery"
+        Link="/Content/B_Manage Learning/Assign Learning/Step 3 Delivery.htm" />
+      <TocEntry
+        Title="Step 4  Review"
+        Link="/Content/B_Manage Learning/Assign Learning/Step 4 Review.htm" />
+      <TocEntry
+        Title="Assign Learning – Catalogue Item"
+        Link="/Content/B_Manage Learning/Assign Learning/Assign Learning Catalogue.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Assignment"
+      Link="/Content/B_Manage Learning/Assignment/Assignment introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/B_Manage Learning/Assignment/Assignment introduction.htm" />
+      <TocEntry
+        Title="Form"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Form.htm" />
+      <TocEntry
+        Title="Settings"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Settings.htm" />
+      <TocEntry
+        Title="Permissions"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Permissions.htm" />
+      <TocEntry
+        Title="Marking Rubric"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Marking Rubric.htm" />
+      <TocEntry
+        Title="Competencies"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Competencies.htm" />
+      <TocEntry
+        Title="Notifications"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Notifications.htm" />
+      <TocEntry
+        Title="Making the Assignment Available to the Learner"
+        Link="/Content/B_Manage Learning/Assignment/Making the Assignment available.htm" />
+      <TocEntry
+        Title="Learner Experience"
+        Link="/Content/B_Manage Learning/Assignment/Learner experience of the.htm" />
+      <TocEntry
+        Title="Marker Experience"
+        Link="/Content/B_Manage Learning/Assignment/Marker experience of the Assignment.htm" />
+      <TocEntry
+        Title="Summary"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Summary.htm" />
+      <TocEntry
+        Title="Submissions"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Submissions.htm" />
+      <TocEntry
+        Title="Details"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Details.htm" />
+      <TocEntry
+        Title="Recent Activities"
+        Link="/Content/B_Manage Learning/Assignment/Assignment Recent activities.htm" />
+      <TocEntry
+        Title="Marking Progress Statuses"
+        Link="/Content/B_Manage Learning/Assignment/Marking Progress Statuses.htm" />
+      <TocEntry
+        Title="View Achieved Competencies"
+        Link="/Content/B_Manage Learning/Assignment/How can the Learner check.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Badges and Endorsements"
+      Link="/Content/B_Manage Learning/Badges and Endorsements/Administrator Overview.htm">
+      <TocEntry
+        Title="Administrator Overview"
+        Link="/Content/B_Manage Learning/Badges and Endorsements/Administrator Overview.htm" />
+      <TocEntry
+        Title="Setup"
+        Link="/Content/B_Manage Learning/Badges and Endorsements/Setup.htm" />
+      <TocEntry
+        Title="2 Setup – Enabling Endorsements"
+        Link="/Content/B_Manage Learning/Badges and Endorsements/2 Setup Enabling Endorsements.htm" />
+      <TocEntry
+        Title="3 Setup – Endorsement Settings"
+        Link="/Content/B_Manage Learning/Badges and Endorsements/3 Setup Endorsement Settings.htm" />
+      <TocEntry
+        Title="Learner Overview"
+        Link="/Content/B_Manage Learning/Badges and Endorsements/Learner Overview.htm" />
+      <TocEntry
+        Title="Workflow"
+        Link="/Content/B_Manage Learning/Badges and Endorsements/Workflow.htm" />
+      <TocEntry
+        Title="2 Workflow – Endorsing Other Learners"
+        Link="/Content/B_Manage Learning/Badges and Endorsements/2 Workflow Endorsing other.htm" />
+      <TocEntry
+        Title="Extended – People"
+        Link="/Content/B_Manage Learning/Badges and Endorsements/3 Workflow Diagram of Workflow.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Certificates"
+      Link="/Content/B_Manage Learning/Certificates1/Certificates Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/B_Manage Learning/Certificates1/Certificates Introduction.htm" />
+      <TocEntry
+        Title="Creating and Editing a Template"
+        Link="/Content/B_Manage Learning/Certificates1/Creating and Editing a Certificate.htm" />
+      <TocEntry
+        Title="Upload Templates in Settings"
+        Link="/Content/B_Manage Learning/Certificates1/Upload Certificate Templates.htm" />
+      <TocEntry
+        Title="Attaching Certificates to Catalogue Items"
+        Link="/Content/B_Manage Learning/Certificates1/Attaching Certificates to.htm" />
+      <TocEntry
+        Title="Certificate Number Generation"
+        Link="/Content/B_Manage Learning/Certificates1/Certificate Number generation.htm" />
+      <TocEntry
+        Title="View the Completed Certificate"
+        Link="/Content/B_Manage Learning/Certificates1/Access and View the Completed.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Competencies"
+      Link="/Content/B_Manage Learning/Competencies/Competencies an introduction.htm">
+      <TocEntry
+        Title="Competencies Introduction"
+        Link="/Content/B_Manage Learning/Competencies/Competencies an introduction.htm" />
+      <TocEntry
+        Title="Manage Competencies"
+        Link="/Content/B_Manage Learning/Competencies/Manage Competencies.htm" />
+      <TocEntry
+        Title="Add a Competency"
+        Link="/Content/B_Manage Learning/Competencies/Add a Competency.htm" />
+      <TocEntry
+        Title="Archive, Delete or Edit a Competency"
+        Link="/Content/B_Manage Learning/Competencies/Archive Delete or Edit a Competency.htm" />
+      <TocEntry
+        Title="Link Competency to learning"
+        Link="/Content/B_Manage Learning/Competencies/Link Competency to a Catalogue.htm" />
+      <TocEntry
+        Title="Add a Competency Requirement"
+        Link="/Content/B_Manage Learning/Competencies/Add a Competency Requirement.htm" />
+      <TocEntry
+        Title="Run Requirements"
+        Link="/Content/B_Manage Learning/Competencies/Run Requirements.htm" />
+      <TocEntry
+        Title="Edit a Competency Requirement"
+        Link="/Content/B_Manage Learning/Competencies/Edit a Competency Requirement.htm" />
+      <TocEntry
+        Title="Delete a Competency Requirement"
+        Link="/Content/B_Manage Learning/Competencies/Delete a Competency Requirement.htm" />
+      <TocEntry
+        Title="Manage Compliance with Competency Requirements"
+        Link="/Content/B_Manage Learning/Competencies/Manage Compliance with Competency.htm" />
+      <TocEntry
+        Title="Add a Competency Set"
+        Link="/Content/B_Manage Learning/Competencies/Add a Competency Set.htm" />
+      <TocEntry
+        Title="Manage Competency Set Types"
+        Link="/Content/B_Manage Learning/Competencies/Manage Competency Set Types.htm" />
+      <TocEntry
+        Title="User Experience"
+        Link="/Content/B_Manage Learning/Competencies/View competencies as a learner.htm" />
+      <TocEntry
+        Title="Import Competencies"
+        Link="/Content/B_Manage Learning/Competencies/Import Competencies.htm" />
+      <TocEntry
+        Title="Import Competency User Status"
+        Link="/Content/B_Manage Learning/Competencies/Import Competency User Status.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Continuing Professional Development"
+      Link="/Content/B_Manage Learning/CPD1/CPD Introduction.htm">
+      <TocEntry
+        Title="CPD Introduction"
+        Link="/Content/B_Manage Learning/CPD1/CPD Introduction.htm" />
+      <TocEntry
+        Title="CPD Plan Colour Legend"
+        Link="/Content/B_Manage Learning/CPD1/CPD Plan Colour Legend.htm" />
+      <TocEntry
+        Title="CPD Points"
+        Link="/Content/B_Manage Learning/CPD1/CPD Points.htm" />
+      <TocEntry
+        Title="CPD Tags"
+        Link="/Content/B_Manage Learning/CPD1/CPD Tags.htm" />
+      <TocEntry
+        Title="CPD Plans"
+        Link="/Content/B_Manage Learning/CPD1/CPD Plans.htm" />
+      <TocEntry
+        Title="Creating a CPD Plan"
+        Link="/Content/B_Manage Learning/CPD1/Creating a CPD plan.htm" />
+      <TocEntry
+        Title="CPD and Catalogue Items"
+        Link="/Content/B_Manage Learning/CPD1/CPD and Catalogue Items.htm" />
+      <TocEntry
+        Title="Allowing Users to Record Their Own CPD Points"
+        Link="/Content/B_Manage Learning/CPD1/Allowing Users to Record their.htm" />
+      <TocEntry
+        Title="How CPD Looks and Works for the User"
+        Link="/Content/B_Manage Learning/CPD1/How CPD looks and works for.htm" />
+      <TocEntry
+        Title="Manage CPD Progress"
+        Link="/Content/B_Manage Learning/CPD1/Manage CPD progress.htm" />
+      <TocEntry
+        Title="My Learning Transcript and CPD Points"
+        Link="/Content/B_Manage Learning/CPD1/My Learning Transcript and.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Customisable Reports"
+      Link="/Content/B_Manage Learning/Customisable Reports/Customisable Reports Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/B_Manage Learning/Customisable Reports/Customisable Reports Introduction.htm" />
+      <TocEntry
+        Title="Create a Custom Report"
+        Link="/Content/B_Manage Learning/Customisable Reports/Create a Custom Report.htm" />
+      <TocEntry
+        Title="Building Filters"
+        Link="/Content/B_Manage Learning/Customisable Reports/Notes on building filters.htm" />
+      <TocEntry
+        Title="Manage a Custom Report"
+        Link="/Content/B_Manage Learning/Customisable Reports/Inspect a Custom Report.htm" />
+      <TocEntry
+        Title="Save the Report"
+        Link="/Content/B_Manage Learning/Customisable Reports/Save the Report.htm" />
+      <TocEntry
+        Title="Export the Report Results"
+        Link="/Content/B_Manage Learning/Customisable Reports/Export Report Results.htm" />
+      <TocEntry
+        Title="Schedule a Report"
+        Link="/Content/B_Manage Learning/Customisable Reports/Schedule a Report.htm" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/B_Manage Learning/Customisable Reports/Using Custom Report Templates.htm" />
+      <TocEntry
+        Title="Settings"
+        Link="/Content/B_Manage Learning/Customisable Reports/Customisable Report Settings.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Discussion Forum"
+      Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Introduction.htm" />
+      <TocEntry
+        Title="Add a Discussion Forum"
+        Link="/Content/B_Manage Learning/Discussion Forum/Add a Discussion Forum.htm" />
+      <TocEntry
+        Title="Linked Documents"
+        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Linked Documents.htm" />
+      <TocEntry
+        Title="Notifications"
+        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Notifications.htm" />
+      <TocEntry
+        Title="Completion Settings"
+        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Completion.htm" />
+      <TocEntry
+        Title="Administrators"
+        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Administrators.htm" />
+      <TocEntry
+        Title="Setting Favourites and Following Posts"
+        Link="/Content/B_Manage Learning/Discussion Forum/Setting Favourites and Following.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Enrolments"
+      Link="/Content/B_Manage Learning/Enrolments1/Enrolments introduction.htm">
+      <TocEntry
+        Title="Enrolments introduction"
+        Link="/Content/B_Manage Learning/Enrolments1/Enrolments introduction.htm" />
+      <TocEntry
+        Title="Enrolments"
+        Link="/Content/B_Manage Learning/Enrolments1/Enrolments.htm" />
+      <TocEntry
+        Title="View More about an Enrolment"
+        Link="/Content/B_Manage Learning/Enrolments1/View More about an Enrolment.htm" />
+      <TocEntry
+        Title="Edit User Enrolment"
+        Link="/Content/B_Manage Learning/Enrolments1/Edit User Enrolment.htm" />
+      <TocEntry
+        Title="Search User Enrolments"
+        Link="/Content/B_Manage Learning/Enrolments1/Search User Enrolments.htm" />
+      <TocEntry
+        Title="RPL"
+        Link="/Content/B_Manage Learning/Enrolments1/RPL.htm" />
+      <TocEntry
+        Title="Import Learning History"
+        Link="/Content/B_Manage Learning/Enrolments1/Import Learning History.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Learning Plans"
+      Link="/Content/B_Manage Learning/Learning Plans1/Learning Plan Introduction.htm">
+      <TocEntry
+        Title="Learning Plan Introduction"
+        Link="/Content/B_Manage Learning/Learning Plans1/Learning Plan Introduction.htm" />
+      <TocEntry
+        Title="Setting up for a Learning Plan"
+        Link="/Content/B_Manage Learning/Learning Plans1/Setting up for a Learning.htm" />
+      <TocEntry
+        Title="Create and Edit a Learning Plan"
+        Link="/Content/B_Manage Learning/Learning Plans1/Create and Edit a Learning.htm" />
+      <TocEntry
+        Title="Using a Learning Plan as a Learner"
+        Link="/Content/B_Manage Learning/Learning Plans1/Using a learning plan as a.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Manage Catalogue"
+      Link="/Content/B_Manage Learning/Manage Catalogue1/Manage Catalogue introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Manage Catalogue introduction.htm" />
+      <TocEntry
+        Title="Add Catalogue Item"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Add Catalogue Item.htm" />
+      <TocEntry
+        Title="Components"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Components.htm" />
+      <TocEntry
+        Title="Catalogue Component Grouping"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Component Grouping.htm" />
+      <TocEntry
+        Title="Component Equivalency Groups"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Component Equivalency Groups.htm" />
+      <TocEntry
+        Title="Sections of the Catalogue Item."
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Sections of the Catalogue.htm" />
+      <TocEntry
+        Title="Inspect Catalogue Item details"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Inspect Catalogue Item details.htm" />
+      <TocEntry
+        Title="Tags"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Tags.htm" />
+      <TocEntry
+        Title="Point Allocation"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Point Allocation.htm" />
+      <TocEntry
+        Title="Competencies"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Competencies.htm" />
+      <TocEntry
+        Title="Prerequisites"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Items and Prerequisites.htm" />
+      <TocEntry
+        Title="Prerequisites between Catalogue Items"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Prerequisites between Catalogue.htm" />
+      <TocEntry
+        Title="Prerequisites within Programs"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Prerequisites within Programs.htm" />
+      <TocEntry
+        Title="Recent Activities"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Recent Activities.htm" />
+      <TocEntry
+        Title="Thumbnails"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Thumbnails.htm" />
+      <TocEntry
+        Title="Extended Information"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Extended Information.htm" />
+      <TocEntry
+        Title="Self-Enrolment Settings"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Self Enrolment.htm" />
+      <TocEntry
+        Title="Additional Enrolment Settings"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Item Additional.htm" />
+      <TocEntry
+        Title="Enrolment in a Catalogue Item"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Enrolment in a Catalogue Item.htm" />
+      <TocEntry
+        Title="Edit Catalogue Item"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Edit Catalogue Item.htm" />
+      <TocEntry
+        Title="Extra features for Programs"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Extra features for Programs.htm" />
+      <TocEntry
+        Title="Search for Catalogue Item"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Search for Catalogue Item.htm" />
+      <TocEntry
+        Title="Catalogue Manager"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Catalogue Manager.htm" />
+      <TocEntry
+        Title="Edit in Wizard"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Edit in Wizard.htm" />
+      <TocEntry
+        Title="Add Learning Wizard"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Add Learning Wizard.htm" />
+      <TocEntry
+        Title="Assign Learning"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Assign Learning.htm" />
+      <TocEntry
+        Title="Import Catalogue Item Tags"
+        Link="/Content/B_Manage Learning/Manage Catalogue1/Import Catalogue Item Tags.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Manage Learning Assets"
+      Link="/Content/B_Manage Learning/Manage Learning Assets1/Learning Assets introduction.htm">
+      <TocEntry
+        Title="Learning Assets Introduction"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Learning Assets introduction.htm" />
+      <TocEntry
+        Title="Types of Learning Assets"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Types of Learning Assets.htm" />
+      <TocEntry
+        Title="Manage Learning Assets"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Manage Learning Assets.htm" />
+      <TocEntry
+        Title="Edit Learning Asset"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Edit Learning Asset.htm" />
+      <TocEntry
+        Title="Add Learning Asset"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset.htm" />
+      <TocEntry
+        Title="Inspect Learning Asset - Learning Event"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Inspect Learning Asset Learning.htm" />
+      <TocEntry
+        Title="Add Learning Asset - Learning Event"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Learning.htm" />
+      <TocEntry
+        Title="Add Learning Asset - Add Session"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Add Session.htm" />
+      <TocEntry
+        Title="Add Learning Asset - Course"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Course.htm" />
+      <TocEntry
+        Title="Add Learning Asset - Other Learning"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Other Learning.htm" />
+      <TocEntry
+        Title="Add Learning Asset - SCORM Course"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset SCORM Course.htm" />
+      <TocEntry
+        Title="Add Learning Asset -Trackable Document"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Trackable.htm" />
+      <TocEntry
+        Title="Add Learning Asset - Assessment Event"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Assessment.htm" />
+      <TocEntry
+        Title="Add Learning Asset – Assignment"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Assignment.htm" />
+      <TocEntry
+        Title="Add Learning Asset – Discussion Forum"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Discussion.htm" />
+      <TocEntry
+        Title="Add Learning Asset – Plan"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Plan.htm" />
+      <TocEntry
+        Title="Add Learning Asset - Survey"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Survey.htm" />
+      <TocEntry
+        Title="Add Learning Asset - Test"
+        Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Test.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Learning Events"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Managing Sessions Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Managing Sessions Introduction.htm" />
+      <TocEntry
+        Title="The Process"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Session process.htm" />
+      <TocEntry
+        Title="Manage Sessions"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Manage Sessions.htm" />
+      <TocEntry
+        Title="Add Learning Event"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Add Learning Event.htm" />
+      <TocEntry
+        Title="Inspect Learning Event"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Inspect Learning Event.htm" />
+      <TocEntry
+        Title="Add Session"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Add Session.htm" />
+      <TocEntry
+        Title="View Session"
+        Link="/Content/B_Manage Learning/Manage Sessions2/View Session.htm" />
+      <TocEntry
+        Title="Edit a Session"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Edit a Session.htm" />
+      <TocEntry
+        Title="Session Summary Screen"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Session summary screen.htm" />
+      <TocEntry
+        Title="Manage a Session and Waiting Lists"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Manage a Session and Waiting.htm" />
+      <TocEntry
+        Title="Mark a Session"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Mark a Session.htm" />
+      <TocEntry
+        Title="Learning Event Settings"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Learning Event Settings.htm" />
+      <TocEntry
+        Title="Locations, Venues and Maps"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Locations Venues and maps.htm" />
+      <TocEntry
+        Title="Message Templates and Sessions"
+        Link="/Content/B_Manage Learning/Manage Sessions2/Message Templates and Sessions.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Reports"
+      Link="/Content/B_Manage Learning/Reports/Reports Introduction.htm">
+      <TocEntry
+        Title="Reports Introduction"
+        Link="/Content/B_Manage Learning/Reports/Reports Introduction.htm" />
+      <TocEntry
+        Title="Completions"
+        Link="/Content/B_Manage Learning/Reports/Completions.htm" />
+      <TocEntry
+        Title="Registrations and Completions Over Time"
+        Link="/Content/B_Manage Learning/Reports/Registrations and Completions.htm" />
+      <TocEntry
+        Title="Registrations"
+        Link="/Content/B_Manage Learning/Reports/Registrations.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Tags and Tag Types"
+      Link="/Content/B_Manage Learning/Tags and Tag Types/Tags Introduction.htm">
+      <TocEntry
+        Title="Tags Introduction"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Tags Introduction.htm" />
+      <TocEntry
+        Title="Managing and Inspecting Tag Types"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Managing and Inspecting Tag.htm" />
+      <TocEntry
+        Title="Adding Tags"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Adding Tags.htm" />
+      <TocEntry
+        Title="Edit Tag"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Edit Tag.htm" />
+      <TocEntry
+        Title="Importing Tags"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Importing Tags.htm" />
+      <TocEntry
+        Title="Managing and Inspecting Tags"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Managing and Inspecting Tags.htm" />
+      <TocEntry
+        Title="Adding Tag Types"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Adding Tag Types.htm" />
+      <TocEntry
+        Title="Archive Tags"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Archive Tags.htm" />
+      <TocEntry
+        Title="Linking Tags to Catalogue Items"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Linking Tags to Catalogue.htm" />
+      <TocEntry
+        Title="Display Tags on Tiles in Browse Learning"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Display Tags on Tiles in Browse.htm" />
+      <TocEntry
+        Title="Linking Tags to a Course, Module, Question, Resource or Test"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/Linking Tags to a Course Module.htm" />
+      <TocEntry
+        Title="CPD Tags"
+        Link="/Content/B_Manage Learning/Tags and Tag Types/CPD Tags.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Marking"
+      Link="/Content/B_Manage Learning/Marking/Marking introduction.htm">
+      <TocEntry
+        Title="Marking Introduction"
+        Link="/Content/B_Manage Learning/Marking/Marking introduction.htm" />
+      <TocEntry
+        Title="Inspect Marking"
+        Link="/Content/B_Manage Learning/Marking/Inspect Marking.htm" />
+      <TocEntry
+        Title="View Marking"
+        Link="/Content/B_Manage Learning/Marking/View Marking.htm" />
+      <TocEntry
+        Title="Mark Test Attempt"
+        Link="/Content/B_Manage Learning/Marking/Mark Test Attempt.htm" />
+      <TocEntry
+        Title="Assigning Markers"
+        Link="/Content/B_Manage Learning/Marking/Assigning Markers.htm" />
+      <TocEntry
+        Title="Email settings for Marking"
+        Link="/Content/B_Manage Learning/Marking/Email settings for Marking.htm" />
+      <TocEntry
+        Title="Export Test Attempts to PDF"
+        Link="/Content/B_Manage Learning/Marking/Export Test Attempts to PDF.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Design"
+    Link="/Content/C_Design/Design Introduction.htm">
+    <TocEntry
+      Title="Introduction"
+      Link="/Content/C_Design/Design Introduction.htm" />
+    <TocEntry
+      Title="Tests - Overview"
+      Link="/Content/C_Design/Tests - Overview/Tests Introduction.htm">
+      <TocEntry
+        Title="Tests Introduction"
+        Link="/Content/C_Design/Tests - Overview/Tests Introduction.htm" />
+      <TocEntry
+        Title="Assessment Modules Tests"
+        Link="/Content/C_Design/Tests - Overview/Assessment Modules Tests.htm" />
+      <TocEntry
+        Title="Learning Module Tests"
+        Link="/Content/C_Design/Tests - Overview/Learning Module Tests.htm" />
+      <TocEntry
+        Title="Differences in Forms in Learning and Assessment Tests"
+        Link="/Content/C_Design/Tests - Overview/Differences in Forms in Learning.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Assessment Modules"
+      Link="/Content/C_Design/Assessment Modules/Assessment Modules.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/C_Design/Assessment Modules/Assessment Modules.htm" />
+      <TocEntry
+        Title="Manage Assessment Modules"
+        Link="/Content/C_Design/Assessment Modules/Manage Assessment Modules.htm" />
+      <TocEntry
+        Title="Inspect Assessment Module details"
+        Link="/Content/C_Design/Assessment Modules/Inspect Assessment Module.htm" />
+      <TocEntry
+        Title="Add an Assessment Module"
+        Link="/Content/C_Design/Assessment Modules/Add an Assessment Module.htm" />
+      <TocEntry
+        Title="Edit an Assessment Module"
+        Link="/Content/C_Design/Assessment Modules/Edit an Assessment Module.htm" />
+      <TocEntry
+        Title="Export an Assessment Module"
+        Link="/Content/C_Design/Assessment Modules/Export an Assessment Module.htm" />
+      <TocEntry
+        Title="Deep Copy Assessment Module"
+        Link="/Content/C_Design/Assessment Modules/Deep Copy Assessment Module.htm" />
+      <TocEntry
+        Title="Import an Assessment Module"
+        Link="/Content/C_Design/Assessment Modules/Import an Assessment Module.htm" />
+      <TocEntry
+        Title="Export QTI Items"
+        Link="/Content/C_Design/Assessment Modules/Export QTI Items.htm" />
+      <TocEntry
+        Title="Admin Delete Assessment Module"
+        Link="/Content/C_Design/Assessment Modules/Admin Delete Assessment Module.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Assessment Module Tests"
+      Link="/Content/C_Design/Assessment Module Tests/Tests Introduction.htm">
+      <TocEntry
+        Title="Tests Introduction"
+        Link="/Content/C_Design/Assessment Module Tests/Tests Introduction.htm" />
+      <TocEntry
+        Title="Search for Tests"
+        Link="/Content/C_Design/Assessment Module Tests/Search for tests.htm" />
+      <TocEntry
+        Title="View Test Details"
+        Link="/Content/C_Design/Assessment Module Tests/View test details.htm" />
+      <TocEntry
+        Title="Preview Test"
+        Link="/Content/C_Design/Assessment Module Tests/Preview.htm" />
+      <TocEntry
+        Title="Create an Assessment Module Test"
+        Link="/Content/C_Design/Assessment Module Tests/Create a test for an Assessment.htm" />
+      <TocEntry
+        Title="Link Questions to a Test"
+        Link="/Content/C_Design/Assessment Module Tests/How to link questions to a.htm" />
+      <TocEntry
+        Title="Edit a Test"
+        Link="/Content/C_Design/Assessment Module Tests/Edit a test.htm" />
+      <TocEntry
+        Title="Single and Multi-Sections"
+        Link="/Content/C_Design/Assessment Module Tests/Single and multi sections.htm" />
+      <TocEntry
+        Title="View, Edit or Add a Section"
+        Link="/Content/C_Design/Assessment Module Tests/View edit or add a section.htm" />
+      <TocEntry
+        Title="Pass/Fail and Resit Settings"
+        Link="/Content/C_Design/Assessment Module Tests/Pass fail and attempts.htm" />
+      <TocEntry
+        Title="Timing Options"
+        Link="/Content/C_Design/Assessment Module Tests/Timing options.htm" />
+      <TocEntry
+        Title="Randomisation and Optional Questions"
+        Link="/Content/C_Design/Assessment Module Tests/Randomisation.htm" />
+      <TocEntry
+        Title="Using a Test"
+        Link="/Content/C_Design/Assessment Module Tests/Using a test.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Assessment Questions"
+      Link="/Content/C_Design/Assessment Questions/Assessment Module Questions.htm">
+      <TocEntry
+        Title="Assessment Module Questions - Introduction"
+        Link="/Content/C_Design/Assessment Questions/Assessment Module Questions.htm" />
+      <TocEntry
+        Title="Question Details"
+        Link="/Content/C_Design/Assessment Questions/Question Details.htm" />
+      <TocEntry
+        Title="Add a Question"
+        Link="/Content/C_Design/Assessment Questions/Add a Question.htm" />
+      <TocEntry
+        Title="Edit a Question"
+        Link="/Content/C_Design/Assessment Questions/Edit a Question.htm" />
+      <TocEntry
+        Title="Preview a Question"
+        Link="/Content/C_Design/Assessment Questions/Preview a Question.htm" />
+      <TocEntry
+        Title="Search for Questions"
+        Link="/Content/C_Design/Assessment Questions/Search for Questions.htm" />
+      <TocEntry
+        Title="Copy Question"
+        Link="/Content/C_Design/Assessment Questions/Copy Question.htm" />
+      <TocEntry
+        Title="Move a Question"
+        Link="/Content/C_Design/Assessment Questions/Move a Question.htm" />
+      <TocEntry
+        Title="Import Questions"
+        Link="/Content/C_Design/Assessment Questions/Import Questions.htm" />
+      <TocEntry
+        Title="Add Composite Question"
+        Link="/Content/C_Design/Assessment Questions/Add Composite Question.htm" />
+      <TocEntry
+        Title="Import Custom Attributes"
+        Link="/Content/C_Design/Assessment Questions/Import Custom Attributes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Assessment Question Types"
+      Link="/Content/C_Design/Assessment question types/Creating Questions.htm">
+      <TocEntry
+        Title="Creating Questions"
+        Link="/Content/C_Design/Assessment question types/Creating Questions.htm" />
+      <TocEntry
+        Title="Associate Interaction"
+        Link="/Content/C_Design/Assessment question types/Associate Interaction.htm" />
+      <TocEntry
+        Title="Cloze"
+        Link="/Content/C_Design/Assessment question types/Cloze.htm" />
+      <TocEntry
+        Title="Comment"
+        Link="/Content/C_Design/Assessment question types/Comment.htm" />
+      <TocEntry
+        Title="File Upload"
+        Link="/Content/C_Design/Assessment question types/File Upload.htm" />
+      <TocEntry
+        Title="Gap Match Interaction"
+        Link="/Content/C_Design/Assessment question types/Gap Match Interaction.htm" />
+      <TocEntry
+        Title="Graphic Associate Interaction"
+        Link="/Content/C_Design/Assessment question types/Graphic Associate Interaction.htm" />
+      <TocEntry
+        Title="Graphic Gap Match Interaction"
+        Link="/Content/C_Design/Assessment question types/Graphic Gap Match Interaction.htm" />
+      <TocEntry
+        Title="Graphic Order Interaction"
+        Link="/Content/C_Design/Assessment question types/Graphic order interaction.htm" />
+      <TocEntry
+        Title="Hotspot Interaction"
+        Link="/Content/C_Design/Assessment question types/Hotspot interaction.htm" />
+      <TocEntry
+        Title="Keyword"
+        Link="/Content/C_Design/Assessment question types/Keyword.htm" />
+      <TocEntry
+        Title="Match Interaction"
+        Link="/Content/C_Design/Assessment question types/Match interaction.htm" />
+      <TocEntry
+        Title="Multiple Choice"
+        Link="/Content/C_Design/Assessment question types/Multiple Choice.htm" />
+      <TocEntry
+        Title="Multiple Choices"
+        Link="/Content/C_Design/Assessment question types/Multiple Choices.htm" />
+      <TocEntry
+        Title="Multiple Short Answers"
+        Link="/Content/C_Design/Assessment question types/Multiple Short Answers.htm" />
+      <TocEntry
+        Title="Order Interaction"
+        Link="/Content/C_Design/Assessment question types/Order Interaction.htm" />
+      <TocEntry
+        Title="Position Object Interaction"
+        Link="/Content/C_Design/Assessment question types/Position Object Interaction.htm" />
+      <TocEntry
+        Title="Select Point Interaction"
+        Link="/Content/C_Design/Assessment question types/Select Point Interaction.htm" />
+      <TocEntry
+        Title="Short Answer"
+        Link="/Content/C_Design/Assessment question types/Short Answer.htm" />
+      <TocEntry
+        Title="Slider Interaction"
+        Link="/Content/C_Design/Assessment question types/Slider Interaction.htm" />
+      <TocEntry
+        Title="Text Spot Interaction"
+        Link="/Content/C_Design/Assessment question types/Text Spot Interaction.htm" />
+      <TocEntry
+        Title="Text Spot"
+        Link="/Content/C_Design/Assessment question types/Text Spot.htm" />
+      <TocEntry
+        Title="True/False"
+        Link="/Content/C_Design/Assessment question types/True False.htm" />
+      <TocEntry
+        Title="Yes/No"
+        Link="/Content/C_Design/Assessment question types/Yes No.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Custom Page Modules"
+      Link="/Content/C_Design/Custom Page Modules/Custom Page Modules Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/C_Design/Custom Page Modules/Custom Page Modules Introduction.htm" />
+      <TocEntry
+        Title="Create Custom Pages"
+        Link="/Content/C_Design/Custom Page Modules/Create a Custom Page module.htm" />
+      <TocEntry
+        Title="Pin this Page to the Dashboard"
+        Link="/Content/C_Design/Custom Page Modules/Custom Page Pin this Page.htm" />
+      <TocEntry
+        Title="Inserting Pages into the Dashboard"
+        Link="/Content/C_Design/Custom Page Modules/Linking Custom Pages to the.htm" />
+      <TocEntry
+        Title="Allow Unauthenticated Access"
+        Link="/Content/C_Design/Custom Page Modules/Allow Unauthenticated Access.htm" />
+      <TocEntry
+        Title="Linking Custom Pages to Menus"
+        Link="/Content/C_Design/Custom Page Modules/Linking custom pages to Menus.htm" />
+      <TocEntry
+        Title="Restricting access using roles"
+        Link="/Content/C_Design/Custom Page Modules/Restricting access to a Custom.htm" />
+      <TocEntry
+        Title="Adding a Discussion Forum"
+        Link="/Content/C_Design/Custom Page Modules/Adding a Discussion Forum.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Learning Courses"
+      Link="/Content/C_Design/courses2/Courses Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/C_Design/courses2/Courses Introduction.htm" />
+      <TocEntry
+        Title="Add a Course"
+        Link="/Content/C_Design/courses2/Add a Course.htm" />
+      <TocEntry
+        Title="Inspect Course details"
+        Link="/Content/C_Design/courses2/Inspect Course details.htm" />
+      <TocEntry
+        Title="Edit or Delete a Course"
+        Link="/Content/C_Design/courses2/Edit or Delete a Course.htm" />
+      <TocEntry
+        Title="Search for Courses"
+        Link="/Content/C_Design/courses2/Search for Courses.htm" />
+      <TocEntry
+        Title="Learners experience of a Course"
+        Link="/Content/C_Design/courses2/Learners experience of a Course.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Learning Modules"
+      Link="/Content/C_Design/Modules2/Modules Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/C_Design/Modules2/Modules Introduction.htm" />
+      <TocEntry
+        Title="Manage Learning Modules"
+        Link="/Content/C_Design/Modules2/Manage Modules.htm" />
+      <TocEntry
+        Title="Inspect Learning Module details"
+        Link="/Content/C_Design/Modules2/Inspect a Module.htm" />
+      <TocEntry
+        Title="Add a Learning Module"
+        Link="/Content/C_Design/Modules2/Add a Module.htm" />
+      <TocEntry
+        Title="Edit a Learning Module"
+        Link="/Content/C_Design/Modules2/Edit a Module.htm" />
+      <TocEntry
+        Title="Import a Learning Module"
+        Link="/Content/C_Design/Modules2/Import a Module.htm" />
+      <TocEntry
+        Title="Export a Learning Module"
+        Link="/Content/C_Design/Modules2/Export a Module.htm" />
+      <TocEntry
+        Title="Add a Page to a Learning Module"
+        Link="/Content/C_Design/Modules2/Add a Page to a Learning Page.htm" />
+      <TocEntry
+        Title="Add a Panel to a Page"
+        Link="/Content/C_Design/Modules2/Add a Panel to a Page.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Learning Module Panels"
+      Link="/Content/C_Design/Panel type/Course designer panels introduction.htm">
+      <TocEntry
+        Title="Course Designer Panels Introduction"
+        Link="/Content/C_Design/Panel type/Course designer panels introduction.htm" />
+      <TocEntry
+        Title="Plain Text"
+        Link="/Content/C_Design/Panel type/Panel type Plain text.htm" />
+      <TocEntry
+        Title="Reveal List"
+        Link="/Content/C_Design/Panel type/Panel type Reveal list.htm" />
+      <TocEntry
+        Title="Pop-Up"
+        Link="/Content/C_Design/Panel type/Panel type pop up.htm" />
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/C_Design/Panel type/Panel type Introduction.htm" />
+      <TocEntry
+        Title="Accordion"
+        Link="/Content/C_Design/Panel type/Panel type Accordion.htm" />
+      <TocEntry
+        Title="Tabbed Content"
+        Link="/Content/C_Design/Panel type/Panel type Tabbed content.htm" />
+      <TocEntry
+        Title="Reflection Tiles"
+        Link="/Content/C_Design/Panel type/Panel type reflection tiles.htm" />
+      <TocEntry
+        Title="Slideshow"
+        Link="/Content/C_Design/Panel type/Panel type Slideshow.htm" />
+      <TocEntry
+        Title="Hotspot"
+        Link="/Content/C_Design/Panel type/Panel type Hotspot.htm" />
+      <TocEntry
+        Title="Video"
+        Link="/Content/C_Design/Panel type/Panel type Video.htm" />
+      <TocEntry
+        Title="Module Progress"
+        Link="/Content/C_Design/Panel type/Panel type Module progress.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Learning Module Tests"
+      Link="/Content/C_Design/Learning Module Tests1/Creating a Test for a Learning.htm">
+      <TocEntry
+        Title="Learning Module Tests Introduction"
+        Link="/Content/C_Design/Learning Module Tests1/Creating a Test for a Learning.htm" />
+      <TocEntry
+        Title="Test Body"
+        Link="/Content/C_Design/Learning Module Tests1/Test Body.htm" />
+      <TocEntry
+        Title="Pass/Fail and Resit Settings:"
+        Link="/Content/C_Design/Learning Module Tests1/Pass Fail and Resit settings.htm" />
+      <TocEntry
+        Title="Questions"
+        Link="/Content/C_Design/Learning Module Tests1/Questions.htm" />
+      <TocEntry
+        Title="Response Analysis"
+        Link="/Content/C_Design/Learning Module Tests1/Response Analysis.htm" />
+      <TocEntry
+        Title="Copy a Test"
+        Link="/Content/C_Design/Learning Module Tests1/Copy a test.htm" />
+      <TocEntry
+        Title="Export Test"
+        Link="/Content/C_Design/Learning Module Tests1/Export Test.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Learning Question Types (Panels)"
+      Link="/Content/C_Design/Panel Types for Tests/Test Panels in Learning Page.htm">
+      <TocEntry
+        Title="Test Panels in Learning Page Modules"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panels in Learning Page.htm" />
+      <TocEntry
+        Title="Creating Questions for Panels"
+        Link="/Content/C_Design/Panel Types for Tests/Creating Questions for Panels.htm" />
+      <TocEntry
+        Title="Panel Type –Micro-Quiz (system)"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Micro Quiz.htm" />
+      <TocEntry
+        Title="Panel Type –Free Text (assessable)"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Free Text.htm" />
+      <TocEntry
+        Title="Panel Type –Quiz with Pagination"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Quiz with.htm" />
+      <TocEntry
+        Title="Panel Type –Free Text"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Free Text_1.htm" />
+      <TocEntry
+        Title="Panel Type –Free Text Review"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Free Text_2.htm" />
+      <TocEntry
+        Title="Panel Type –Model Answers"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Model Answers.htm" />
+      <TocEntry
+        Title="Panel Type –Match drag-n-drop"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Match drag.htm" />
+      <TocEntry
+        Title="Panel Type –Sortable Quiz"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Sortable Quiz.htm" />
+      <TocEntry
+        Title="Panel Type –Poll Quiz"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Poll Quiz.htm" />
+      <TocEntry
+        Title="Panel Type –Survey Quiz"
+        Link="/Content/C_Design/Panel Types for Tests/Test Panel type Survey Quiz.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="QTI"
+      Link="/Content/C_Design/QTI/QTI Introduction.htm">
+      <TocEntry
+        Title="QTI – Introduction"
+        Link="/Content/C_Design/QTI/QTI Introduction.htm" />
+      <TocEntry
+        Title="Exporting QTI Questions"
+        Link="/Content/C_Design/QTI/Exporting QTI Questions.htm" />
+      <TocEntry
+        Title="Importing QTI Questions"
+        Link="/Content/C_Design/QTI/Importing QTI Questions.htm" />
+      <TocEntry
+        Title="QTI Settings"
+        Link="/Content/C_Design/QTI/QTI Settings.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Resources"
+      Link="/Content/C_Design/resources/Resources Introduction.htm">
+      <TocEntry
+        Title="Resources Introduction"
+        Link="/Content/C_Design/resources/Resources Introduction.htm" />
+      <TocEntry
+        Title="Search for a Resource"
+        Link="/Content/C_Design/resources/Search for a resource.htm" />
+      <TocEntry
+        Title="Inspect Resource Details"
+        Link="/Content/C_Design/resources/Inspect resource details.htm" />
+      <TocEntry
+        Title="Edit Resource"
+        Link="/Content/C_Design/resources/Edit resource.htm" />
+      <TocEntry
+        Title="Resource Types"
+        Link="/Content/C_Design/resources/Resource types.htm" />
+      <TocEntry
+        Title="Add Resource Sets"
+        Link="/Content/C_Design/resources/Add resource sets.htm" />
+      <TocEntry
+        Title="Add Bulk Resources"
+        Link="/Content/C_Design/resources/Add bulk resources.htm" />
+      <TocEntry
+        Title="Add Stimulus"
+        Link="/Content/C_Design/resources/Add stimulus.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Assessment Stimuli"
+      Link="/Content/C_Design/Stimuli/Stimuli introduction.htm">
+      <TocEntry
+        Title="Stimuli Introduction"
+        Link="/Content/C_Design/Stimuli/Stimuli introduction.htm" />
+      <TocEntry
+        Title="Add Stimuli"
+        Link="/Content/C_Design/Stimuli/Add Stimuli.htm" />
+      <TocEntry
+        Title="Search for Stimuli"
+        Link="/Content/C_Design/Stimuli/Search for Stimuli.htm" />
+      <TocEntry
+        Title="Edit Stimulus"
+        Link="/Content/C_Design/Stimuli/Edit Stimulus.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Surveys"
+      Link="/Content/C_Design/Surveys/Surveys introduction.htm">
+      <TocEntry
+        Title="Surveys Introduction"
+        Link="/Content/C_Design/Surveys/Surveys introduction.htm" />
+      <TocEntry
+        Title="How to Add a Survey to a Learning Module"
+        Link="/Content/C_Design/Surveys/How to add a survey to a learning.htm" />
+      <TocEntry
+        Title="How to Add a Question to a Survey"
+        Link="/Content/C_Design/Surveys/How to add a question to a.htm" />
+      <TocEntry
+        Title="How to Create a Survey for a Learning Module"
+        Link="/Content/C_Design/Surveys/How to create a survey for.htm" />
+      <TocEntry
+        Title="End User Experience"
+        Link="/Content/C_Design/Surveys/End User Experience.htm" />
+      <TocEntry
+        Title="How to Create a Survey for the Survey Player"
+        Link="/Content/C_Design/Surveys/How to create a survey for_1.htm" />
+      <TocEntry
+        Title="How to Add a Section to a Multiple Section Survey"
+        Link="/Content/C_Design/Surveys/How to add a section to a.htm" />
+      <TocEntry
+        Title="End User Experience"
+        Link="/Content/C_Design/Surveys/End user experience_1.htm" />
+      <TocEntry
+        Title="Response Analysis"
+        Link="/Content/C_Design/Surveys/Response analysis.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/C_Design/Templates1/Templates Introduction.htm">
+      <TocEntry
+        Title="Templates Introduction"
+        Link="/Content/C_Design/Templates1/Templates Introduction.htm" />
+      <TocEntry
+        Title="Search for Templates"
+        Link="/Content/C_Design/Templates1/Search for Templates.htm" />
+      <TocEntry
+        Title="Edit a Template"
+        Link="/Content/C_Design/Templates1/Edit a Template.htm" />
+      <TocEntry
+        Title="Add Content Layout Template"
+        Link="/Content/C_Design/Templates1/Add Content Layout Template.htm" />
+      <TocEntry
+        Title="Program Template"
+        Link="/Content/C_Design/Templates1/Program Template.htm" />
+      <TocEntry
+        Title="Export Content Templates"
+        Link="/Content/C_Design/Templates1/Export Content Templates.htm" />
+      <TocEntry
+        Title="Import Content Templates"
+        Link="/Content/C_Design/Templates1/Import Content Templates.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Settings"
+    Link="/Content/D_Settings/Settings.htm">
+    <TocEntry
+      Title="Introduction"
+      Link="/Content/D_Settings/Settings.htm" />
+    <TocEntry
+      Title="Authentication"
+      Link="/Content/D_Settings/authentication/Authentication - Introduction.htm">
+      <TocEntry
+        Title="Authentication - Introduction"
+        Link="/Content/D_Settings/authentication/Authentication - Introduction.htm" />
+      <TocEntry
+        Title="Authentication Model – Username in Database"
+        Link="/Content/D_Settings/authentication/User Name in Database.htm" />
+      <TocEntry
+        Title="Authentication Model - SAML"
+        Link="/Content/D_Settings/authentication/SAML.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Browse Learning"
+      Link="/Content/D_Settings/Browse Learning/Browse Learning Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Browse Learning/Browse Learning Introduction.htm" />
+      <TocEntry
+        Title="Browse Learning Settings"
+        Link="/Content/D_Settings/Browse Learning/Browse Learning Settings.htm" />
+      <TocEntry
+        Title="Catalogue Appearance"
+        Link="/Content/D_Settings/Browse Learning/Browse Learning and Catalogue.htm" />
+      <TocEntry
+        Title="Content of Interest"
+        Link="/Content/D_Settings/Browse Learning/Browse Learning Content of.htm" />
+      <TocEntry
+        Title="Discuss Catalogue Content"
+        Link="/Content/D_Settings/Browse Learning/Browse Learning Discuss Catalogue.htm" />
+      <TocEntry
+        Title="Recommended Content"
+        Link="/Content/D_Settings/Browse Learning/Browse Learning Recommended.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Building Filters"
+      Link="/Content/D_Settings/Building Filters/Filters Introduction.htm">
+      <TocEntry
+        Title="Building Filters Introduction"
+        Link="/Content/D_Settings/Building Filters/Filters Introduction.htm" />
+      <TocEntry
+        Title="Easier introduction to filters"
+        Link="/Content/D_Settings/Building Filters/Easier introduction to filters.htm" />
+      <TocEntry
+        Title="Building Filters"
+        Link="/Content/D_Settings/Building Filters/Building Filters.htm" />
+      <TocEntry
+        Title="More details about filters"
+        Link="/Content/D_Settings/Building Filters/More details about filters.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Catalogue Access Rule"
+      Link="/Content/D_Settings/Catalogue Access Rule/Catalogue access rule introduction.htm" />
+    <TocEntry
+      Title="Custom Attributes"
+      Link="/Content/D_Settings/Custom Attributes/Custom Attributes Introduction.htm">
+      <TocEntry
+        Title="Custom Attributes Introduction"
+        Link="/Content/D_Settings/Custom Attributes/Custom Attributes Introduction.htm" />
+      <TocEntry
+        Title="Manage Custom Attributes"
+        Link="/Content/D_Settings/Custom Attributes/Manage Custom Attributes.htm" />
+      <TocEntry
+        Title="Add Custom Attribute"
+        Link="/Content/D_Settings/Custom Attributes/Add Custom Attribute.htm" />
+      <TocEntry
+        Title="Custom Attribute Types"
+        Link="/Content/D_Settings/Custom Attributes/Custom Attribute Types.htm" />
+      <TocEntry
+        Title="Edit Custom Attribute"
+        Link="/Content/D_Settings/Custom Attributes/Edit Custom Attribute.htm" />
+      <TocEntry
+        Title="Add Custom Attribute Set"
+        Link="/Content/D_Settings/Custom Attributes/Add Custom Attribute Set.htm" />
+      <TocEntry
+        Title="Export Custom Attribute Set"
+        Link="/Content/D_Settings/Custom Attributes/Export Custom Attribute Set.htm" />
+      <TocEntry
+        Title="Import Custom Attribute Set"
+        Link="/Content/D_Settings/Custom Attributes/Import Custom Attribute Set.htm" />
+      <TocEntry
+        Title="Enrolment Questions Sets"
+        Link="/Content/D_Settings/Custom Attributes/Custom Attributes and Self.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Email Settings"
+      Link="/Content/D_Settings/Email Settings/Email Settings Introduction.htm">
+      <TocEntry
+        Title="Email Settings Introduction"
+        Link="/Content/D_Settings/Email Settings/Email Settings Introduction.htm" />
+      <TocEntry
+        Title="Categories of Notifications."
+        Link="/Content/D_Settings/Email Settings/Categories of Notifications.htm" />
+      <TocEntry
+        Title="Booking Notifications"
+        Link="/Content/D_Settings/Email Settings/Booking Notifications.htm" />
+      <TocEntry
+        Title="Manager Notifications"
+        Link="/Content/D_Settings/Email Settings/Manager Notifications.htm" />
+      <TocEntry
+        Title="Marking Notifications"
+        Link="/Content/D_Settings/Email Settings/Marking Notifications.htm" />
+      <TocEntry
+        Title="Purchase Notifications"
+        Link="/Content/D_Settings/Email Settings/Purchase Notifications.htm" />
+      <TocEntry
+        Title="Reminder Notifications"
+        Link="/Content/D_Settings/Email Settings/Reminder Notifications.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Locations"
+      Link="/Content/D_Settings/Locations/Locations Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Locations/Locations Introduction.htm" />
+      <TocEntry
+        Title="Add a Location"
+        Link="/Content/D_Settings/Locations/Add a Location.htm" />
+      <TocEntry
+        Title="Inspect a Location Details"
+        Link="/Content/D_Settings/Locations/Inspect a Location details.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Message templates"
+      Link="/Content/D_Settings/Message templates1/Message templates introduction.htm">
+      <TocEntry
+        Title="Message templates introduction"
+        Link="/Content/D_Settings/Message templates1/Message templates introduction.htm" />
+      <TocEntry
+        Title="Using Message Templates"
+        Link="/Content/D_Settings/Message templates1/Using Message Templates.htm" />
+      <TocEntry
+        Title="Tokens and how they work"
+        Link="/Content/D_Settings/Message templates1/Tokens and how they work.htm" />
+      <TocEntry
+        Title="Inserting HTML Tokens into a Message Template"
+        Link="/Content/D_Settings/Message templates1/Inserting HTML Tokens into.htm" />
+      <TocEntry
+        Title="Further Information and Notes"
+        Link="/Content/D_Settings/Message templates1/Further Information and Notes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Menu"
+      Link="/Content/D_Settings/Menu/Menu Settings Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Menu/Menu Settings Introduction.htm" />
+      <TocEntry
+        Title="Customise a Menu"
+        Link="/Content/D_Settings/Menu/Customise a Menu.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="My Learning Transcript"
+      Link="/Content/D_Settings/My Learning Transcript/My Learning Transcript Introduction.htm">
+      <TocEntry
+        Title="My Learning Transcript - Introduction"
+        Link="/Content/D_Settings/My Learning Transcript/My Learning Transcript Introduction.htm" />
+      <TocEntry
+        Title="Customising My Learning Transcript"
+        Link="/Content/D_Settings/My Learning Transcript/Customising My Learning Transcript.htm" />
+      <TocEntry
+        Title="Optional Attributes for Transcripts"
+        Link="/Content/D_Settings/My Learning Transcript/Optional Attributes for transcripts.htm" />
+      <TocEntry
+        Title="Tag Type Columns"
+        Link="/Content/D_Settings/My Learning Transcript/Tag Type Columns.htm" />
+      <TocEntry
+        Title="PDF Transcripts"
+        Link="/Content/D_Settings/My Learning Transcript/PDF Transcripts.htm" />
+      <TocEntry
+        Title="Other Learning"
+        Link="/Content/D_Settings/My Learning Transcript/Other learning.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Password Settings"
+      Link="/Content/D_Settings/Password Settings/Password Settings Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Password Settings/Password Settings Introduction.htm" />
+      <TocEntry
+        Title="Complexity Rules"
+        Link="/Content/D_Settings/Password Settings/Complexity Rules.htm" />
+      <TocEntry
+        Title="Password Generation"
+        Link="/Content/D_Settings/Password Settings/Password Generation.htm" />
+      <TocEntry
+        Title="Password Expiry and Reset Policy"
+        Link="/Content/D_Settings/Password Settings/Password Expiry and Reset.htm" />
+      <TocEntry
+        Title="Reveal Passwords"
+        Link="/Content/D_Settings/Password Settings/Reveal Passwords.htm" />
+      <TocEntry
+        Title="Re-using the same password"
+        Link="/Content/D_Settings/Password Settings/Re using the same password.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Payment Settings"
+      Link="/Content/D_Settings/Payment Settings/Payment Settings Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Payment Settings/Payment Settings Introduction.htm" />
+      <TocEntry
+        Title="Payment Gateways"
+        Link="/Content/D_Settings/Payment Settings/Payment Settings Credit Card.htm" />
+      <TocEntry
+        Title="GST Settings"
+        Link="/Content/D_Settings/Payment Settings/Payment Settings GST settings.htm" />
+      <TocEntry
+        Title="Catalogue Item Configurations"
+        Link="/Content/D_Settings/Payment Settings/Payment Settings Catalogue.htm" />
+      <TocEntry
+        Title="Viewing Payment Transactions"
+        Link="/Content/D_Settings/Payment Settings/Payment Settings Viewing Payment.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Resource Designer"
+      Link="/Content/D_Settings/Resource designer settings/Resource Designer Settings.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Resource designer settings/Resource Designer Settings.htm" />
+      <TocEntry
+        Title="Resource Options"
+        Link="/Content/D_Settings/Resource designer settings/Resource Options.htm" />
+      <TocEntry
+        Title="Stimulus Options"
+        Link="/Content/D_Settings/Resource designer settings/Stimulus Options.htm" />
+      <TocEntry
+        Title="Identifier Auto Generation"
+        Link="/Content/D_Settings/Resource designer settings/Identifier Auto Generation.htm" />
+      <TocEntry
+        Title="Available Stimuli Templates"
+        Link="/Content/D_Settings/Resource designer settings/Available Stimuli Templates.htm" />
+      <TocEntry
+        Title="Available Resource Types"
+        Link="/Content/D_Settings/Resource designer settings/Available Resource Types.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Roles"
+      Link="/Content/D_Settings/Roles/Roles Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Roles/Roles Introduction.htm" />
+      <TocEntry
+        Title="Some Concepts of Roles"
+        Link="/Content/D_Settings/Roles/Some Concepts of Roles.htm" />
+      <TocEntry
+        Title="Security Hierarchies"
+        Link="/Content/D_Settings/Roles/Security Hierarchies.htm" />
+      <TocEntry
+        Title="Key Actions Available"
+        Link="/Content/D_Settings/Roles/Roles Key Actions Available.htm" />
+      <TocEntry
+        Title="Menu Items and Key Action Buttons"
+        Link="/Content/D_Settings/Roles/Menu Items and Key Action.htm" />
+      <TocEntry
+        Title="List Form"
+        Link="/Content/D_Settings/Roles/Roles Manager List Form.htm" />
+      <TocEntry
+        Title="Inspect a Role"
+        Link="/Content/D_Settings/Roles/Inspect a Role.htm" />
+      <TocEntry
+        Title="Role Form"
+        Link="/Content/D_Settings/Roles/Role Form Top Section.htm" />
+      <TocEntry
+        Title="Applicable Documents"
+        Link="/Content/D_Settings/Roles/Applicable Documents.htm" />
+      <TocEntry
+        Title="Securable areas of the Documents"
+        Link="/Content/D_Settings/Roles/Securable areas of the Documents.htm" />
+      <TocEntry
+        Title="Restrictions"
+        Link="/Content/D_Settings/Roles/Role Restrictions.htm" />
+      <TocEntry
+        Title="How this role compares to other roles"
+        Link="/Content/D_Settings/Roles/How this role compares to.htm" />
+      <TocEntry
+        Title="Menu"
+        Link="/Content/D_Settings/Roles/Menu.htm" />
+      <TocEntry
+        Title="Add Role"
+        Link="/Content/D_Settings/Roles/Roles Manager Add Role.htm" />
+      <TocEntry
+        Title="Export and Import"
+        Link="/Content/D_Settings/Roles/Roles Manager Export and Import.htm" />
+      <TocEntry
+        Title="User Extra Roles Widget"
+        Link="/Content/D_Settings/Roles/User Extra Roles Widget.htm" />
+      <TocEntry
+        Title="Administrators Widget"
+        Link="/Content/D_Settings/Roles/Administrators Widget.htm" />
+      <TocEntry
+        Title="Why can't I edit someone?"
+        Link="/Content/D_Settings/Roles/Why can t I edit someone.htm" />
+      <TocEntry
+        Title="Explicit Roles vs Implicit Roles"
+        Link="/Content/D_Settings/Roles/Explicit Roles vs Implicit.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Self enrolment"
+      Link="/Content/D_Settings/Self enrolment/Self enrolment introduction.htm">
+      <TocEntry
+        Title="Self Enrolment Introduction"
+        Link="/Content/D_Settings/Self enrolment/Self enrolment introduction.htm" />
+      <TocEntry
+        Title="Default Enrolment Method"
+        Link="/Content/D_Settings/Self enrolment/Options.htm" />
+      <TocEntry
+        Title="Types of Self Enrolments"
+        Link="/Content/D_Settings/Self enrolment/Types of Self Enrolments.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Terms of Use"
+      Link="/Content/D_Settings/Terms of use/Terms of Use introduction.htm">
+      <TocEntry
+        Title="Terms of Use Introduction"
+        Link="/Content/D_Settings/Terms of use/Terms of Use introduction.htm" />
+      <TocEntry
+        Title="Enabling Self-Registration"
+        Link="/Content/D_Settings/Terms of use/Enabling self registration.htm" />
+      <TocEntry
+        Title="Setup Terms of Use"
+        Link="/Content/D_Settings/Terms of use/Setup Terms of Use.htm" />
+      <TocEntry
+        Title="End User Experience"
+        Link="/Content/D_Settings/Terms of use/End user experience.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="String Resources"
+      Link="/Content/D_Settings/String Resources/Introduction.htm">
+      <TocEntry
+        Title="String Resources Introduction"
+        Link="/Content/D_Settings/String Resources/Introduction.htm" />
+      <TocEntry
+        Title="Inspect String Resources"
+        Link="/Content/D_Settings/String Resources/Inspect String Resources.htm" />
+      <TocEntry
+        Title="Edit String Resources"
+        Link="/Content/D_Settings/String Resources/Edit String Resources.htm" />
+      <TocEntry
+        Title="Customise Links with String Resources"
+        Link="/Content/D_Settings/String Resources/Customise links in the screen.htm" />
+      <TocEntry
+        Title="Link a Custom Page into the My Learning Smart Dashboard"
+        Link="/Content/D_Settings/String Resources/Inject a Custom Page into.htm" />
+      <TocEntry
+        Title="Hiding Text with a String Resource"
+        Link="/Content/D_Settings/String Resources/Hiding text.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Styles and Images"
+      Link="/Content/D_Settings/Styles and Images/Style and Images Introduction.htm">
+      <TocEntry
+        Title="Style and Images – Introduction"
+        Link="/Content/D_Settings/Styles and Images/Style and Images Introduction.htm" />
+      <TocEntry
+        Title="Images &amp; Logos"
+        Link="/Content/D_Settings/Styles and Images/Images Logos.htm" />
+      <TocEntry
+        Title="Skin"
+        Link="/Content/D_Settings/Styles and Images/Skin.htm" />
+      <TocEntry
+        Title="Custom CSS"
+        Link="/Content/D_Settings/Styles and Images/Custom CSS.htm" />
+      <TocEntry
+        Title="Advanced"
+        Link="/Content/D_Settings/Styles and Images/Advanced.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Tenant Settings"
+      Link="/Content/D_Settings/Tenant Settings/Tenant Settings Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Introduction.htm" />
+      <TocEntry
+        Title="Login"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Login.htm" />
+      <TocEntry
+        Title="Welcome Tours"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Welcome Tours.htm" />
+      <TocEntry
+        Title="Organisation"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Organisation.htm" />
+      <TocEntry
+        Title="Catalogue Item Settings"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Catalogue.htm" />
+      <TocEntry
+        Title="Certificate Templates"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Certificate.htm" />
+      <TocEntry
+        Title="Security"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Security.htm" />
+      <TocEntry
+        Title="Time Zone"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Time Zone.htm" />
+      <TocEntry
+        Title="Block Browser"
+        Link="/Content/D_Settings/Tenant Settings/Block Browser.htm" />
+      <TocEntry
+        Title="Miscellaneous"
+        Link="/Content/D_Settings/Tenant Settings/Tenant Settings Miscellaneous.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Test Designer"
+      Link="/Content/D_Settings/Test designer settings1/Test Designer Settings Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Test designer settings1/Test Designer Settings Introduction.htm" />
+      <TocEntry
+        Title="General Assessment Options"
+        Link="/Content/D_Settings/Test designer settings1/General Assessment Options.htm" />
+      <TocEntry
+        Title="Question Options"
+        Link="/Content/D_Settings/Test designer settings1/Question Options.htm" />
+      <TocEntry
+        Title="Identifier Auto Generation"
+        Link="/Content/D_Settings/Test designer settings1/Identifier Auto Generation.htm" />
+      <TocEntry
+        Title="Test options"
+        Link="/Content/D_Settings/Test designer settings1/Test options.htm" />
+      <TocEntry
+        Title="Test Section options"
+        Link="/Content/D_Settings/Test designer settings1/Test Section options.htm" />
+      <TocEntry
+        Title="Available Question Types"
+        Link="/Content/D_Settings/Test designer settings1/Available Question Types.htm" />
+      <TocEntry
+        Title="Available Test Section Types"
+        Link="/Content/D_Settings/Test designer settings1/Available Test Section Types.htm" />
+      <TocEntry
+        Title="Document Flagging"
+        Link="/Content/D_Settings/Test designer settings1/Document Flagging.htm" />
+      <TocEntry
+        Title="Paper Based test Print Settings"
+        Link="/Content/D_Settings/Test designer settings1/Paper Based test Print Settings.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="User Enrolment Rules"
+      Link="/Content/D_Settings/User Enrolment Rules/User Enrolment Rules Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/User Enrolment Rules/User Enrolment Rules Introduction.htm" />
+      <TocEntry
+        Title="Add User Enrolment Rule"
+        Link="/Content/D_Settings/User Enrolment Rules/Add User Enrolment Rule.htm" />
+      <TocEntry
+        Title="What does this Rule enrol users for?"
+        Link="/Content/D_Settings/User Enrolment Rules/What does this Rule enrol.htm" />
+      <TocEntry
+        Title="Which users does this rule apply to?"
+        Link="/Content/D_Settings/User Enrolment Rules/Which users does this rule.htm" />
+      <TocEntry
+        Title="When should the rule apply?"
+        Link="/Content/D_Settings/User Enrolment Rules/When should the rule apply.htm" />
+      <TocEntry
+        Title="Testing a User Enrolment Rule"
+        Link="/Content/D_Settings/User Enrolment Rules/Testing a User Enrolment Rule.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="User Settings"
+      Link="/Content/D_Settings/User Settings/User settings Introduction.htm">
+      <TocEntry
+        Title="User settings - Introduction"
+        Link="/Content/D_Settings/User Settings/User settings Introduction.htm" />
+      <TocEntry
+        Title="Self-Registration form"
+        Link="/Content/D_Settings/User Settings/Self Registration form.htm" />
+      <TocEntry
+        Title="Edit form"
+        Link="/Content/D_Settings/User Settings/Edit form.htm" />
+      <TocEntry
+        Title="List view"
+        Link="/Content/D_Settings/User Settings/List view.htm" />
+      <TocEntry
+        Title="Details view"
+        Link="/Content/D_Settings/User Settings/Details view.htm" />
+      <TocEntry
+        Title="Public profile"
+        Link="/Content/D_Settings/User Settings/Public profile.htm" />
+      <TocEntry
+        Title="Default User settings"
+        Link="/Content/D_Settings/User Settings/Default User settings.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Versioning"
+      Link="/Content/C_Design/Versioning/Versioning Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/C_Design/Versioning/Versioning Introduction.htm" />
+      <TocEntry
+        Title="Enabling Versioning"
+        Link="/Content/C_Design/Versioning/Versioning Settings.htm" />
+      <TocEntry
+        Title="View Versioning"
+        Link="/Content/C_Design/Versioning/View Versioning.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Venues"
+      Link="/Content/D_Settings/Venues/Venues Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Venues/Venues Introduction.htm" />
+      <TocEntry
+        Title="Add a Venue"
+        Link="/Content/D_Settings/Venues/Add a Venue.htm" />
+      <TocEntry
+        Title="Inspect Venue details"
+        Link="/Content/D_Settings/Venues/Inspect Venue details.htm" />
+      <TocEntry
+        Title="Edit a Venue"
+        Link="/Content/D_Settings/Venues/Edit a Venue.htm" />
+      <TocEntry
+        Title="Import Venues and Locations"
+        Link="/Content/D_Settings/Venues/Import Venues and Locations.htm" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

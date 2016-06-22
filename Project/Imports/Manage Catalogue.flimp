@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-15T14:54:13.6775188+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-15T14:55:11.5789132+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/manage learning/Manage Catalogue.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Manage Catalogue.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Manage Catalogue introduction.png"
+      TimeStamp="15/05/2015 2:55:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Manage Catalogue introduction_1.png"
+      TimeStamp="15/05/2015 2:55:00 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Manage Catalogue introduction.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Enrolment in a Catalogue Item.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Manage Catalogue.png"
+      TimeStamp="15/05/2015 2:55:00 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Manage Catalogue.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Inspect Catalogue Item.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Inspect Catalogue Item.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_1.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_2.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_3.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_4.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_5.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_6.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_7.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_8.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_9.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_10.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Catalogue Item_11.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Add Catalogue Item.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Edit Catalogue Item.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Edit Catalogue Item_1.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Edit Catalogue Item.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Search for Catalogue Item.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Search for Catalogue Item.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Make a Catalogue Item private.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Make a Catalogue Item private.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Archive a Catalogue Item.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Archive a Catalogue Item_1.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Archive a Catalogue Item_2.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Archive a Catalogue Item.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Edit in Wizard.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Edit in Wizard.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Add Learning Wizard.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Add Learning Wizard.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Assign Learning.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Assign Learning.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Import Catalogue Item Tags.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Catalogue/Import Catalogue Item Tags_1.png"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Manage Catalogue/Import Catalogue Item Tags.htm"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../TOCs/Manage Catalogue.fltoc"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Manage Catalogue.flmsp"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="15/05/2015 2:55:01 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1" />
+    <Map
+      From="Heading 2"
+      To="h2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Heading 2 Char" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="2520" MadCap:lastWidth="1169">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Import Questions</h1>
+        <p>There are two ways that you can import questions into the CLS. You can can use a spreadsheet to import multiple Questions into a Module, as described below. Alternatively you can import QTI questions, see the QTI document for details.</p>
+        <p>To use a spreadsheet to import questions, select <b>Design</b> &gt; <b>Questions</b> and click <b>Import Questions</b> from the <strong>Actions</strong> drop-down menu.</p>
+        <p>
+            <img src="../../Resources/Images/Assessment Questions/Import Questions.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>A template for the spreadsheet is provided. Click <b>Template</b> to download it, then customise it as described below.</p>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="1">
+            <li>Select a <b>Discipline</b> from the drop-down box.</li>
+            <li>Select the <b>Module</b> in that Discipline from the drop-down box.</li>
+            <li>Enter an email address for the results to be sent to.</li>
+            <li>Select your spreadsheet and click <b>Import and email result</b>.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Assessment Questions/Import Questions_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>There are four pages in the template spreadsheet. The first three are used to enter different kinds of information about the same questions and the last page lists which fields in the first three are mandatory and which Question types are valid. </p>
+        <p>In the first three pages, each entry must identify which question it refers to.</p>
+        <h2 class="Heading2">Questions</h2>
+        <p>This is where you enter the Identifier, Question Type (valid options are on page 4) and the Question Body. A sample entry is provided:</p>
+        <p>
+            <img src="../../Resources/Images/Assessment Questions/Import Questions_2.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2">Options</h2>
+        <p>This is where you match the Question Identifier with its options. A sample entry is provided: </p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;"><b>Order</b>: the order in which the option is displayed to the end User.</li>
+            <li style="list-style-type: disc;"><b>Text</b>: the text of the Question option</li>
+            <li style="list-style-type: disc;"><b>Match Options</b>: a comma separated list of match options for this option; it is only used in match type questions.</li>
+            <li style="list-style-type: disc;"><b>Is Correct</b>: Is this option correct?</li>
+        </ul>
+        <p>
+            <img src="../../Resources/Images/Assessment Questions/Import Questions_3.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <h2 class="Heading2">Response Conditions</h2>
+        <p>
+            <img src="../../Resources/Images/Assessment Questions/Import Questions.jpg" style="visibility: visible;" />
+        </p>
+        <p>This is only relevant for some question types question types. It  is where you match the Identifier with responses. A sample entry is provided:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;"><b>Order</b>: the order in which response conditions will be evaluated for this question.</li>
+            <li style="list-style-type: disc;"><b>Match Expression</b>: the regular expression pattern to be matched against question answer. It is for a regex pattern which is a well-known pattern matching language.</li>
+            <li style="list-style-type: disc;"><b>Score Multiplier</b>: An integer value between 0 and 1. It will be multiplied against question weight to determine final score if this condition is matched. In the example above only the first combination will be marked as correct. Partial marks could be awarded if a fraction is entered instead of a 0 or 1.</li>
+            <li style="list-style-type: disc;"><b>Report Code</b>: the code recorded against answer if this condition is matched. In the example above there are four possible report codes:</li>
+        </ul>
+        <ul style="list-style-type: circle;margin-left: 36pt;">
+            <li style="list-style-type: circle;">1 if the student selects potassium, carbon then oxygen in that order.</li>
+            <li style="list-style-type: circle;">2 if the student selects krypton, carbon then oxygen in that order.</li>
+            <li style="list-style-type: circle;">3 if the student selects phosphorus, carbon then oxygen in that order.</li>
+            <li style="list-style-type: circle;">4 otherwise.</li>
+        </ul>
+        <h2 class="Heading2">Supported Attributes</h2>
+        <p>This sheet provides information about which are the mandatory fields in the first three pages and which are the valid Question types.</p>
+        <p>
+            <img src="../../Resources/Images/Assessment Questions/Import Questions_4.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>The Question Types column has been reduced here to fit onto the screen.</p>
+    </body>
+</html>

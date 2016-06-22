@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-23T16:54:51.7297949+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-23T16:55:20.3837517+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Design/courses.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/courses.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/courses/courses.png"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/courses/courses.htm"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses/Creating a course.png"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses/Creating a course_1.png"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses/Creating a course_2.png"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses/Creating a course_3.png"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/courses/Creating a course.htm"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses/Thumbnails.png"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/courses/Thumbnails_1.png"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/courses/Thumbnails.htm"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../TOCs/courses.fltoc"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/courses.flmsp"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="23/04/2015 4:55:16 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

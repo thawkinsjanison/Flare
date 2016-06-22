@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Message templates introduction" />
+  <TocEntry
+    Title="Using Message Templates" />
+  <TocEntry
+    Title="Tokens and how they work" />
+  <TocEntry
+    Title="Inserting HTML Tokens into a Message Template" />
+  <TocEntry
+    Title="Further Information and Notes" />
+</CatapultToc>

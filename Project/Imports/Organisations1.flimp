@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-09-02T11:21:44.4420428+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-09-02T11:22:13.9505778+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Manage people/Organisations.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Manage people/Organisations.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Organisations Introduction.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Organisations Introduction_1.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Organisations Introduction_2.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Organisations Introduction_3.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Organisations1/Organisations Introduction.htm"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Organisations and Groups.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Organisations and Groups_1.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Organisations and Groups_2.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Organisations1/Organisations and Groups.htm"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Manage Organisations.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Manage Organisations_1.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Organisations1/Manage Organisations.htm"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Inspect Organisation details.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Inspect Organisation details_1.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Organisations1/Inspect Organisation details.htm"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Creating an Organisation.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Creating an Organisation_1.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Creating an Organisation_2.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Creating an Organisation_3.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Creating an Organisation_4.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Organisations1/Creating an Organisation.htm"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Search for Organisation.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Organisations1/Search for Organisation.htm"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Edit Organisation.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Organisations1/Edit Organisation.htm"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Archive organisation.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations1/Archive organisation_1.png"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Organisations1/Archive organisation.htm"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../TOCs/Organisations1.fltoc"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Organisations1.flmsp"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="2/09/2015 11:22:06 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="Normal (Web)" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="mcbreadcrumbs" />
+    <StyleName
+      Name="mcbreadcrumbsdivider" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>

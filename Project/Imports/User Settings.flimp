@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-19T11:32:13.8564211+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-19T11:32:51.1013409+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/User Settings.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/User Settings.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/User Settings/User settings Introduction.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/User Settings/User settings Introduction.htm"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_1.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_2.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_3.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_4.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_5.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_6.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_7.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_8.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_9.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Self Registration form_10.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/User Settings/Self Registration form.htm"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Edit form.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Edit form_1.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/User Settings/Edit form.htm"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/List view.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/List view_1.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/List view_2.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/List view_3.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/List view_4.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/List view_5.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/User Settings/List view.htm"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Details view.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Details view_1.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Details view_2.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Details view_3.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Details view_4.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Details view_5.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Details view_6.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/User Settings/Details view.htm"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Public profile.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Public profile_1.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Public profile_2.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Public profile_3.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/User Settings/Public profile.htm"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Settings/Default User settings.png"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/User Settings/Default User settings.htm"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../TOCs/User Settings.fltoc"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/User Settings.flmsp"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="19/06/2015 11:32:36 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="931" MadCap:lastWidth="1168">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1"><a name="_Edit_a_Position"></a>Edit a Position</h1>
+        <p>To inspect a Position navigate to <strong>Manage People &gt; Positions</strong> and click the name of the Position. </p>
+        <p>Authorised users will see the <strong>Edit Position</strong> button on the details screen, allowing them to edit details of the position.</p>
+        <p>
+            <img src="../../Resources/Images/Positions/Edit a Position.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Edit details as required see <a href="../../A_Manage People/Positions/Manually adding a Position.htm">Manually adding a Position</a> for details and click <b>Save Position</b>.</p>
+        <p>Note that once a Position has been saved, it is not possible to change its Organisation unit. This restriction exists to avoid data integrity issues through dilemmas such as:</p>
+        <ul>
+            <li>If a Position's Organisation Unit is changed, should all Users in the Position also have their Organisation Unit changed?</li>
+            <li>During a spreadsheet import, if the import process discovers that a Position has a different Organisation Unit from the previous import, should it create a new Position, change the Position's details, or throw a validation error?</li>
+        </ul>
+        <p>Whenever such potential data integrity problem scenarios arise, the CLS errs on the side of maintaining data integrity; that is, rather than making an assumption about what a User wants to do (and suffer potentially harmful side-effects), it stops the User from doing it. Thus to change the Organisation Unit for a Position, the best approach is to create a new Position, and move Users into it.</p>
+        <p>Be aware that if Positions and Users are usually imported see <a href="../../A_Manage People/Positions/Importing a Position.htm">Importing a Position</a> you should not edit them in the CLS because they may be overwritten when the next import is run. This is because a key concept when importing is often that the master file for Users, Positions, etc is held in the client's HR system, not in the CLS. </p>
+    </body>
+</html>

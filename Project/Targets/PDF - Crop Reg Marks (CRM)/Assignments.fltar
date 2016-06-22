@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="User Guide A—7X9—Crop/Registration Marks"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Assignment.fltoc"
+  ConditionTagExpression=""
+  PatchHeadingLevels="false"
+  InjectEmptyPages="true"
+  UseLocalBuildSettings="true"
+  IgnoredCompilerWarnings="20032,20033,20034,20035,20036,20037,20038,20039,20040,20041"
+  conditions="PrintGuides.Getting Started"
+  MasterPageLayout="/Content/Resources/PageLayouts/7X9/Chapters7X9.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  GetLatestBeforeCompile="true"
+  Medium="print">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body" />
+  <DocumentProperties
+    Title="Getting Started"
+    Author="Janison" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    PageLayout="SinglePage"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true" />
+</CatapultTarget>

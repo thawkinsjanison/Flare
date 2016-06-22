@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-21T17:04:25.5846723+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-21T17:06:12.5003655+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/areas of CLS defined.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/areas of CLS defined.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/areas of CLS defined/Manage People.htm"
+      TimeStamp="21/04/2015 5:06:07 PM" />
+    <Url
+      Source="../../Content/areas of CLS defined/Manage Learning.htm"
+      TimeStamp="21/04/2015 5:06:07 PM" />
+    <Url
+      Source="../../Content/areas of CLS defined/Design.htm"
+      TimeStamp="21/04/2015 5:06:07 PM" />
+    <Url
+      Source="../../Content/areas of CLS defined/Settings.htm"
+      TimeStamp="21/04/2015 5:06:07 PM" />
+    <Url
+      Source="../TOCs/areas of CLS defined.fltoc"
+      TimeStamp="21/04/2015 5:06:07 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="21/04/2015 5:06:07 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

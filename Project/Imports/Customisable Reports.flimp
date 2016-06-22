@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-19T14:30:23.7255155+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-19T14:31:09.5030919+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/manage learning/Customisable Reports.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Customisable Reports.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Customisable reports introduction.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Customisable reports introduction_1.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Customisable Reports/Customisable reports introduction.htm"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Create a Custom Report.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Create a Custom Report_1.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Create a Custom Report_2.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Customisable Reports/Create a Custom Report.htm"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Notes on building filters.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Notes on building filters_1.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Customisable Reports/Notes on building filters.htm"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Inspect a Custom Report.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Inspect a Custom Report_1.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Customisable Reports/Inspect a Custom Report.htm"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Save the Report.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Save the Report_1.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Customisable Reports/Save the Report.htm"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Export the Report Results.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Customisable Reports/Export the Report Results.htm"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_1.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_2.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_3.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_4.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_5.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_6.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_7.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_8.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Customisable Reports/Using Custom Report Templates_9.png"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Customisable Reports/Using Custom Report Templates.htm"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../TOCs/Customisable Reports.fltoc"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Customisable Reports.flmsp"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="19/05/2015 2:30:53 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="Heading 3 Char" />
+  </UsedCharacterStyles>
+</MsWordImport>

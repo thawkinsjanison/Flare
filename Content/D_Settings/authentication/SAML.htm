@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="6" MadCap:lastHeight="3849" MadCap:lastWidth="1151">
+    <head>
+        <link href="../../Resources/Stylesheets/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">SAML</h1>
+        <p>The CLS supports single sign-on (SSO) using the SAML 2.0 protocol. Identity and identification information is held on a separate server, the Identity Provider. </p>
+        <p>With this system users can securely login to the CLS from within another user management system where they have already signed on. Thus, they can connect to the CLS within this single sign-on. The SAML system also allows:</p>
+        <ul style="list-style-type: disc;;">
+            <li style="list-style-type: disc;">automatic creation and update of user information during authentication.</li>
+            <li style="list-style-type: disc;">passing of group membership information during authentication.</li>
+        </ul>
+        <p>This means that the first time a SSO user reaches the CLS, s/he can be registered as new CLS User without the need for another form of new CLS User registration (such as a batch process User spreadsheet import performed by an administrator). This also means that the CLS can update existing User accounts based on Attribute Statements contained in the authentication process. </p>
+        <p>Note also that the Public Identity Provider setting can be used to make the browser check if the Identity Provider can be reached. If it cannot be reached, the CLS presents the standard CLS logon screen. </p>
+        <p>If you would like to take advantage of SSO please contact <a href="https://helpdesk.janison.com" target="_blank"><span class="Hyperlink">Janison Support</span></a>.</p>
+        <h2 class="Heading2">An example</h2>
+        <p>The simplified diagram below shows one typical SAML scenario and a registered CLS User who is not already authenticated with the CLS. A high-level overview of the process is as follows. The user tries to access the CLS (1). The CLS determines that the appropriate authentication method is SAML and sends an authorisation request to the appropriate Identity Provider (2 &amp; 3). If the User does not have an existing logon at the Identity Provider that meets requirements s/he is asked to provide valid credentials (4 &amp; 5); if s/he does have the logon then steps 4 and 5 are unnecessary. The Identity Provider then sends a response to the CLS Assertion Consumer Service (6 &amp; 7) and the resource requested is supplied (8), i.e. access to the CLS. The browser acts as the “broker” in these transactions.</p>
+        <p>
+            <img src="../../Resources/Images/authentication/SAML.png" style="visibility: visible;mso-wrap-style: square; border-left-style: none;border-left-width: 0px;border-right-style: none;border-right-width: 0px;border-top-style: none;border-top-width: 0px;border-bottom-style: none;border-bottom-width: 0px;" />
+        </p>
+        <h2 class="Heading2">More information about SAML</h2>
+        <p>Security Assertion Mark-up Language (SAML) is an XML-based framework for communicating user authentication, entitlement, and attribute information. At a minimum SAML exchanges take place between systems entities referred to as: </p>
+        <table style="mc-table-style: url('../../Resources/Stylesheets/PatternedRows.css');" class="TableStyle-PatternedRows" cellspacing="0">
+            <col class="TableStyle-PatternedRows-Column-Regular" style="width: 186px;" />
+            <col class="TableStyle-PatternedRows-Column-Regular" />
+            <tbody>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>A SAML asserting party<br /></p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>a system entity that makes SAML assertions</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyB-Regular-DarkerRows">
+                        <p>A SAML relying party</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyA-Regular-DarkerRows">
+                        <p>a system entity that uses assertions it has received</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>These entities can play the following roles:</p>
+        <table style="mc-table-style: url('../../Resources/Stylesheets/PatternedRows.css');" class="TableStyle-PatternedRows" cellspacing="0">
+            <col class="TableStyle-PatternedRows-Column-Regular" />
+            <col class="TableStyle-PatternedRows-Column-Regular" />
+            <tr class="TableStyle-PatternedRows-Body-LightRows">
+                <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                    <p>requester</p>
+                </td>
+                <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                    <p>a system entity that makes a direct request to another SAML entity</p>
+                </td>
+            </tr>
+            <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                    <p>responder </p>
+                </td>
+                <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                    <p>a system entity that receives a direct request from another SAML entity</p>
+                </td>
+            </tr>
+        </table>
+        <p>The ability for a SAML requester and responder to communicate relies upon trust relationship between the two entities having been previously been configured.</p>
+        <p>Janison SAML operates as the relying party in SAML interactions and refers requests to a third party Identity Provider operated by the client.</p>
+        <p>The SAML standard is developed and maintained by the Security Services Technical Committee of the Organisation for the Advancement of Structured Information Standards (OASIS), with the specifications at <a href="https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=security"><span class="Hyperlink">https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=security</span></a></p>
+        <h2 class="Heading2">SAML Profiles</h2>
+        <p>SAML profiles define how the SAML assertions, protocols and bindings are combined and constrained to provide greater interoperability in different scenarios. </p>
+        <p>The following profiles are used by Janison SAML:</p>
+        <p><b>Web Browser SSO Profile</b>
+        </p>
+        <p>This defines how SAML entities use the Authentication Request Protocol and SAML Response messages and assertions to achieve single sign-on with standard web browsers. It defines how the messages are used in combination with the HTTP Redirect, HTTP POST and HTTP Artifact bindings.</p>
+        <p>The Profile defines two roles:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">an IdP or Identity Provider</li>
+            <li style="list-style-type: disc;">an SP or Service Provider role. Janison SAML plays this role.</li>
+        </ul>
+        <p>Two general scenarios are supported in this profile:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">IdP initiated: the user first accesses the Identity Provider (IdP).</li>
+            <li style="list-style-type: disc;">SP initiated: the user first accesses the Janison system (SP). <br />The previous diagram showed a SP initiated login by a registered CLS User who is not already authenticated. </li>
+        </ul>
+        <p><b>Single Logout Profile</b>
+        </p>
+        <p>Once single sign-on has been achieved, several individual sessions with service providers share a single authentication context. The Single Logout Profile can be used to log out from Multiple Federated Service Providers at once. Janison SAML is able to:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">initiate a global logout or </li>
+            <li style="list-style-type: disc;">respond to a global logout.</li>
+        </ul>
+        <h2 class="Heading2">Setting SAML configuration options</h2>
+        <p>
+            <img src="../../Resources/Images/authentication/SAML_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>Create Users</li>
+        </ol>
+        <p>If checked, the system will create new User accounts in the CLS when a user is authenticated via SAML and is not found in the database. </p>
+        <ol style="list-style-type: decimal;" start="2">
+            <li>Update Users</li>
+        </ol>
+        <p>If checked, will update existing User accounts based on Attribute Statements contained in the Identity Provider Authentication response.</p>
+        <ol style="list-style-type: decimal;" start="3">
+            <li>Login Literal</li>
+        </ol>
+        <p>Used to adjust the wording that is used to refer to the SAML Identity Provider. Often set to SSO, it can be useful to let users know which authentication service they’re using.</p>
+        <ol style="list-style-type: decimal;" start="4">
+            <li>Identity Provider SSO URL </li>
+        </ol>
+        <p>The URL for the Identity Provider Single Sign-on service</p>
+        <ol style="list-style-type: decimal;" start="5">
+            <li>Identity Provider Logout URL </li>
+        </ol>
+        <p>The URL for the Identity Provider Single Sign-out service.</p>
+        <ol style="list-style-type: decimal;" start="6">
+            <li>Identity Provider Certificate File</li>
+        </ol>
+        <p>The public certificate used to verify the signature on messages from the configured Identity Provider.</p>
+        <ol style="list-style-type: decimal;" start="7">
+            <li>Signing Key File</li>
+        </ol>
+        <p>The SSL Signing certificate used to sign Assertions made by this server when communicating with the configured Identity Provider.</p>
+        <ol style="list-style-type: decimal;" start="8">
+            <li>Display Password</li>
+        </ol>
+        <p>When checked, displays the password for the Signing Key File.</p>
+        <p>
+            <img src="../../Resources/Images/authentication/SAML_2.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Attributes sets the mapping between supported properties in the Janison database and specific Attribute statements in the Identity Provider SAML response.</p>
+        <p>Groups makes it possible to link Attribute names with Group types and to specify whether old memberships are inactivated and/or new groups created as part of the Identity Provider SAML response.</p>
+    </body>
+</html>

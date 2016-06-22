@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="My Learning Transcript - Introduction"
+    Link="/Content/D_Settings/My Learning Transcript/My Learning Transcript Introduction.htm" />
+  <TocEntry
+    Title="Customising My Learning Transcript"
+    Link="/Content/D_Settings/My Learning Transcript/Customising My Learning Transcript.htm" />
+  <TocEntry
+    Title="Optional Attributes for transcripts"
+    Link="/Content/D_Settings/My Learning Transcript/Optional Attributes for transcripts.htm" />
+  <TocEntry
+    Title="Tag Type Columns"
+    Link="/Content/D_Settings/My Learning Transcript/Tag Type Columns.htm" />
+  <TocEntry
+    Title="PDF Transcripts"
+    Link="/Content/D_Settings/My Learning Transcript/PDF Transcripts.htm" />
+  <TocEntry
+    Title="Other learning"
+    Link="/Content/D_Settings/My Learning Transcript/Other learning.htm" />
+</CatapultToc>

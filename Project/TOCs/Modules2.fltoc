@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Design\Modules.docx">
+  <TocEntry
+    Title="Modules – Introduction"
+    Link="/Content/C_Design/Modules2/Modules Introduction.htm" />
+  <TocEntry
+    Title="Manage Modules"
+    Link="/Content/C_Design/Modules2/Manage Modules.htm" />
+  <TocEntry
+    Title="Inspect a Module"
+    Link="/Content/C_Design/Modules2/Inspect a Module.htm" />
+  <TocEntry
+    Title="Add a Module"
+    Link="/Content/C_Design/Modules2/Add a Module.htm" />
+  <TocEntry
+    Title="Edit a Module"
+    Link="/Content/C_Design/Modules2/Edit a Module.htm" />
+  <TocEntry
+    Title="Import a Module"
+    Link="/Content/C_Design/Modules2/Import a Module.htm" />
+  <TocEntry
+    Title="Export a Module"
+    Link="/Content/C_Design/Modules2/Export a Module.htm" />
+  <TocEntry
+    Title="Add a Page to a Learning Page Module"
+    Link="/Content/C_Design/Modules2/Add a Page to a Learning Page.htm" />
+  <TocEntry
+    Title="Pages in Custom Pages Modules"
+    Link="/Content/C_Design/Modules2/Pages in Custom Pages Modules.htm" />
+  <TocEntry
+    Title="Add a Panel to a Page"
+    Link="/Content/C_Design/Modules2/Add a Panel to a Page.htm" />
+</CatapultToc>

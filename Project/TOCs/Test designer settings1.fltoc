@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Test Designer Settings – Introduction"
+    Link="/Content/D_Settings/Test designer settings1/Test Designer Settings Introduction.htm" />
+  <TocEntry
+    Title="General Assessment Options"
+    Link="/Content/D_Settings/Test designer settings1/General Assessment Options.htm" />
+  <TocEntry
+    Title="Question Options"
+    Link="/Content/D_Settings/Test designer settings1/Question Options.htm" />
+  <TocEntry
+    Title="Identifier Auto Generation"
+    Link="/Content/D_Settings/Test designer settings1/Identifier Auto Generation.htm" />
+  <TocEntry
+    Title="Test options"
+    Link="/Content/D_Settings/Test designer settings1/Test options.htm" />
+  <TocEntry
+    Title="Test Section options"
+    Link="/Content/D_Settings/Test designer settings1/Test Section options.htm" />
+  <TocEntry
+    Title="Available Question Types"
+    Link="/Content/D_Settings/Test designer settings1/Available Question Types.htm" />
+  <TocEntry
+    Title="Available Test Section Types"
+    Link="/Content/D_Settings/Test designer settings1/Available Test Section Types.htm" />
+  <TocEntry
+    Title="Document Flagging"
+    Link="/Content/D_Settings/Test designer settings1/Document Flagging.htm" />
+  <TocEntry
+    Title="Paper Based test Print Settings"
+    Link="/Content/D_Settings/Test designer settings1/Paper Based test Print Settings.htm" />
+</CatapultToc>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Design\Panel type.docx">
+  <TocEntry
+    Title="Course designer panels – introduction"
+    Link="/Content/C_Design/Panel type/Course designer panels introduction.htm" />
+  <TocEntry
+    Title="Panel type - Introduction"
+    Link="/Content/C_Design/Panel type/Panel type Introduction.htm" />
+  <TocEntry
+    Title="Panel type – Plain text"
+    Link="/Content/C_Design/Panel type/Panel type Plain text.htm" />
+  <TocEntry
+    Title="Panel type - Reveal list"
+    Link="/Content/C_Design/Panel type/Panel type Reveal list.htm" />
+  <TocEntry
+    Title="Panel type – pop-up"
+    Link="/Content/C_Design/Panel type/Panel type pop up.htm" />
+  <TocEntry
+    Title="Panel type - Accordion"
+    Link="/Content/C_Design/Panel type/Panel type Accordion.htm" />
+  <TocEntry
+    Title="Panel type – Tabbed content"
+    Link="/Content/C_Design/Panel type/Panel type Tabbed content.htm" />
+  <TocEntry
+    Title="Panel type – reflection tiles"
+    Link="/Content/C_Design/Panel type/Panel type reflection tiles.htm" />
+  <TocEntry
+    Title="Panel type – Slideshow"
+    Link="/Content/C_Design/Panel type/Panel type Slideshow.htm" />
+  <TocEntry
+    Title="Panel type – Hotspot"
+    Link="/Content/C_Design/Panel type/Panel type Hotspot.htm" />
+  <TocEntry
+    Title="Panel type – Video"
+    Link="/Content/C_Design/Panel type/Panel type Video.htm" />
+  <TocEntry
+    Title="Panel type – Module progress"
+    Link="/Content/C_Design/Panel type/Panel type Module progress.htm" />
+</CatapultToc>

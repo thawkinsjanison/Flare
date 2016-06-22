@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Adding Learning – introduction"
+    Link="/Content/B_Manage Learning/Add Learning/Adding Learning introduction.htm" />
+  <TocEntry
+    Title="Add Learning"
+    Link="/Content/B_Manage Learning/Add Learning/Add Learning.htm" />
+  <TocEntry
+    Title="Step 1 Learning Type"
+    Link="/Content/B_Manage Learning/Add Learning/Step 1 Learning Type.htm" />
+  <TocEntry
+    Title="Steps 2 Description"
+    Link="/Content/B_Manage Learning/Add Learning/Steps 2 Description.htm" />
+  <TocEntry
+    Title="Step 3 Details for Learning Event"
+    Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Learning.htm" />
+  <TocEntry
+    Title="Step 3 Details for Other Learning"
+    Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Other Learning.htm" />
+  <TocEntry
+    Title="Step 3 Details for Program"
+    Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Program.htm" />
+  <TocEntry
+    Title="Step 3 Details for SCORM Course"
+    Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for SCORM Course.htm" />
+  <TocEntry
+    Title="Step 3 Details for Trackable Document"
+    Link="/Content/B_Manage Learning/Add Learning/Step 3 Details for Trackable.htm" />
+  <TocEntry
+    Title="Step 4 Review/Publish"
+    Link="/Content/B_Manage Learning/Add Learning/Step 4 Review Publish.htm" />
+</CatapultToc>

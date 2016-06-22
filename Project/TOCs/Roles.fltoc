@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Roles Introduction" />
+  <TocEntry
+    Title="Concepts" />
+  <TocEntry
+    Title="Security Hierarchies" />
+  <TocEntry
+    Title="Roles Manager – List Form" />
+  <TocEntry
+    Title="Roles Manager – Add Role" />
+  <TocEntry
+    Title="Roles Manager – Export and Import" />
+  <TocEntry
+    Title="Roles Manager – Edit Role" />
+  <TocEntry
+    Title="Extra Roles Widget" />
+  <TocEntry
+    Title="Administrators Widget" />
+</CatapultToc>

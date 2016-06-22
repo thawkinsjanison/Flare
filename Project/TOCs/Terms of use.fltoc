@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\settings\Terms of use.docx">
+  <TocEntry
+    Title="Terms of Use - introduction"
+    Link="/Content/D_Settings/Terms of use/Terms of Use introduction.htm" />
+  <TocEntry
+    Title="Enabling self-registration"
+    Link="/Content/D_Settings/Terms of use/Enabling self registration.htm" />
+  <TocEntry
+    Title="Setup Terms of Use"
+    Link="/Content/D_Settings/Terms of use/Setup Terms of Use.htm" />
+  <TocEntry
+    Title="End user experience"
+    Link="/Content/D_Settings/Terms of use/End user experience.htm" />
+</CatapultToc>

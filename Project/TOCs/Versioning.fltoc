@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Versioning – Introduction"
+    Link="/Content/C_Design/Versioning/Versioning Introduction.htm" />
+  <TocEntry
+    Title="Versioning Settings"
+    Link="/Content/C_Design/Versioning/Versioning Settings.htm" />
+  <TocEntry
+    Title="View Versioning"
+    Link="/Content/C_Design/Versioning/View Versioning.htm" />
+</CatapultToc>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Learning Events"
+    Link="/Content/B_Manage Learning/Manage Sessions2/Managing Sessions Introduction.htm">
+    <TocEntry
+      Title="Introduction"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Managing Sessions Introduction.htm" />
+    <TocEntry
+      Title="The Process"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Session process.htm" />
+    <TocEntry
+      Title="Manage Sessions"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Manage Sessions.htm" />
+    <TocEntry
+      Title="Add Learning Event"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Add Learning Event.htm" />
+    <TocEntry
+      Title="Inspect Learning Event"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Inspect Learning Event.htm" />
+    <TocEntry
+      Title="Add Session"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Add Session.htm" />
+    <TocEntry
+      Title="View Session"
+      Link="/Content/B_Manage Learning/Manage Sessions2/View Session.htm" />
+    <TocEntry
+      Title="Edit a Session"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Edit a Session.htm" />
+    <TocEntry
+      Title="Session Summary Screen"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Session summary screen.htm" />
+    <TocEntry
+      Title="Manage a Session and Waiting Lists"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Manage a Session and Waiting.htm" />
+    <TocEntry
+      Title="Mark a Session"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Mark a Session.htm" />
+    <TocEntry
+      Title="Learning Event Settings"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Learning Event Settings.htm" />
+    <TocEntry
+      Title="Locations, Venues and Maps"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Locations Venues and maps.htm" />
+    <TocEntry
+      Title="Message Templates and Sessions"
+      Link="/Content/B_Manage Learning/Manage Sessions2/Message Templates and Sessions.htm" />
+  </TocEntry>
+</CatapultToc>

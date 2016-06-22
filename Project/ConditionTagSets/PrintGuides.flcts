@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="">
+  <ConditionTag
+    Comment=""
+    Name="Getting Started"
+    BackgroundColor="#ffff00"
+    OriginalName="Getting Started" />
+  <ConditionTag
+    BackgroundColor="#ffe0fe"
+    Name="Links and Lists"
+    Comment=""
+    OriginalName="Links and Lists" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Conditions and Notes"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Images"
+    Comment="" />
+</CatapultConditionTagSet>

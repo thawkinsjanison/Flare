@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Learning Plan Introduction"
+    Link="/Content/B_Manage Learning/Learning Plans1/Learning Plan Introduction.htm" />
+  <TocEntry
+    Title="Setting up for a Learning Plan"
+    Link="/Content/B_Manage Learning/Learning Plans1/Setting up for a Learning.htm" />
+  <TocEntry
+    Title="Create and Edit a Learning Plan"
+    Link="/Content/B_Manage Learning/Learning Plans1/Create and Edit a Learning.htm" />
+  <TocEntry
+    Title="Using a learning plan as a learner"
+    Link="/Content/B_Manage Learning/Learning Plans1/Using a learning plan as a.htm" />
+</CatapultToc>

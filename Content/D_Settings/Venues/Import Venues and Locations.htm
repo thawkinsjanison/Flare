@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="2200" MadCap:lastWidth="1174">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1"><a name="_Bulk_upload_of"></a>Import Venues and Locations</h1>
+        <p>You can add new Venues and Locations using a batch import process. This speeds up data entry and makes it easier to use information stored in another database or system. The batch import process uses a spreadsheet file that must follow the format of the template provided. </p>
+        <p>Note that in an import you can create new Venues:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">without a Location,</li>
+            <li style="list-style-type: disc;">with a new Location, or</li>
+            <li style="list-style-type: disc;">with an existing Location.</li>
+        </ul>
+        <p>However, you cannot create a new Location without a Venue.</p>
+        <p>To import Venue and Location data navigate <b class="b">to Settings &gt; Venues</b> and select <b class="b">Import Venues</b>.</p>
+        <p>
+            <img src="../../Resources/Images/Venues/Import Venues and Locations.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>The next screen allows you to download the spreadsheet template, customise it and upload it into the CLS.</p>
+        <p>
+            <img src="../../Resources/Images/Venues/Import Venues and Locations_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>Click <b class="b">Template</b> to download the template for the import and either enter the required data or format your own spreadsheet data appropriately, see <a href="#_Template"><span class="Hyperlink">Template</span></a>.</li>
+            <li>Enter an email address. This address will be sent a summary of the import process using standard import entity email format. Any exceptions or validation errors will be shown in the email.</li>
+            <li>Browse to select your spreadsheet file.</li>
+            <li>Click <b class="b">Import and email result</b><b class="b">.</b></li>
+        </ol>
+        <p>In the next screen you can preview the import result by clicking <b class="b">View Import Log</b> and then clicking the close box on the top right hand corner of the log details popup. </p>
+        <p>
+            <img src="../../Resources/Images/Venues/Import Venues and Locations_2.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>If you click <b class="b">Back</b> the import will not proceed. </p>
+        <p>You will receive formal notification at the email address that you entered (<b class="b">2</b>) when the import has been fully completed.</p>
+        <h2 class="Heading2"><a name="_Template"></a>Venue Import Template</h2>
+        <p>The second page of the template shows the column headings (which can be in any order) and the data that you can enter for each one. Note that Venues cannot be assigned custom attributes.</p>
+        <p>
+            <img src="../../Resources/Images/Venues/Import Venues and Locations_3.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>The first page of the spreadsheet gives sample data for a Venue and its Location. </p>
+        <p>Notes</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">If a Venue is matched by name to an existing Venue in the CLS then that Venue will be updated with the data in the spreadsheet.</li>
+            <li style="list-style-type: disc;">If a Venue is not matched by name to an existing Venue in the CLS a new Venue will be created.</li>
+        </ul>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">If a Venue is specified where the Location Identifier matches an existing location in the CLS then the existing Location will be updated with any details from the spreadsheet and also linked to this Venue if this is not already the case. </li>
+            <li style="list-style-type: disc;">If a Venue is specified where the Location Identifier matches an existing location in the CLS and no other location data is given then the location will be linked to the Venue if this is not already the case. If the location is not in the CLS, then an error message will be created.</li>
+        </ul>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">If a Venue is specified where the Location Identifier does not match an existing location in the CLS then the Location will be created with the details from the spreadsheet and linked to the Venue. However, note the next point:</li>
+            <li style="list-style-type: disc;">If a Location is being added or edited through this import you must enter its Location Identifier, Location Name and Location Description. The upload will fail if this is not the case.</li>
+            <li style="list-style-type: disc;">If a Venue is specified where the Location Identifier matches a Location already encountered in a previous row of the spreadsheet (and hence, already created) then the Location previously defined in the earlier row will be linked to this Venue.</li>
+            <li style="list-style-type: disc;">There is an import limit of 5000 rows at a time.</li>
+        </ul>
+    </body>
+</html>

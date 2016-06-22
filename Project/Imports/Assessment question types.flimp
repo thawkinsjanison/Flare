@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-29T16:35:04.5820161+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-29T16:35:42.5187850+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Design/Assessment question types.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Assessment question types.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Creating Questions.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Creating Questions_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Creating Questions.htm"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Associate Interaction.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Associate Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Associate Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Associate Interaction_3.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Associate Interaction_4.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Associate Interaction.htm"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Cloze.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Cloze_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Cloze.htm"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Comment.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Comment_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Comment.htm"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/File Upload.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/File Upload_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/File Upload.htm"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Gap Match Interaction.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Gap Match Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Gap Match Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Gap Match Interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic Associate Interaction.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic Associate Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic Associate Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic Associate Interaction_3.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Graphic Associate Interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic Gap Match Interaction.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic Gap Match Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic Gap Match Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic Gap Match Interaction_3.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Graphic Gap Match Interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic order interaction.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic order interaction_1.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Graphic order interaction_2.png"
+      TimeStamp="29/04/2015 4:35:34 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Graphic order interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Hotspot interaction.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Hotspot interaction_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Hotspot interaction_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Hotspot interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Keyword.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Keyword_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Keyword_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Keyword.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Match interaction.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Match interaction_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Match interaction_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Match interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Multiple Short Answers.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Multiple Short Answers_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Multiple Short Answers_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Multiple Short Answers_3.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Multiple Short Answers.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Order Interaction.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Order Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Order Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Order Interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Position Object Interaction.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Position Object Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Position Object Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Position Object Interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Select Point Interaction.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Select Point Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Select Point Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Select Point Interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Short Answer.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Short Answer_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Short Answer_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Short Answer.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Slider Interaction.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Slider Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Slider Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Slider Interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Text Spot.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Text Spot_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Text Spot.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Text Spot Interaction.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Text Spot Interaction_1.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Text Spot Interaction_2.png"
+      TimeStamp="29/04/2015 4:35:35 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Text Spot Interaction.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/True False.png"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/True False_1.png"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Assessment question types/True False.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Yes No.png"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Assessment question types/Yes No_1.png"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Assessment question types/Yes No.htm"
+      TimeStamp="29/04/2015 4:35:37 PM" />
+    <Url
+      Source="../TOCs/Assessment question types.fltoc"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Assessment question types.flmsp"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="29/04/2015 4:35:36 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="BText" />
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

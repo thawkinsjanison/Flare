@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="6" MadCap:lastHeight="2963" MadCap:lastWidth="1143">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1"><a name="_Importing_QTI_Questions"></a>Importing QTI Questions</h1>
+        <p>You can import QTI questions into Modules in the CLS, both Learning and Assessment Modules. However if your purpose is assessment then you must import them into Assessment Modules, see <a href="../Modules2/Modules Introduction.htm">Modules</a>.</p>
+        <p>The process involves importing one or more QTI question packages that have been created by an export process either within or outside the CLS. The CLS makes sure that imported questions adhere to the QTI standard and it will not import those that have errors.</p>
+        <p>The package formats that the CLS will accept when importing are:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">An IMS Content Package zip file containing a <b>single</b> QTI assessment item.</li>
+            <li style="list-style-type: disc;">An IMS Content Package zip file containing <b>multiple</b> QTI assessment items.</li>
+            <li style="list-style-type: disc;">A zip file containing multiple IMS Content Packages zip files. The IMS Content Package zip files can contain a single or multiple QTI assessment items.</li>
+        </ul>
+        <p>The following rules apply to the import process:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">An import requires that the Module where the Questions will be added already exists.</li>
+            <li style="list-style-type: disc;">If any aspect of a single question package fails then the whole question package fails and does not import.</li>
+            <li style="list-style-type: disc;">If a Question with the same Identifier already exists in the system, you will be warned that existing Questions will be overwritten if you proceed.</li>
+            <li style="list-style-type: disc;">When Question Workflows are enabled,<ul style="list-style-type: circle;"><li style="list-style-type: circle;">questions will be imported with a status of Draft.</li><li style="list-style-type: circle;">if a Question with the same Identifier exists in the system and that Question has a status of Draft a warning message will be displayed to the User. If the user continues with the import process all changes that have been made to the question in the CLS will be lost. This also applies to resources.</li><li style="list-style-type: circle;">if a Question with the same Identifier already exists in the system and that Question has a status other than Draft, an error message will be displayed. The question will not be able to be re-imported. This also applies to resources.</li></ul></li>
+        </ul>
+        <p>For more information about workflow states see the Workflow document.</p>
+        <ul style="list-style-type: disc">
+            <li style="list-style-type: disc;">The bulk upload of QTI packages follows other CLS import processes such that packages with errors are skipped and the rest of the QTI packages continue to be imported. The resultant errors are provided in a report which can be used to rectify the questions that failed to import.</li>
+            <li style="list-style-type: disc;">The import process supports the importing of full questions only, unless the option to ignore this has been set in <a href="QTI Settings.htm#_QTI_Settings"><span class="Hyperlink">QTI settings</span></a> or specified in the <a href="#_Import_QTI_Questions"><span class="Hyperlink">import</span></a>.</li>
+            <li style="list-style-type: disc;">The bulk import uses the common browse file functionality but allows multiple files to be selected.</li>
+            <li style="list-style-type: disc;">Messages are displayed for any QTI interaction attributes that are not supported.</li>
+            <li style="list-style-type: disc;">The CLS will use a task scheduler process wherever possible so that importing can be performed on another server to improve performance.</li>
+            <li style="list-style-type: disc;">When importing large files the system will provide feedback so that you can track the progress of the import.</li>
+        </ul>
+        <p>The diagram shows the process of importing QTI Questions. </p>
+        <p>
+            <img src="../../Resources/Images/QTI/Importing QTI Questions.png" style="visibility: visible;mso-wrap-style: square;border-left-style: none;border-left-width: 1px;border-left-color: #a9a9a9;border-right-style: none;border-right-width: 1px;border-right-color: #a9a9a9;border-top-style: none;border-top-width: 1px;border-top-color: #a9a9a9;border-bottom-style: none;border-bottom-width: 1px;border-bottom-color: #a9a9a9;" />
+        </p>
+        <h2 class="Heading2"><a name="_Import_QTI_Questions"></a>Import QTI Questions</h2>
+        <p>Navigate to <b>Design</b> &gt; <b>Questions</b> and select <b>Import QTI Items</b> from the Actions drop-down.</p>
+        <p>
+            <img src="../../Resources/Images/QTI/Importing QTI Questions_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li><b>Discipline</b> –select the Discipline.</li>
+            <li><b>Module</b> –select the Module where the imported Questions would be added. </li>
+        </ol>
+        <p>Note: the drop-down lists only show Disciplines and Modules where the User has permission to create Questions.</p>
+        <ol style="list-style-type: decimal;" start="3">
+            <li><b>Scoring not in package</b> – check this box to indicate that the scoring of the QTI items in the package is not required.</li>
+            <li><b>Package Password</b> – if a password was set when the QTI Items were exported then it needs to be added here.</li>
+            <li><b>Select QTI Packages</b> – this button becomes available once the Discipline and Module have been selected. Click it and select the files to be imported from your local machine. You can do this more than once.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/QTI/Importing QTI Questions_2.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Next you will be presented with the validation of the files you selected. A number of different possibilities can occur for each question package. These are:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;"><b>Success</b> – No warnings and errors.</li>
+            <li style="list-style-type: disc;"><b>Warnings</b> – the package has warnings, but can still be imported. Click on the Warning to expand the section and see the details.</li>
+            <li style="list-style-type: disc;"><b>Errors</b> – the package has errors and cannot be imported. Click on the Error to expand the section and see the details.</li>
+        </ul>
+        <p>After validation, you can import each package individually by clicking the <b>Import</b> button, or use the <b>Import All</b> button to import all packages that do not have errors. In the example below, only one of the two question packages is error–free so the two buttons will achieve the same result.</p>
+        <p>
+            <img src="../../Resources/Images/QTI/Importing QTI Questions_3.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+    </body>
+</html>

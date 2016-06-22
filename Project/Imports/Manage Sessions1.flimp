@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-14T14:45:46.4972616+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-14T14:47:01.5592452+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/manage learning/Manage Sessions.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Manage Sessions.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Sessions Introduction.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Sessions Introduction_1.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Sessions Introduction_2.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/Manage Sessions Introduction.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Sessions.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Sessions_1.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/Manage Sessions.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_1.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_2.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_3.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_4.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_5.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_6.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_7.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_8.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Learning Event_9.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/Add Learning Event.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Session.png"
+      TimeStamp="14/05/2015 2:46:55 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Add Session_1.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/Add Session.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Session and Waiting.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Session and Waiting_1.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Session and Waiting_2.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Manage Session and Waiting_3.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/Manage Session and Waiting.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Mark a Session.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Mark a Session_1.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Mark a Session_2.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Mark a Session_3.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Mark a Session_4.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/Mark a Session.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/View Session.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/View Session_1.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/View Session.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Edit a Session.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/Edit a Session.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Sessions1/Learning Event Settings.png"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Manage Sessions1/Learning Event Settings.htm"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../TOCs/Manage Sessions1.fltoc"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Manage Sessions1.flmsp"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="14/05/2015 2:46:56 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Heading 1 Char" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

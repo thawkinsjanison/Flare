@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Learning Assets – introduction"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Learning Assets introduction.htm" />
+  <TocEntry
+    Title="Types of Learning Assets"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Types of Learning Assets.htm" />
+  <TocEntry
+    Title="Manage Learning Assets"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Manage Learning Assets.htm" />
+  <TocEntry
+    Title="Add Learning Asset"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset.htm" />
+  <TocEntry
+    Title="Edit Learning Asset"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Edit Learning Asset.htm" />
+  <TocEntry
+    Title="Inspect Learning Asset - Learning Event"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Inspect Learning Asset Learning.htm" />
+  <TocEntry
+    Title="Add Learning Asset - Learning Event"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Learning.htm" />
+  <TocEntry
+    Title="Add Learning Asset - Add Session"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Add Session.htm" />
+  <TocEntry
+    Title="Add Learning Asset - Course"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Course.htm" />
+  <TocEntry
+    Title="Add Learning Asset - Other Learning"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Other Learning.htm" />
+  <TocEntry
+    Title="Add Learning Asset - SCORM Course"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset SCORM Course.htm" />
+  <TocEntry
+    Title="Add Learning Asset -Trackable Document"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Trackable.htm" />
+  <TocEntry
+    Title="Add Learning Asset - Assessment Event"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Assessment.htm" />
+  <TocEntry
+    Title="Add Learning Asset – Assignment"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Assignment.htm" />
+  <TocEntry
+    Title="Add Learning Asset – Discussion Forum"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Discussion.htm" />
+  <TocEntry
+    Title="Add Learning Asset – Plan"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Plan.htm" />
+  <TocEntry
+    Title="Add Learning Asset - Survey"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Survey.htm" />
+  <TocEntry
+    Title="Add Learning Asset - Test"
+    Link="/Content/B_Manage Learning/Manage Learning Assets1/Add Learning Asset Test.htm" />
+</CatapultToc>

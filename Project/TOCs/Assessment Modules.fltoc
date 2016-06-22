@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Assessment Modules – Introduction"
+    Link="/Content/C_Design/Assessment Modules/Assessment Modules.htm" />
+  <TocEntry
+    Title="Manage Assessment Modules"
+    Link="/Content/C_Design/Assessment Modules/Manage Assessment Modules.htm" />
+  <TocEntry
+    Title="Inspect Assessment Module details"
+    Link="/Content/C_Design/Assessment Modules/Inspect Assessment Module.htm" />
+  <TocEntry
+    Title="Add an Assessment Module"
+    Link="/Content/C_Design/Assessment Modules/Add an Assessment Module.htm" />
+  <TocEntry
+    Title="Edit an Assessment Module"
+    Link="/Content/C_Design/Assessment Modules/Edit an Assessment Module.htm" />
+  <TocEntry
+    Title="Export an Assessment Module"
+    Link="/Content/C_Design/Assessment Modules/Export an Assessment Module.htm" />
+  <TocEntry
+    Title="Deep Copy Assessment Module"
+    Link="/Content/C_Design/Assessment Modules/Deep Copy Assessment Module.htm" />
+  <TocEntry
+    Title="Import an Assessment Module"
+    Link="/Content/C_Design/Assessment Modules/Import an Assessment Module.htm" />
+  <TocEntry
+    Title="Export QTI Items"
+    Link="/Content/C_Design/Assessment Modules/Export QTI Items.htm" />
+  <TocEntry
+    Title="Admin Delete Assessment Module"
+    Link="/Content/C_Design/Assessment Modules/Admin Delete Assessment Module.htm" />
+</CatapultToc>

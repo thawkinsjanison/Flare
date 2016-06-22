@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-07-01T16:06:43.6456092+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-07-01T16:07:24.4929867+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/authentication.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/authentication.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/authentication/Authenticating Users.png"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../../Content/authentication/Authenticating Users.htm"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/authentication/Standard username password.png"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../../Content/authentication/Standard username password.htm"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/authentication/SAML.png"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/authentication/SAML_1.png"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/authentication/SAML_2.png"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../../Content/authentication/SAML.htm"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../TOCs/authentication.fltoc"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="1/07/2015 4:07:18 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

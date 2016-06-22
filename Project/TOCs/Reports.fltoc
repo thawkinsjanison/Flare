@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Reports.docx">
+  <TocEntry
+    Title="Reports - Introduction"
+    Link="/Content/B_Manage Learning/Reports/Reports Introduction.htm" />
+  <TocEntry
+    Title="Completions"
+    Link="/Content/B_Manage Learning/Reports/Completions.htm" />
+  <TocEntry
+    Title="Registrations"
+    Link="/Content/B_Manage Learning/Reports/Registrations.htm" />
+  <TocEntry
+    Title="Registrations and Completions over time"
+    Link="/Content/B_Manage Learning/Reports/Registrations and Completions.htm" />
+</CatapultToc>

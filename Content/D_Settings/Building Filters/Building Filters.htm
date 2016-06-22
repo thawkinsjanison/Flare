@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="3044" MadCap:lastWidth="1200">
+    <head>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Building Filters</h1>
+        <p>Filters can be applied to CLS entities in a number of contexts. This explanation uses the example of reporting on the Users entity. We are building a set of rules and combining them together logically in order to select certain Users.</p>
+        <h2 class="Heading2">Simple filters</h2>
+        <p>To build a filter: </p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>Click <strong>Add filter</strong> to create a rule</li>
+            <li>Choose a <strong>Field</strong> (for example, Full Name, Active, etc.) from the drop-down box. The fields available will change depending on which entity is being filtered.</li>
+            <li>Choose an <strong>Operator</strong> from the drop-down box in the middle</li>
+            <li>Type a value in the box at the right. </li>
+            <li>You have now built a rule. You can add another rule (filter) to this top-level rule Group by clicking the top <strong>Add filter</strong> button (<strong>1</strong>) again. Notice that this new rule (Active = Yes) lines up with the first rule. Depending on what is selected at the top (<strong>5</strong>), you are now specifying Users for whom both of these rules are true (AND) or else Users for whom either of the rules is true (OR). </li>
+            <li>You delete a single rule (filter) by clicking the <strong>minus</strong> icon at its right hand side.</li>
+            <li>You can delete all the rules by clicking <strong>Delete all filters</strong>.</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_8.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Thus, the screenshot above shows a set of rules that when applied to Users selects those who:</p>
+        <ul style="list-style-type: square;">
+            <li>Have a Basic User Role, AND</li>
+            <li>Are active (Active = Yes)</li>
+        </ul>
+        <p>Extra Note about <strong>Values</strong> (4). In some cases, for example when you have specified that “Active =”, you will be provided with drop-down choices, in this case yes or no. </p>
+        <p>In other cases, for example when you have specified that “Org Unit =“ (see <strong>15</strong> in the screenshot below), an additional drop-down box will appear with Const and Param as choices. You select Const to indicate that you are specifying a value in the right hand box; you select Param to indicate that you are specifying a characteristic in the right hand box. </p>
+        <p>In this example, choosing <em>Const</em> means that the box displays actual Org Units to select. Selecting <em>Param</em> means that you can choose a relationship, i.e. your own Org Unit.</p>
+        <h2 class="Heading2">Rule Groups</h2>
+        <ol style="list-style-type: decimal;" start="8">
+            <li>You can make rule groups by clicking <strong>Add group</strong>. This makes it possible to logically build a complex set of filters (but it does require a more technically-oriented person).</li>
+            <li>After you have clicked Add group (<strong>8</strong>), new fields and buttons will then appear. You then click the local <strong>Add filter</strong> button (<strong>9</strong>) to start create rules for this rule Group. In the example below the rules in the rule group will be logically combined together using AND (<strong>14</strong>), that is, they must all be true for the whole Group of rules to be true</li>
+            <li>The outcome of this rule Group will be logically combined with the other rules listed just above it (at <strong>10)</strong>, i.e. those rules at the same level</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_9.png" style="visibility: visible;mso-wrap-style: square;" /> </p>
+        <p>This functionality, which can be repeated and combined numerous times and ways, means that rules can be nested in rules that are nested and combined in rules, and so on, leading to highly detailed specifications. As discussed, these are best set up by people, such as programmers, who can design the nested IF statements required.</p>
+        <ol style="list-style-type: decimal;" start="11">
+            <li>You delete a Group of rules by clicking <strong>Delete Group</strong>.</li>
+            <li>You can delete all the rules (filters) in a Group by clicking <strong>Delete all filters</strong>.</li>
+            <li>Click the <strong>Control</strong> Checkbox next to a rule, if you want the report to pause when it is run to allow this value to be entered. This setting is only applicable to customisable reports.</li>
+        </ol>
+        
+        <p>Thus, the screenshot above now selects those Users who:</p>
+        <ul style="list-style-type: square;">
+            <li>Have a Basic User Role, and, AND</li>
+            <li>Are active, AND</li>
+            <li>Are in either Organisation Unit 1 OR Organisation Unit 2.</li>
+        </ul>
+        <p>For another example of a targeted set of filters, the screenshot below specifies all Users who:</p>
+        <ol style="list-style-type: decimal;" start="1">
+            <li>have a Role of Chief Marker, OR</li>
+            <li>are in the Org Unit of the User requesting the Report OR</li>
+            <li>have the first name “Ryan” AND the last name of “Jones”</li>
+        </ol>
+        <p>
+            <img src="../../Resources/Images/Building Filters/Easier introduction to filters_10.png" style="visibility: visible;mso-wrap-style: square;" />
+        </p>
+        <p>Note that if the top level field (marked <strong>A</strong>) was set to “AND” instead of “OR”, then the only User(s) selected would:</p>
+        <ul style="list-style-type: disc;">
+            <li style="list-style-type: disc;">have a role of Chief Marker, and</li>
+            <li style="list-style-type: disc;">be in the requestor’s Org Unit, and</li>
+            <li style="list-style-type: disc;">be named “Ryan Jones”</li>
+        </ul>
+    </body>
+</html>

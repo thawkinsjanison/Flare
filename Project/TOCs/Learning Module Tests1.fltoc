@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Creating a Test for a Learning Module"
+    Link="/Content/C_Design/Learning Module Tests1/Creating a Test for a Learning.htm" />
+  <TocEntry
+    Title="Test Body"
+    Link="/Content/C_Design/Learning Module Tests1/Test Body.htm" />
+  <TocEntry
+    Title="Pass/Fail and Resit settings:"
+    Link="/Content/C_Design/Learning Module Tests1/Pass Fail and Resit settings.htm" />
+  <TocEntry
+    Title="Questions"
+    Link="/Content/C_Design/Learning Module Tests1/Questions.htm" />
+  <TocEntry
+    Title="Response Analysis"
+    Link="/Content/C_Design/Learning Module Tests1/Response Analysis.htm" />
+  <TocEntry
+    Title="Copy a test"
+    Link="/Content/C_Design/Learning Module Tests1/Copy a test.htm" />
+  <TocEntry
+    Title="Export Test"
+    Link="/Content/C_Design/Learning Module Tests1/Export Test.htm" />
+</CatapultToc>

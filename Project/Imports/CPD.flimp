@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-05-28T10:29:17.9728348+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-05-28T10:29:49.0656219+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/manage learning/CPD.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/CPD.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/CPD/CPD Introduction.htm"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/CPD/CPD Colour Legend.htm"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/CPD Points.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/CPD/CPD Points.htm"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/CPD Tags.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/CPD Tags_1.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/CPD Tags_2.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/CPD/CPD Tags.htm"
+      TimeStamp="28/05/2015 10:29:40 AM" />
+    <Url
+      Source="../../Content/CPD/CPD Plans.htm"
+      TimeStamp="28/05/2015 10:29:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_1.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_2.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_3.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_4.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_5.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_6.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_7.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_8.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_9.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_10.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_11.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Creating a CPD plan_12.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/CPD/Creating a CPD plan.htm"
+      TimeStamp="28/05/2015 10:29:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/CPD Catalogue Items.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/CPD Catalogue Items_1.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/CPD Catalogue Items_2.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/CPD/CPD Catalogue Items.htm"
+      TimeStamp="28/05/2015 10:29:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/How CPD looks and works for.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/How CPD looks and works for_1.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/How CPD looks and works for_2.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/How CPD looks and works for_3.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/How CPD looks and works for_4.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/How CPD looks and works for_5.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/CPD/How CPD looks and works for.htm"
+      TimeStamp="28/05/2015 10:29:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Manage CPD progress.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Manage CPD progress_1.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Images/CPD/Manage CPD progress_2.png"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/CPD/Manage CPD progress.htm"
+      TimeStamp="28/05/2015 10:29:40 AM" />
+    <Url
+      Source="../TOCs/CPD.fltoc"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/CPD.flmsp"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="28/05/2015 10:29:39 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Bullet" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

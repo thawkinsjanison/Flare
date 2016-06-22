@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="QTI – Introduction"
+    Link="/Content/C_Design/QTI/QTI Introduction.htm" />
+  <TocEntry
+    Title="Exporting QTI Questions"
+    Link="/Content/C_Design/QTI/Exporting QTI Questions.htm" />
+  <TocEntry
+    Title="Importing QTI Questions"
+    Link="/Content/C_Design/QTI/Importing QTI Questions.htm" />
+  <TocEntry
+    Title="QTI Settings"
+    Link="/Content/C_Design/QTI/QTI Settings.htm" />
+</CatapultToc>

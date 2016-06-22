@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-08-10T13:53:01.9062601+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-08-10T13:53:46.2580136+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/Roles.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Roles.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Roles/Roles Introduction.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Roles Introduction.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Concepts.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Security Hierarchies.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Security Hierarchies_1.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Security Hierarchies_2.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Security Hierarchies_3.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Security Hierarchies.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Roles Manager List Form.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Roles Manager List Form.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Roles Manager Add Role.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Roles Manager Add Role.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Roles Manager Export and Import.jpg"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Roles Manager Export and Import.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Roles Manager Edit Role.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Roles Manager Edit Role.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Extra Roles Widget.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Extra Roles Widget.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Roles/Administrators Widget.png"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Roles/Administrators Widget.htm"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../TOCs/Roles.fltoc"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="10/08/2015 1:53:39 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

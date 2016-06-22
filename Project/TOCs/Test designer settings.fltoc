@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Test Designer Settings – Introduction" />
+  <TocEntry
+    Title="General Assessment Options" />
+  <TocEntry
+    Title="Use Add Learning Wizard" />
+  <TocEntry
+    Title="Question Banks" />
+  <TocEntry
+    Title="Psychometric Dataset Management" />
+  <TocEntry
+    Title="Test Authoring Schedule" />
+  <TocEntry
+    Title="Item Authoring Schedule" />
+  <TocEntry
+    Title="QUESTION Options" />
+  <TocEntry
+    Title="Workflows for Questions" />
+  <TocEntry
+    Title="Comments for Questions" />
+  <TocEntry
+    Title="Question Custom Attribute Set on Discipline" />
+  <TocEntry
+    Title="Versioning for Questions" />
+  <TocEntry
+    Title="Question Name Field" />
+  <TocEntry
+    Title="Simple Question Edit form" />
+  <TocEntry
+    Title="Multiple-component Marking Scheme" />
+  <TocEntry
+    Title="Multiple Graded Responses" />
+  <TocEntry
+    Title="Embedded Interactions" />
+  <TocEntry
+    Title="Semi-automatic Marking" />
+  <TocEntry
+    Title="Advanced Question Filtering" />
+  <TocEntry
+    Title="Question Response Analysis" />
+  <TocEntry
+    Title="Prompt for Question" />
+  <TocEntry
+    Title="Identifier Auto Generation" />
+  <TocEntry
+    Title="TEST options" />
+  <TocEntry
+    Title="Workflows for Tests" />
+  <TocEntry
+    Title="Skins" />
+  <TocEntry
+    Title="Script version" />
+  <TocEntry
+    Title="Maximum answer size" />
+  <TocEntry
+    Title="Optional Questions" />
+  <TocEntry
+    Title="User Custom Attribute in player services" />
+  <TocEntry
+    Title="Custom Attributes in Player" />
+  <TocEntry
+    Title="Test Custom Attribute set on Discipline" />
+  <TocEntry
+    Title="Test Blueprint" />
+  <TocEntry
+    Title="Comments for Tests" />
+  <TocEntry
+    Title="Versioning for Tests" />
+  <TocEntry
+    Title="Advanced Test Filtering" />
+  <TocEntry
+    Title="Test Response Analysis" />
+  <TocEntry
+    Title="Hide warning when Tests are not in the Catalogue" />
+  <TocEntry
+    Title="Show available mark on each Question inside the Test" />
+  <TocEntry
+    Title="Auto save Interval" />
+  <TocEntry
+    Title="Enable Open Modules" />
+  <TocEntry
+    Title="TEST SECTION options" />
+  <TocEntry
+    Title="Multi-Section Tests and Surveys" />
+  <TocEntry
+    Title="Multiple Section checked by default" />
+  <TocEntry
+    Title="Test Section Banks" />
+  <TocEntry
+    Title="Workflows for Test Sections" />
+  <TocEntry
+    Title="Subsection Randomisation" />
+  <TocEntry
+    Title="Section Navigation Types" />
+  <TocEntry
+    Title="Cross Module Test Sections" />
+  <TocEntry
+    Title="Test Section Custom Attribute Set on Discipline" />
+  <TocEntry
+    Title="Comments for Test Section" />
+  <TocEntry
+    Title="Advanced Test Section Filtering" />
+  <TocEntry
+    Title="Available Question Types" />
+  <TocEntry
+    Title="Available Test Section Types" />
+  <TocEntry
+    Title="Document Flagging" />
+  <TocEntry
+    Title="Paper Based test Print Settings" />
+</CatapultToc>

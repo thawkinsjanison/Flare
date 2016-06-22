@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Manage Learning Assets.docx">
+  <TocEntry
+    Title="Manage Learning Assets – introduction"
+    Link="/Content/B_Manage Learning/Manage Learning Assets/Manage Learning Assets introduction.htm" />
+  <TocEntry
+    Title="Types of Learning Assets"
+    Link="/Content/B_Manage Learning/Manage Learning Assets/Types of Learning Assets.htm" />
+  <TocEntry
+    Title="Manage Learning Assets"
+    Link="/Content/B_Manage Learning/Manage Learning Assets/Manage Learning Assets.htm" />
+  <TocEntry
+    Title="Add Learning asset"
+    Link="/Content/B_Manage Learning/Manage Learning Assets/Add Learning asset.htm" />
+  <TocEntry
+    Title="Inspect Learning Assets"
+    Link="/Content/B_Manage Learning/Manage Learning Assets/Inspect Learning Assets.htm" />
+</CatapultToc>

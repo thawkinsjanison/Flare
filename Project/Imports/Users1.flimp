@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-03T12:50:37.5229219+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-03T12:51:40.7906845+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Manage people/Users.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Manage people/Users.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Users1/Users introduction.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Users introduction.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Manually adding a user.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Manually adding a user_1.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Manually adding a user.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/User profile picture.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/User profile picture_1.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/User profile picture_2.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/User profile picture.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Quick add user.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Quick add user_1.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Quick add user.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Import a user.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Import a user_1.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Import a user_2.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Import a user.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Search for users.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Search for users.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Archive a user.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Archive a user_1.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Archive a user_2.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Archive a user_3.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Archive a user.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Change user password.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Change user password_1.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Change user password.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Add user roles.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Add user roles_1.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Add user roles_2.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Add user roles_3.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Add user roles.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Inspect user.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Users1/Inspect user_1.png"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Users1/Inspect user.htm"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../TOCs/Users1.fltoc"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Users1.flmsp"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css.css"
+      TimeStamp="3/06/2015 12:51:36 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="No Spacing" />
+    <StyleName
+      Name="Normal (Web)" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>

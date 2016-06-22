@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-03T13:59:39.3383327+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-03T14:00:52.7910762+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Design/Templates.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Templates.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Templates Introduction.png"
+      TimeStamp="3/06/2015 2:00:19 PM" />
+    <Url
+      Source="../../Content/Templates1/Templates Introduction.htm"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Search for Templates.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Templates1/Search for Templates.htm"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Edit a Template.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Edit a Template_1.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Templates1/Edit a Template.htm"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Add Content Layout Template.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Add Content Layout Template_1.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Add Content Layout Template_2.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Add Content Layout Template_3.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Add Content Layout Template_4.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Add Content Layout Template_5.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Templates1/Add Content Layout Template.htm"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Program Template.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Program Template_1.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Program Template_2.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Program Template_3.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Program Template_4.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Program Template_5.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Program Template_6.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Templates1/Program Template.htm"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Export Content Templates.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Export Content Templates_1.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Templates1/Export Content Templates.htm"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Import Content Templates.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Templates1/Import Content Templates_1.png"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Templates1/Import Content Templates.htm"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../TOCs/Templates1.fltoc"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Templates1.flmsp"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css.css"
+      TimeStamp="3/06/2015 2:00:20 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

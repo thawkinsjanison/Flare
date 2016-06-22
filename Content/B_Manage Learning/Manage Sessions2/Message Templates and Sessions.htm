@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="6" MadCap:lastHeight="1399" MadCap:lastWidth="1143">
+    <head>
+        <link href="../../Resources/Stylesheets/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Message Templates and Sessions</h1>
+        <p>Message Templates are the templates for automatic email messages that are sent from the Janison CLS. They are customisable so that you can alter the words used, links and pieces of information included. These pieces of information are called tokens and are drawn from the CLS database, see <b>Settings</b> &gt; <b>Message Templates</b>.</p>
+        <p>The following Message Templates can be involved in Session management:</p>
+        <table style="mc-table-style: url('../../Resources/Stylesheets/PatternedRows.css');" class="TableStyle-PatternedRows" cellspacing="0">
+            <thead>
+                <tr class="TableStyle-PatternedRows-Head-Header1">
+                    <th class="TableStyle-PatternedRows-HeadE-Regular-Header1">
+                        <p>LearningEvent-AttendeeAdded</p>
+                    </th>
+                    <th class="TableStyle-PatternedRows-HeadD-Regular-Header1">
+                        <p>This message is sent to a User after s/he is successfully enrolled in a Session.</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>LearningEvent-InProgram-AttendeeAdded</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>This message is sent to a User after being successfully enrolled in a Session.</p>
+                        <p>Note that the Learning Event is in a Program.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>LearningEvent-AttendeeAdded-ManagerNofify</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>This message is sent to a User’s manager after User is successfully enrolled in a Session</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>LearningEvent-AttendeePendingApproval</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>This message is sent to Users who have requested approval into a Session. They are told that they will be notified once the request has been approved or rejected.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>LearningEvent-AttendeeRemoved</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>This message is sent to a User after s/he is removed from a Session.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>LearningEvent-AttendeeSessionCancelled</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>This message is sent to Users after being waitlisted for an event when the Session that the User enrolled in is cancelled. They are also told that they have been placed on the waiting list for other Sessions.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>LearningEvent-AttendeeWaitlisted</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>This message is sent to a User after being waitlisted for a Session.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>LearningEvent-AttendeeWaitlisted-ManagerNofify</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>This message is sent to a User’s manager after User is waitlisted for a Session.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>LearningEvent-AttendeeWithdrawn-ManagerNofify</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>This message is sent to a User’s manager after the User withdraws from a Session.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>LearningEvent-NewSessionForRegisteredUsers</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>This message is sent to all registered Users of current Learning Event. They are told that they have registered interest for this event and that a new Session is now available that might interest them.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>LearningEvent-NewSessionForWaitlistedUsers</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>This message is sent to all waitlisted Users of current learning event. They are told that a new Session is now available that might interest them</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td colspan="2" class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>These relate to updated Sessions:</p>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>LearningEvent-UpdateSessionForRegisteredUsers</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>This message is sent to registered Users when the Session details are changed. They are told that they have registered interest for this event and given the updated details of the Session.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-LightRows">
+                        <p>LearningEvent-UpdateSessionForWaitlistedUsers</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-LightRows">
+                        <p>This message is sent to waitlisted Users when the Session details are changed. They are told that they are currently waitlisted for this Learning Event or for one of its Sessions. They are given the updated Session details and asked whether they would like to remain on the waitlist.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-DarkerRows">
+                    <td class="TableStyle-PatternedRows-BodyE-Regular-DarkerRows">
+                        <p>LearningEvent-AttendeeSessionUpdate</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyD-Regular-DarkerRows">
+                        <p>This message is sent to a User who is attending when the session details are changed.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PatternedRows-Body-LightRows">
+                    <td class="TableStyle-PatternedRows-BodyB-Regular-LightRows">
+                        <p>LearningEvent-InProgram-AttendeeSessionUpdate</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td class="TableStyle-PatternedRows-BodyA-Regular-LightRows">
+                        <p>This message is sent to a User who is attending when the session details are changed. </p>
+                        <p>Note that the Learning Event is in a Program</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+    </body>
+</html>

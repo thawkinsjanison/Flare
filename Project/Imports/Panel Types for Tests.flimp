@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-02T13:30:03.4702985+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-02T13:31:26.5958035+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/Design/Panel Types for Tests.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Design/Panel Types for Tests.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Panel Types for Tests.png"
+      TimeStamp="2/06/2015 1:31:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Panel Types for Tests_1.png"
+      TimeStamp="2/06/2015 1:31:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panels in Learning Page.png"
+      TimeStamp="2/06/2015 1:31:22 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panels in Learning Page.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Micro Quiz.png"
+      TimeStamp="2/06/2015 1:31:22 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Micro Quiz.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Free Text.png"
+      TimeStamp="2/06/2015 1:31:22 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Free Text.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Quiz with.png"
+      TimeStamp="2/06/2015 1:31:22 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Quiz with.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Free Text_1.png"
+      TimeStamp="2/06/2015 1:31:22 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Free Text_1.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Free Text_2.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Free Text_2.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Model Answers.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Model Answers_1.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Model Answers.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Match drag.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Match drag_1.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Match drag.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Sortable Quiz.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Sortable Quiz_1.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Sortable Quiz.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Poll Quiz.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Poll Quiz_1.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Poll Quiz.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Panel Types for Tests/Test Panel type Survey Quiz.png"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Panel Types for Tests/Test Panel type Survey Quiz.htm"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../TOCs/Panel Types for Tests.fltoc"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Panel Types for Tests.flmsp"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css.css"
+      TimeStamp="2/06/2015 1:31:23 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

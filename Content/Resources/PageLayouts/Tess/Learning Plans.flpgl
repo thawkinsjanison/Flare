@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="A4" PageType="title" PaddingLeft="2.5cm" PaddingRight="2.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm" Orientation="portrait" BleedBottom="0.5in" BleedTop="0.5in" BleedRight="0.5in" BleedLeft="0.5in">
+        <Frame Flow="header" Anchors="" Right="0.40625in" Bottom="9.989583in" X="0in" Y="-1.878542cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="1.243542cm" VerticalAlign="bottom" TextAlign="left" BorderBottomStyle="solid" BorderBottomWidth="1px" BorderBottomColor="#000000" Width="15.00187cm">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="margin-right: 0px;margin-left: 0px;">Chapter&#160;<MadCap:variable xhtml:name="System.ChapterNumber" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="0in" Right="0.40625in" Bottom="0.01041667in" Width="15.00187cm" Height="24.71208cm" BackgroundImage="../../Images/title.tif" BackgroundRepeat="no-repeat">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="0.40625in" Bottom="-69px" X="0in" Y="25.32063cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.243542cm" VerticalAlign="middle" TextAlign="center" BorderTopStyle="solid" BorderTopWidth="1px" BorderTopColor="#000000" Width="15.00187cm">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: left;"><MadCap:variable xhtml:name="General.ProductName" /> -Continuing Professional Development <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="All" Width="800" Height="800" Padding="20px" PageSize="A4" PageType="normal" PaddingLeft="2.5cm" PaddingRight="2.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm" Orientation="portrait" BleedBottom="0.5in" BleedTop="0.5in" BleedRight="0.5in" BleedLeft="0.5in">
+        <Frame Flow="header" Anchors="" Right="-0.5in" Bottom="9.96875in" X="-0.2708333in" Y="-1.825625cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" Height="1.243542cm" BorderBottomStyle="none" BorderBottomWidth="1px" BorderBottomColor="#000000" TextAlign="center" VerticalAlign="bottom" Width="17.99167cm">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>Learning Plans</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.2708333in" Y="0in" Right="-0.5in" Bottom="0in" Width="17.99167cm" Height="24.73854cm">
+        </Frame>
+        <Frame Flow="footer" Anchors="" Right="1.104167in" Bottom="-69px" X="-0.2708333in" Y="25.32063cm" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="1.243542cm" VerticalAlign="middle" TextAlign="left" BorderTopStyle="none" BorderTopWidth="1px" BorderTopColor="#000000" Width="13.91708cm">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: left;">- <MadCap:variable xhtml:name="System.PageNumber" /> of <MadCap:variable xhtml:name="System.PageCount" /> - </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="500px" Y="933px" Width="150px" Height="71px" Flow="decoration0" Right="-44px" Bottom="-69px" BackgroundImage="../../Images/janisonlogo_print_smlv4.tif" BackgroundRepeat="stretch" />
+    </Page>
+</PageStyles>

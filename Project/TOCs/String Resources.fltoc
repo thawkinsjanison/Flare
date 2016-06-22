@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/D_Settings/String Resources/Introduction.htm" />
+  <TocEntry
+    Title="Inspect String Resources"
+    Link="/Content/D_Settings/String Resources/Inspect String Resources.htm" />
+  <TocEntry
+    Title="Edit String Resources"
+    Link="/Content/D_Settings/String Resources/Edit String Resources.htm" />
+  <TocEntry
+    Title="Inject a Custom Page into the My Learning Smart dashboard"
+    Link="/Content/D_Settings/String Resources/Inject a Custom Page into.htm" />
+  <TocEntry
+    Title="Customise links in the screen footer"
+    Link="/Content/D_Settings/String Resources/Customise links in the screen.htm" />
+  <TocEntry
+    Title="Hiding text"
+    Link="/Content/D_Settings/String Resources/Hiding text.htm" />
+</CatapultToc>

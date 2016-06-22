@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Assigning Learning - introduction"
+    Link="/Content/B_Manage Learning/Assign Learning/Assigning Learning introduction.htm" />
+  <TocEntry
+    Title="Assign Learning wizard"
+    Link="/Content/B_Manage Learning/Assign Learning/Assign Learning wizard.htm" />
+  <TocEntry
+    Title="Step 1  Content"
+    Link="/Content/B_Manage Learning/Assign Learning/Step 1 Content.htm" />
+  <TocEntry
+    Title="Step 2  Recipients"
+    Link="/Content/B_Manage Learning/Assign Learning/Step 2 Recipients.htm" />
+  <TocEntry
+    Title="Step 3  Delivery"
+    Link="/Content/B_Manage Learning/Assign Learning/Step 3 Delivery.htm" />
+  <TocEntry
+    Title="Step 4  Review"
+    Link="/Content/B_Manage Learning/Assign Learning/Step 4 Review.htm" />
+  <TocEntry
+    Title="Assign Learning – Catalogue Item"
+    Link="/Content/B_Manage Learning/Assign Learning/Assign Learning Catalogue.htm" />
+</CatapultToc>

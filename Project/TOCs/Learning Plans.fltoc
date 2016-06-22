@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Learning Plans.docx">
+  <TocEntry
+    Title="Learning Plans Introduction" />
+  <TocEntry
+    Title="Creating a learning plan" />
+  <TocEntry
+    Title="Completion Rules" />
+  <TocEntry
+    Title="Start / End Date rules" />
+  <TocEntry
+    Title="Plan entry tag types" />
+  <TocEntry
+    Title="External Learning" />
+  <TocEntry
+    Title="Setting up the catalogue item" />
+  <TocEntry
+    Title="Using a learning plan as a learner" />
+</CatapultToc>

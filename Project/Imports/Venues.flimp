@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-11-05T09:30:00.9787647+11:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-11-05T09:30:48.0939718+11:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/Venues.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Venues.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Venues/Venues Introduction.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Venues Introduction_1.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Venues Introduction_2.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Venues/Venues Introduction.htm"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Add a Venue.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Add a Venue_1.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Add a Venue_2.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Add a Venue_3.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Add a Venue_4.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Add a Venue_5.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Venues/Add a Venue.htm"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Inspect Venue details.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Venues/Inspect Venue details.htm"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Edit a Venue.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Edit a Venue_1.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Venues/Edit a Venue.htm"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Import Venues and Locations.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Import Venues and Locations_1.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Import Venues and Locations_2.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Venues/Import Venues and Locations_3.png"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Venues/Import Venues and Locations.htm"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../TOCs/Venues.fltoc"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="5/11/2015 9:30:38 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="b"
+      To="b.(MS Word Style)" />
+    <Map
+      From="em"
+      To="i.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="b" />
+    <StyleName
+      Name="em" />
+    <StyleName
+      Name="Heading 2 Char" />
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

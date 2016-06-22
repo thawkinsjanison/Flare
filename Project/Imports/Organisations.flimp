@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-21T17:41:32.0223443+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-21T17:42:38.9807893+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Organisations.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Organisations.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Organisations.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Organisations/Organisations.htm"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Methods of creating an organisation.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Methods of creating an organisation_1.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Methods of creating an organisation_2.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Methods of creating an organisation_3.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Organisations/Methods of creating an organisation.htm"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Search for organisation.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Organisations/Search for organisation.htm"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Inspect organisation.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Inspect organisation_1.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Inspect organisation_2.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Inspect organisation_3.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Inspect organisation_4.png"
+      TimeStamp="21/04/2015 5:42:29 PM" />
+    <Url
+      Source="../../Content/Organisations/Inspect organisation.htm"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Archive organisation.png"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Archive organisation_1.png"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Archive organisation_2.png"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Organisations/Archive organisation.htm"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Organisations/Archive via organisation list.png"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Organisations/Archive via organisation list.htm"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../TOCs/Organisations.fltoc"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Organisations.flmsp"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="21/04/2015 5:42:30 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="Normal (Web)" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Group types.docx">
+  <TocEntry
+    Title="Group types Introduction"
+    Link="/Content/A_Manage People/Group types/Group types Introduction.htm" />
+  <TocEntry
+    Title="Add group types"
+    Link="/Content/A_Manage People/Group types/Add group types.htm" />
+  <TocEntry
+    Title="Search for group types"
+    Link="/Content/A_Manage People/Group types/Search for group types.htm" />
+  <TocEntry
+    Title="Inspect group types"
+    Link="/Content/A_Manage People/Group types/Inspect group types.htm" />
+</CatapultToc>

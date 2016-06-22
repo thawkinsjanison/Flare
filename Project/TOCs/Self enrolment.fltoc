@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Self enrolment introduction"
+    Link="/Content/D_Settings/Self enrolment/Self enrolment introduction.htm" />
+  <TocEntry
+    Title="Setting up Self enrolments"
+    Link="/Content/D_Settings/Self enrolment/Types of Self Enrolments.htm" />
+  <TocEntry
+    Title="Options"
+    Link="/Content/D_Settings/Self enrolment/Options.htm" />
+  <TocEntry
+    Title="Setting enrolment options to appear at catalogue level" />
+  <TocEntry
+    Title="Catalogue Item Setup" />
+</CatapultToc>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-06-19T13:45:49.9772087+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-06-19T13:46:26.0036953+10:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/Styles and Images.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Styles and Images.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Style and Images Introduction.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Styles and Images/Style and Images Introduction.htm"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Images Logos.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Images Logos_1.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Images Logos_2.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Images Logos_3.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Styles and Images/Images Logos.htm"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Skin.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Skin_1.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Skin_2.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Skin_3.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Skin_4.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Skin_5.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Skin_6.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Styles and Images/Skin.htm"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Custom CSS.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Styles and Images/Custom CSS.htm"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Styles and Images/Advanced.png"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Styles and Images/Advanced.htm"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../TOCs/Styles and Images.fltoc"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Styles and Images.flmsp"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="19/06/2015 1:46:15 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

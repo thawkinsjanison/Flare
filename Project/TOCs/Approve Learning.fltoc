@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Approve Learning.docx">
+  <TocEntry
+    Title="Approve Learning - Introduction"
+    Link="/Content/B_Manage Learning/Approve Learning/Approve Learning Introduction.htm" />
+  <TocEntry
+    Title="Approve Learning Requests"
+    Link="/Content/B_Manage Learning/Approve Learning/Approve Learning Requests.htm" />
+</CatapultToc>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Users introduction"
+    Link="/Content/A_Manage People/Users1/Users introduction.htm" />
+  <TocEntry
+    Title="Manually adding a user"
+    Link="/Content/A_Manage People/Users1/Manually adding a user.htm" />
+  <TocEntry
+    Title="User profile picture"
+    Link="/Content/A_Manage People/Users1/User profile picture.htm" />
+  <TocEntry
+    Title="Quick add user"
+    Link="/Content/A_Manage People/Users1/Quick add user.htm" />
+  <TocEntry
+    Title="Import a user"
+    Link="/Content/A_Manage People/Users1/Import a user.htm" />
+  <TocEntry
+    Title="Search for users"
+    Link="/Content/A_Manage People/Users1/Search for users.htm" />
+  <TocEntry
+    Title="Archive a user"
+    Link="/Content/A_Manage People/Users1/Archive a user.htm" />
+  <TocEntry
+    Title="Change user password"
+    Link="/Content/A_Manage People/Users1/Change user password.htm" />
+  <TocEntry
+    Title="Add user roles"
+    Link="/Content/A_Manage People/Users1/Add user roles.htm" />
+  <TocEntry
+    Title="Inspect user"
+    Link="/Content/A_Manage People/Users1/Inspect user.htm" />
+</CatapultToc>

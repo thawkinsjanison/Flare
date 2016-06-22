@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Style and Images – Introduction"
+    Link="/Content/D_Settings/Styles and Images/Style and Images Introduction.htm" />
+  <TocEntry
+    Title="Images &amp; Logos"
+    Link="/Content/D_Settings/Styles and Images/Images Logos.htm" />
+  <TocEntry
+    Title="Skin"
+    Link="/Content/D_Settings/Styles and Images/Skin.htm" />
+  <TocEntry
+    Title="Custom CSS"
+    Link="/Content/D_Settings/Styles and Images/Custom CSS.htm" />
+  <TocEntry
+    Title="Advanced"
+    Link="/Content/D_Settings/Styles and Images/Advanced.htm" />
+</CatapultToc>

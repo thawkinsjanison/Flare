@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="My Learning Transcript"
+  Type="PDF"
+  Destinations=""
+  MasterToc="/Project/TOCs/My Learning Transcript.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/WordStyles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Tess/My Learning Transcript.flpgl"
+  Medium="print"
+  InjectEmptyPages="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    ImageCompression="Automatic"
+    PageMode="UseNone"
+    PageLayout="SinglePage" />
+  <DocumentProperties
+    Title="My Learning Transcript"
+    Subject="My Learning Transcript"
+    Keywords="My Learning Transcript" />
+  <Glossaries />
+</CatapultTarget>

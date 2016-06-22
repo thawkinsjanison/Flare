@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Tags – Introduction"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Tags Introduction.htm" />
+  <TocEntry
+    Title="Managing and Inspecting Tags"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Managing and Inspecting Tags.htm" />
+  <TocEntry
+    Title="Adding Tags"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Adding Tags.htm" />
+  <TocEntry
+    Title="Edit Tag"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Edit Tag.htm" />
+  <TocEntry
+    Title="Importing Tags"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Importing Tags.htm" />
+  <TocEntry
+    Title="Managing and Inspecting Tag Types"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Managing and Inspecting Tag.htm" />
+  <TocEntry
+    Title="Adding Tag Types"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Adding Tag Types.htm" />
+  <TocEntry
+    Title="Archive Tags"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Archive Tags.htm" />
+  <TocEntry
+    Title="Linking Tags to Catalogue Items"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Linking Tags to Catalogue.htm" />
+  <TocEntry
+    Title="Display Tags on Tiles in Browse Learning"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Display Tags on Tiles in Browse.htm" />
+  <TocEntry
+    Title="Linking Tags to a Course, Module, Question, Resource or Test"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/Linking Tags to a Course Module.htm" />
+  <TocEntry
+    Title="CPD Tags"
+    Link="/Content/B_Manage Learning/Tags and Tag Types/CPD Tags.htm" />
+</CatapultToc>

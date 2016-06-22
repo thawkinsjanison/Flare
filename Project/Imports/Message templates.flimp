@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-24T16:10:47.9658040+10:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-04-24T16:11:08.1519148+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/settings/Message templates.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Message templates.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Message templates/Message templates introduction.htm"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Using Message Templates.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Using Message Templates_1.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Using Message Templates_2.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Using Message Templates_3.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Using Message Templates_4.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Message templates/Using Message Templates.htm"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Tokens and how they work.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Tokens and how they work_1.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Message templates/Tokens and how they work.htm"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Inserting HTML Tokens into.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Message templates/Inserting HTML Tokens into.htm"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Message templates/Further Information and Notes.png"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Message templates/Further Information and Notes.htm"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../TOCs/Message templates.fltoc"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Message templates.flmsp"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="24/04/2015 4:11:06 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Bullet" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Hyperlink" />
+  </UsedCharacterStyles>
+</MsWordImport>

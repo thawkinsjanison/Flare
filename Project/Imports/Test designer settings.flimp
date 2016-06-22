@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-11-12T10:23:01.7426512+11:00"
+  ProjectName="April 13"
+  ProjectFolder="C:\April 13\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2015-11-12T10:24:05.9924359+11:00">
+  <Files>
+    <Url
+      Source="../../../Users/thawkins/Desktop/help site docs/settings/Test designer settings.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Test designer settings.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Designer Settings Introduction.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Designer Settings Introduction_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Test Designer Settings Introduction.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/General Assessment Options.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/General Assessment Options.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Use Add Learning Wizard.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Use Add Learning Wizard.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Question Banks.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Question Banks_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Question Banks.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Psychometric Dataset Management.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Psychometric Dataset Management.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Authoring Schedule.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Authoring Schedule_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Test Authoring Schedule.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Item Authoring Schedule.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Item Authoring Schedule_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Item Authoring Schedule.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/QUESTION Options.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/QUESTION Options.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Workflows for Questions.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Workflows for Questions.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Comments for Questions.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Comments for Questions.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Question Custom Attribute.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Question Custom Attribute_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Question Custom Attribute.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Versioning for Questions.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Versioning for Questions_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Versioning for Questions.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Question Name Field.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Question Name Field_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Question Name Field.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Simple Question Edit form.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Simple Question Edit form.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Multiple component Marking.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Multiple component Marking_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Multiple component Marking.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Multiple Graded Responses.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Multiple Graded Responses_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Multiple Graded Responses.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Embedded Interactions.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Embedded Interactions_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Embedded Interactions_2.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Embedded Interactions.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Semi automatic Marking.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Semi automatic Marking.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Advanced Question Filtering.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Advanced Question Filtering_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Advanced Question Filtering.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Question Response Analysis.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Question Response Analysis_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Question Response Analysis.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Prompt for Question.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Prompt for Question_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Prompt for Question.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Identifier Auto Generation.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Identifier Auto Generation_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Identifier Auto Generation_2.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Identifier Auto Generation.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/TEST options.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/TEST options.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Workflows for Tests.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Workflows for Tests_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Workflows for Tests.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Skins.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Skins_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Skins.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Script version.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Script version.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Maximum answer size.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Maximum answer size.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Optional Questions.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Optional Questions_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Optional Questions.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/User Custom Attribute in player.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/User Custom Attribute in player.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Custom Attributes in Player.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Custom Attributes in Player.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Custom Attribute set.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Test Custom Attribute set.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Blueprint.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Blueprint_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Test Blueprint.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Comments for Tests.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Comments for Tests_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Comments for Tests.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Versioning for Tests.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Versioning for Tests.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Advanced Test Filtering.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Advanced Test Filtering_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Advanced Test Filtering.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Response Analysis.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Response Analysis_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Test Response Analysis.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Hide warning when Tests are.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Hide warning when Tests are_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Hide warning when Tests are.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Show available mark on each.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Show available mark on each_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Show available mark on each.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Auto save Interval.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Auto save Interval.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Enable Open Modules.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Enable Open Modules.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/TEST SECTION options.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/TEST SECTION options.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Multi Section Tests and Surveys.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Multi Section Tests and Surveys_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Multi Section Tests and Surveys.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Multiple Section checked by.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Multiple Section checked by_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Multiple Section checked by.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Section Banks.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Test Section Banks.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Workflows for Test Sections.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Workflows for Test Sections_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Workflows for Test Sections.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Subsection Randomisation.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Subsection Randomisation_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Subsection Randomisation.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Section Navigation Types.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Section Navigation Types_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Section Navigation Types.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Cross Module Test Sections.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Cross Module Test Sections.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Test Section Custom Attribute.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Test Section Custom Attribute.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Comments for Test Section.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Comments for Test Section.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Advanced Test Section Filtering.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Advanced Test Section Filtering_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Advanced Test Section Filtering.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Available Question Types.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Available Question Types.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Available Test Section Types.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Available Test Section Types.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Document Flagging.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Document Flagging_1.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Document Flagging_2.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Document Flagging_3.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Document Flagging.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Test designer settings/Paper Based test Print Settings.png"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Test designer settings/Paper Based test Print Settings.htm"
+      TimeStamp="12/11/2015 10:23:35 AM" />
+    <Url
+      Source="../TOCs/Test designer settings.fltoc"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Test designer settings.flmsp"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="12/11/2015 10:23:34 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="b"
+      To="b.(MS Word Style)" />
+    <Map
+      From="em Char"
+      To="i.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="b" />
+    <StyleName
+      Name="em Char" />
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="mcbreadcrumbs" />
+    <StyleName
+      Name="mcbreadcrumbsdivider" />
+  </UsedCharacterStyles>
+</MsWordImport>

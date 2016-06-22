@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  sourceDocument="C:\Users\thawkins\Desktop\help site docs\Design\Assessment question types.docx">
+  <TocEntry
+    Title="Creating Questions"
+    Link="/Content/C_Design/Assessment question types/Creating Questions.htm" />
+  <TocEntry
+    Title="Associate Interaction"
+    Link="/Content/C_Design/Assessment question types/Associate Interaction.htm" />
+  <TocEntry
+    Title="Cloze"
+    Link="/Content/C_Design/Assessment question types/Cloze.htm" />
+  <TocEntry
+    Title="Comment"
+    Link="/Content/C_Design/Assessment question types/Comment.htm" />
+  <TocEntry
+    Title="File Upload"
+    Link="/Content/C_Design/Assessment question types/File Upload.htm" />
+  <TocEntry
+    Title="Gap Match Interaction"
+    Link="/Content/C_Design/Assessment question types/Gap Match Interaction.htm" />
+  <TocEntry
+    Title="Graphic Associate Interaction"
+    Link="/Content/C_Design/Assessment question types/Graphic Associate Interaction.htm" />
+  <TocEntry
+    Title="Graphic Gap Match Interaction"
+    Link="/Content/C_Design/Assessment question types/Graphic Gap Match Interaction.htm" />
+  <TocEntry
+    Title="Graphic order interaction"
+    Link="/Content/C_Design/Assessment question types/Graphic order interaction.htm" />
+  <TocEntry
+    Title="Hotspot interaction"
+    Link="/Content/C_Design/Assessment question types/Hotspot interaction.htm" />
+  <TocEntry
+    Title="Keyword"
+    Link="/Content/C_Design/Assessment question types/Keyword.htm" />
+  <TocEntry
+    Title="Match interaction"
+    Link="/Content/C_Design/Assessment question types/Match interaction.htm" />
+  <TocEntry
+    Title="Multiple Short Answers"
+    Link="/Content/C_Design/Assessment question types/Multiple Short Answers.htm" />
+  <TocEntry
+    Title="Order Interaction"
+    Link="/Content/C_Design/Assessment question types/Order Interaction.htm" />
+  <TocEntry
+    Title="Position Object Interaction"
+    Link="/Content/C_Design/Assessment question types/Position Object Interaction.htm" />
+  <TocEntry
+    Title="Select Point Interaction"
+    Link="/Content/C_Design/Assessment question types/Select Point Interaction.htm" />
+  <TocEntry
+    Title="Short Answer"
+    Link="/Content/C_Design/Assessment question types/Short Answer.htm" />
+  <TocEntry
+    Title="Slider Interaction"
+    Link="/Content/C_Design/Assessment question types/Slider Interaction.htm" />
+  <TocEntry
+    Title="Text Spot"
+    Link="/Content/C_Design/Assessment question types/Text Spot.htm" />
+  <TocEntry
+    Title="Text Spot Interaction"
+    Link="/Content/C_Design/Assessment question types/Text Spot Interaction.htm" />
+  <TocEntry
+    Title="True/False"
+    Link="/Content/C_Design/Assessment question types/True False.htm" />
+  <TocEntry
+    Title="Yes/No"
+    Link="/Content/C_Design/Assessment question types/Yes No.htm" />
+</CatapultToc>

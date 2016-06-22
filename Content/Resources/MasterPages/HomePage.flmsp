@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="223" MadCap:lastWidth="1152">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="contentBody" class="off-canvas-main">
+            <MadCap:bodyProxy />
+            <div class="footer center">
+                <div class="row outer-row">
+                    <div class="small-12 medium-3 columns"><a href="http://www.janison.com.au/" target="_blank"><img src="../Images/CompanyLogo.png" alttext="" class="Hyperlinked footer-logo" /></a>
+                    </div>
+                    <div class="small-12 medium-6 columns">
+                        <div class="footer-links"><a href="https://helpdesk.janison.com" target="_blank">Support</a><a href="../../E_Footer Topics/Release notes.htm">Release notes</a><a href="http://www.janison.com.au" target="_blank">Company</a>
+                        </div>
+                        <p class="Copyright">Copyright © 2016 <MadCap:variable name="General.CompanyName" /></p>
+                    </div>
+                    <div class="small-12 medium-3 footer-icons columns"><a href="http://www.linkedin.com/company/janison" target="_blank"><img src="../Images/linkedinIcon.png" alttext="Linkedin" class="Hyperlinked" /></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
