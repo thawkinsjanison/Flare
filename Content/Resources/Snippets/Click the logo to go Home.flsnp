@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="119" MadCap:lastWidth="1058">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="146" MadCap:lastWidth="1068">
     <head>
         <link href="../Stylesheets/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
         <link href="../Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" />
@@ -10,7 +10,7 @@
             <col class="TableStyle-PatternedRows-Column-Regular" />
             <tbody>
                 <tr class="TableStyle-PatternedRows-Body-LightRows">
-                    <td class="TableStyle-PatternedRows-BodyB-Regular-LightRows">Note: To return to the home page of the help site click the logo at the top left of the page.</td>
+                    <td class="TableStyle-PatternedRows-BodyB-Regular-LightRows">Note: To return to the home page of the help site select the logo at the top left of the page.</td>
                     <td class="TableStyle-PatternedRows-BodyA-Regular-LightRows">
                         <img src="../Images/click_logo_home.png" alt="Click the logo to navigate Home" />
                     </td>

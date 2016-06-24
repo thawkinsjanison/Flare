@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-06-24T15:49:42.8981129+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\thawkins\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-06-24T15:55:38.3581497+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/settings/Languagesv1.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/Languagesv1.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Languagesv1/Languages Introduction.png"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Languagesv1/Languages Introduction_1.png"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Languagesv1/Languages Introduction_2.png"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Languagesv1/Languages Introduction_3.png"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Languagesv1/Languages Introduction_4.png"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Languagesv1/Languages Introduction.htm"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Languagesv1/Multilingual Support.png"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Languagesv1/Multilingual Support_1.png"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Languagesv1/Multilingual Support_2.png"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Languagesv1/Multilingual Support.htm"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../TOCs/Languagesv1.fltoc"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Languagesv1.flmsp"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_2.css"
+      TimeStamp="24/06/2016 3:55:07 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="Strong"
+      To="strong.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>

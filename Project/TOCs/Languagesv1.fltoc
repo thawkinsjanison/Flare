@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Languages – Introduction"
+    Link="/Content/D_Settings/Languagesv1/Languages Introduction.htm" />
+  <TocEntry
+    Title="Multilingual Support"
+    Link="/Content/D_Settings/Languagesv1/Multilingual Support.htm" />
+</CatapultToc>

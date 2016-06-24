@@ -1487,6 +1487,16 @@
         Link="/Content/D_Settings/Email Settings/Reminder Notifications.htm" />
     </TocEntry>
     <TocEntry
+      Title="Languages"
+      Link="/Content/D_Settings/Languagesv1/Languages Introduction.htm">
+      <TocEntry
+        Title="Languages"
+        Link="/Content/D_Settings/Languagesv1/Languages Introduction.htm" />
+      <TocEntry
+        Title="Multilingual Support"
+        Link="/Content/D_Settings/Languagesv1/Multilingual Support.htm" />
+    </TocEntry>
+    <TocEntry
       Title="Locations"
       Link="/Content/D_Settings/Locations/Locations Introduction.htm">
       <TocEntry
