@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="45" MadCap:lastWidth="1252">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="64" MadCap:lastWidth="1166">
     <head>
         <link href="../Stylesheets/PatternedRows.css" rel="stylesheet" MadCap:stylesheetType="table" />
         <link href="../Stylesheets/MainStyles.css" rel="stylesheet" type="text/css" />
@@ -9,7 +9,7 @@
             <col class="TableStyle-PatternedRows-Column-Regular" />
             <tbody>
                 <tr class="TableStyle-PatternedRows-Body-LightRows">
-                    <td class="TableStyle-PatternedRows-BodyA-Regular-LightRows">If the items described in this document are missing from your site, the plugin may not be active. Please contact <a href="http://help.janison.com.au/Content/E_Footer Topics/Support.htm" target="_blank">support service</a>s for assistance.</td>
+                    <td class="TableStyle-PatternedRows-BodyA-Regular-LightRows">If the items described in this document are missing from your site, the plugin may not be active. Please contact <a href="http://help.janison.com.au/Content/E_Footer Topics/Support.htm" target="_blank">support services</a> for assistance.</td>
                 </tr>
             </tbody>
         </table>
