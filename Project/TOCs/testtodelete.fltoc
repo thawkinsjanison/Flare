@@ -2,17 +2,13 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Bulk Action"
-    Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm"></TocEntry>
+    Title="Bulk Action"></TocEntry>
   <TocEntry
-    Title="Regenerate Passwords"
-    Link="/Content/A_Manage People/Bulk Action/Regenerate Passwords.htm" />
+    Title="Regenerate Passwords" />
   <TocEntry
-    Title="Bulk Action plugin"
-    Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm" />
+    Title="Bulk Action plugin" />
   <TocEntry
-    Title="Send Welcome Email"
-    Link="/Content/A_Manage People/Bulk Action/Send Welcome Email.htm" />
+    Title="Send Welcome Email" />
   <TocEntry
     Title="Account Activation / Deactivation" />
 </CatapultToc>

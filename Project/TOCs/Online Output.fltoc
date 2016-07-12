@@ -5,14 +5,11 @@
     Title="People"
     Link="/Content/A_Manage People/Manage People Overview/Manage People.htm">
     <TocEntry
-      Title="Introduction"
-      Link="/Content/A_Manage People/Manage People Overview/Manage People.htm" />
-    <TocEntry
       Title="Bulk Action"
-      Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm">
+      Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin Introduction.htm">
       <TocEntry
-        Title="Bulk Action Plugin"
-        Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm" />
+        Title="Bulk Action plugin Introduction"
+        Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin Introduction.htm" />
       <TocEntry
         Title="Regenerate Passwords"
         Link="/Content/A_Manage People/Bulk Action/Regenerate Passwords.htm" />
@@ -22,7 +19,13 @@
       <TocEntry
         Title="Send Welcome Email"
         Link="/Content/A_Manage People/Bulk Action/Send Welcome Email.htm" />
+      <TocEntry
+        Title="Clear Notification History"
+        Link="/Content/A_Manage People/Bulk Action/Clear Notification History.htm" />
     </TocEntry>
+    <TocEntry
+      Title="Introduction"
+      Link="/Content/A_Manage People/Manage People Overview/Manage People.htm" />
     <TocEntry
       Title="Groups"
       Link="/Content/A_Manage People/Groups/Groups Introduction.htm">

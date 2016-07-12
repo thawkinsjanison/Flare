@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-07-12T12:24:20.2651550+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\thawkins\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-07-12T12:26:54.7518284+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/help site docs/Manage people/Bulk Action.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/Manage people/Bulk Action.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Bulk Action plugin Introduction.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Bulk Action plugin Introduction_1.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Bulk Action plugin Introduction_2.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Bulk Action1/Bulk Action plugin Introduction.htm"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Regenerate Passwords.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Regenerate Passwords_1.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Regenerate Passwords_2.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Bulk Action1/Regenerate Passwords.htm"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Account Activation Deactivation.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Account Activation Deactivation_1.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Account Activation Deactivation_2.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Bulk Action1/Account Activation Deactivation.htm"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Send Welcome Email.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Send Welcome Email_1.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Send Welcome Email_2.png"
+      TimeStamp="12/07/2016 12:26:03 PM" />
+    <Url
+      Source="../../Content/Bulk Action1/Send Welcome Email.htm"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Clear Notification History.png"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Clear Notification History_1.png"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bulk Action1/Clear Notification History_2.png"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Bulk Action1/Clear Notification History.htm"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../TOCs/Bulk Action1.fltoc"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Bulk Action1.flmsp"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="12/07/2016 12:26:04 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="Strong"
+      To="strong.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>
