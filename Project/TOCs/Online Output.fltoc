@@ -6,10 +6,10 @@
     Link="/Content/A_Manage People/Manage People Overview/Manage People.htm">
     <TocEntry
       Title="Bulk Action"
-      Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin Introduction.htm">
+      Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm">
       <TocEntry
         Title="Bulk Action plugin Introduction"
-        Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin Introduction.htm" />
+        Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm" />
       <TocEntry
         Title="Regenerate Passwords"
         Link="/Content/A_Manage People/Bulk Action/Regenerate Passwords.htm" />
