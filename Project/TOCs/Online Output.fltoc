@@ -5,6 +5,9 @@
     Title="People"
     Link="/Content/A_Manage People/Manage People Overview/Manage People.htm">
     <TocEntry
+      Title="Introduction"
+      Link="/Content/A_Manage People/Manage People Overview/Manage People.htm" />
+    <TocEntry
       Title="Bulk Action"
       Link="/Content/A_Manage People/Bulk Action/Bulk Action plugin.htm">
       <TocEntry
@@ -23,9 +26,6 @@
         Title="Clear Notification History"
         Link="/Content/A_Manage People/Bulk Action/Clear Notification History.htm" />
     </TocEntry>
-    <TocEntry
-      Title="Introduction"
-      Link="/Content/A_Manage People/Manage People Overview/Manage People.htm" />
     <TocEntry
       Title="Groups"
       Link="/Content/A_Manage People/Groups/Groups Introduction.htm">
