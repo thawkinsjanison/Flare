@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Token Based Payments – Introduction"
+    Link="/Content/D_Settings/Token Order Payments/Token Based Payments Introduction.htm" />
+  <TocEntry
+    Title="Token Based Payments – Creating Token Orders"
+    Link="/Content/D_Settings/Token Order Payments/Token Based Payments Creating.htm" />
+  <TocEntry
+    Title="Token Based Payments – Processing Orders"
+    Link="/Content/D_Settings/Token Order Payments/Token Based Payments Processing.htm" />
+  <TocEntry
+    Title="Token Order Payments – Managing Tokens"
+    Link="/Content/D_Settings/Token Order Payments/Token Order Payments Managing.htm" />
+  <TocEntry
+    Title="Token Order Payments – Redeeming Tokens"
+    Link="/Content/D_Settings/Token Order Payments/Token Order Payments Redeeming.htm" />
+</CatapultToc>

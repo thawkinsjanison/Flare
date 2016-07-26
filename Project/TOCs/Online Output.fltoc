@@ -1701,22 +1701,6 @@
         Link="/Content/D_Settings/Self enrolment/Types of Self Enrolments.htm" />
     </TocEntry>
     <TocEntry
-      Title="Terms of Use"
-      Link="/Content/D_Settings/Terms of use/Terms of Use introduction.htm">
-      <TocEntry
-        Title="Terms of Use Introduction"
-        Link="/Content/D_Settings/Terms of use/Terms of Use introduction.htm" />
-      <TocEntry
-        Title="Enabling Self-Registration"
-        Link="/Content/D_Settings/Terms of use/Enabling self registration.htm" />
-      <TocEntry
-        Title="Setup Terms of Use"
-        Link="/Content/D_Settings/Terms of use/Setup Terms of Use.htm" />
-      <TocEntry
-        Title="End User Experience"
-        Link="/Content/D_Settings/Terms of use/End user experience.htm" />
-    </TocEntry>
-    <TocEntry
       Title="String Resources"
       Link="/Content/D_Settings/String Resources/Introduction.htm">
       <TocEntry
@@ -1792,6 +1776,22 @@
         Link="/Content/D_Settings/Tenant Settings/Tenant Settings Miscellaneous.htm" />
     </TocEntry>
     <TocEntry
+      Title="Terms of Use"
+      Link="/Content/D_Settings/Terms of use/Terms of Use introduction.htm">
+      <TocEntry
+        Title="Terms of Use Introduction"
+        Link="/Content/D_Settings/Terms of use/Terms of Use introduction.htm" />
+      <TocEntry
+        Title="Enabling Self-Registration"
+        Link="/Content/D_Settings/Terms of use/Enabling self registration.htm" />
+      <TocEntry
+        Title="Setup Terms of Use"
+        Link="/Content/D_Settings/Terms of use/Setup Terms of Use.htm" />
+      <TocEntry
+        Title="End User Experience"
+        Link="/Content/D_Settings/Terms of use/End user experience.htm" />
+    </TocEntry>
+    <TocEntry
       Title="Test Designer"
       Link="/Content/D_Settings/Test designer settings1/Test Designer Settings Introduction.htm">
       <TocEntry
@@ -1824,6 +1824,25 @@
       <TocEntry
         Title="Paper Based test Print Settings"
         Link="/Content/D_Settings/Test designer settings1/Paper Based test Print Settings.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Token Order Payments"
+      Link="/Content/D_Settings/Token Order Payments/Token Based Payments Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/D_Settings/Token Order Payments/Token Based Payments Introduction.htm" />
+      <TocEntry
+        Title="Creating Token Orders"
+        Link="/Content/D_Settings/Token Order Payments/Token Based Payments Creating.htm" />
+      <TocEntry
+        Title="Processing Orders"
+        Link="/Content/D_Settings/Token Order Payments/Token Based Payments Processing.htm" />
+      <TocEntry
+        Title="Managing Tokens"
+        Link="/Content/D_Settings/Token Order Payments/Token Order Payments Managing.htm" />
+      <TocEntry
+        Title="Redeeming Tokens"
+        Link="/Content/D_Settings/Token Order Payments/Token Order Payments Redeeming.htm" />
     </TocEntry>
     <TocEntry
       Title="User Enrolment Rules"

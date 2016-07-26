@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-07-26T10:48:58.0452241+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\thawkins\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-07-26T10:51:19.1546137+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/flare import/Token Order Payments.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/flare import/Token Order Payments.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Introduction.png"
+      TimeStamp="26/07/2016 10:50:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Introduction_1.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Introduction_2.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Token Order Payments/Token Based Payments Introduction.htm"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Creating.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Creating_1.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Creating_2.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Creating_3.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Token Order Payments/Token Based Payments Creating.htm"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Processing.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Processing_1.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Processing_2.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Processing_3.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Based Payments Processing_4.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Token Order Payments/Token Based Payments Processing.htm"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Managing.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Managing_1.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Managing_2.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Managing_3.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Managing_4.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Managing_5.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Token Order Payments/Token Order Payments Managing.htm"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Redeeming.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Redeeming_1.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Token Order Payments/Token Order Payments Redeeming_2.png"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Token Order Payments/Token Order Payments Redeeming.htm"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../TOCs/Token Order Payments.fltoc"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Token Order Payments.flmsp"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_4.css"
+      TimeStamp="26/07/2016 10:50:58 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="Strong"
+      To="b.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="SomethingOdd" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>
