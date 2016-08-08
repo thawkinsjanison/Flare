@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-07-26T14:36:46.1894750+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\ghaslam\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-07-26T14:47:15.1942368+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Subscriptions.docx"
+      AbsoluteSource="file:///C:/Users/ghaslam/Desktop/Subscriptions.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Introduction.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Subscriptions/Subscriptions Introduction.htm"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Initial settings.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Initial settings_1.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Initial settings_2.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Initial settings_3.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Subscriptions/Subscriptions Initial settings.htm"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Create tags for subscriptions.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Create tags for subscriptions_1.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Subscriptions/Create tags for subscriptions.htm"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions_1.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions_2.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions_3.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions_4.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions_5.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions_6.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions_7.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Create subscriptions_8.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Subscriptions/Subscriptions Create subscriptions.htm"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Add Subscription.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Add Subscription_1.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Add Subscription_2.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Add Subscription_3.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Add Subscription_4.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Add Subscription_5.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Subscriptions/Subscriptions Add Subscription.htm"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions User experience.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions User experience_1.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions User experience_2.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions User experience_3.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions User experience_4.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions User experience_5.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions User experience_6.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions User experience_7.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Subscriptions/Subscriptions User experience.htm"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Alternate configuration.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Alternate configuration_1.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Subscriptions/Subscriptions Alternate configuration_2.png"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Subscriptions/Subscriptions Alternate configuration.htm"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../TOCs/Subscriptions.fltoc"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Subscriptions.flmsp"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_3.css"
+      TimeStamp="26/07/2016 2:45:56 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="Strong"
+      To="b" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Heading 1 Char" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>
