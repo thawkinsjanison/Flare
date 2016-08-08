@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Financial Delegations – Introduction"
+    Link="/Content/B_Manage Learning/Financial Delegations/Financial Delegations Introduction.htm" />
+  <TocEntry
+    Title="Initial settings"
+    Link="/Content/B_Manage Learning/Financial Delegations/Initial settings.htm" />
+  <TocEntry
+    Title="Managing approvals"
+    Link="/Content/B_Manage Learning/Financial Delegations/Managing approvals.htm" />
+  <TocEntry
+    Title="End user experience"
+    Link="/Content/B_Manage Learning/Financial Delegations/End user experience.htm" />
+  <TocEntry
+    Title="Further managing enrolments"
+    Link="/Content/B_Manage Learning/Financial Delegations/Further managing enrolments.htm" />
+</CatapultToc>

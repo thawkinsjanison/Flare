@@ -572,6 +572,25 @@
         Link="/Content/B_Manage Learning/Enrolments1/Import Learning History.htm" />
     </TocEntry>
     <TocEntry
+      Title="Financial Delegations"
+      Link="/Content/B_Manage Learning/Financial Delegations/Financial Delegations Introduction.htm">
+      <TocEntry
+        Title="Financial Delegations – Introduction"
+        Link="/Content/B_Manage Learning/Financial Delegations/Financial Delegations Introduction.htm" />
+      <TocEntry
+        Title="Initial settings"
+        Link="/Content/B_Manage Learning/Financial Delegations/Initial settings.htm" />
+      <TocEntry
+        Title="Managing approvals"
+        Link="/Content/B_Manage Learning/Financial Delegations/Managing approvals.htm" />
+      <TocEntry
+        Title="Further managing approvals"
+        Link="/Content/B_Manage Learning/Financial Delegations/Further managing enrolments.htm" />
+      <TocEntry
+        Title="End user experience"
+        Link="/Content/B_Manage Learning/Financial Delegations/End user experience.htm" />
+    </TocEntry>
+    <TocEntry
       Title="Learning Plans"
       Link="/Content/B_Manage Learning/Learning Plans1/Learning Plan Introduction.htm">
       <TocEntry
