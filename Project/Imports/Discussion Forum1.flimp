@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-08-10T09:17:59.6537861+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\thawkins\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-08-10T09:19:38.4465818+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/flare import/Discussion Forum.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/flare import/Discussion Forum.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Forum Introduction.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Discussion Forum Introduction.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Settings.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Settings_1.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Settings_2.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Settings_3.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Settings_4.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Settings_5.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Settings_6.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Settings_7.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Discussion Settings.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Add a Discussion Forum.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Add a Discussion Forum_1.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Add a Discussion Forum_2.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Add a Discussion Forum_3.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Add a Discussion Forum_4.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Add a Discussion Forum.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/LinkedDocuments.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/LinkedDocuments_1.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/LinkedDocuments_2.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/LinkedDocuments_3.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/LinkedDocuments_4.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/LinkedDocuments_5.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/LinkedDocuments.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Settings.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Settings.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Notifications.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Notifications_1.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Notifications_2.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Notifications_3.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Notifications.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Completion settings.png"
+      TimeStamp="10/08/2016 9:18:34 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Completion settings_1.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Completion settings_2.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Completion settings.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Forum facilitator.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Forum facilitator_1.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Forum facilitator_2.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Discussion Forum facilitator_3.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Discussion Forum facilitator.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Accessing the Discussion Forum.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Accessing the Discussion Forum_1.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Accessing the Discussion Forum.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Setting favourite people and.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Setting favourite people and_1.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Setting favourite people and_2.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Setting favourite people and_3.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Setting favourite people and.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Announcements.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Announcements_1.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Announcements_2.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Announcements_3.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Announcements_4.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Discussion Forum1/Announcements_5.png"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Discussion Forum1/Announcements.htm"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../TOCs/Discussion Forum1.fltoc"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Discussion Forum1.flmsp"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_6.css"
+      TimeStamp="10/08/2016 9:18:35 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="Strong"
+      To="b.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>
