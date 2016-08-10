@@ -827,26 +827,26 @@
       Title="Subscriptions"
       Link="/Content/B_Manage Learning/Subscriptions/Add Subscription.htm">
       <TocEntry
-        Title="Add Subscription to catalogue"
-        Link="/Content/B_Manage Learning/Subscriptions/Add Subscription.htm" />
+        Title="Introduction"
+        Link="/Content/B_Manage Learning/Subscriptions/Subscriptions Introduction.htm" />
       <TocEntry
-        Title="Subscriptions – Alternate configuration"
-        Link="/Content/B_Manage Learning/Subscriptions/Alternate configuration.htm" />
-      <TocEntry
-        Title="Subscriptions – Create subscriptions"
-        Link="/Content/B_Manage Learning/Subscriptions/Create subscriptions.htm" />
+        Title="Initial settings"
+        Link="/Content/B_Manage Learning/Subscriptions/Initial settings.htm" />
       <TocEntry
         Title="Create tags for subscriptions"
         Link="/Content/B_Manage Learning/Subscriptions/Create tags for subscriptions.htm" />
       <TocEntry
-        Title="Subscriptions - Initial settings"
-        Link="/Content/B_Manage Learning/Subscriptions/Initial settings.htm" />
+        Title="Create subscriptions"
+        Link="/Content/B_Manage Learning/Subscriptions/Create subscriptions.htm" />
       <TocEntry
-        Title="Subscriptions – Introduction"
-        Link="/Content/B_Manage Learning/Subscriptions/Subscriptions Introduction.htm" />
+        Title="Add Subscription to catalogue"
+        Link="/Content/B_Manage Learning/Subscriptions/Add Subscription.htm" />
       <TocEntry
-        Title="Subscriptions – User experience"
+        Title="User experience"
         Link="/Content/B_Manage Learning/Subscriptions/User experience.htm" />
+      <TocEntry
+        Title="Alternate configuration"
+        Link="/Content/B_Manage Learning/Subscriptions/Alternate configuration.htm" />
     </TocEntry>
     <TocEntry
       Title="Tags and Tag Types"
