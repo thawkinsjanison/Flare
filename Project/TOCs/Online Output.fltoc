@@ -528,23 +528,35 @@
         Title="Introduction"
         Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Introduction.htm" />
       <TocEntry
+        Title="Discussion Settings"
+        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Settings.htm" />
+      <TocEntry
         Title="Add a Discussion Forum"
         Link="/Content/B_Manage Learning/Discussion Forum/Add a Discussion Forum.htm" />
       <TocEntry
         Title="Linked Documents"
-        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Linked Documents.htm" />
+        Link="/Content/B_Manage Learning/Discussion Forum/LinkedDocuments.htm" />
+      <TocEntry
+        Title="Settings"
+        Link="/Content/B_Manage Learning/Discussion Forum/Settings.htm" />
       <TocEntry
         Title="Notifications"
-        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Notifications.htm" />
+        Link="/Content/B_Manage Learning/Discussion Forum/Notifications.htm" />
       <TocEntry
-        Title="Completion Settings"
-        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Completion.htm" />
+        Title="Completion settings"
+        Link="/Content/B_Manage Learning/Discussion Forum/Completion settings.htm" />
       <TocEntry
-        Title="Administrators"
-        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum Administrators.htm" />
+        Title="Discussion Forum facilitator"
+        Link="/Content/B_Manage Learning/Discussion Forum/Discussion Forum facilitator.htm" />
       <TocEntry
-        Title="Setting Favourites and Following Posts"
-        Link="/Content/B_Manage Learning/Discussion Forum/Setting Favourites and Following.htm" />
+        Title="Accessing the Discussion Forum as a user"
+        Link="/Content/B_Manage Learning/Discussion Forum/Accessing the Discussion Forum.htm" />
+      <TocEntry
+        Title="Setting favourite people and following posts"
+        Link="/Content/B_Manage Learning/Discussion Forum/Setting favourite people and.htm" />
+      <TocEntry
+        Title="Announcements"
+        Link="/Content/B_Manage Learning/Discussion Forum/Announcements.htm" />
     </TocEntry>
     <TocEntry
       Title="Enrolments"
