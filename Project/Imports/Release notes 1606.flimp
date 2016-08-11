@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-08-11T11:01:13.5343895+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\thawkins\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="true"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-08-11T11:02:23.5449862+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/flare import/Release notes 1606.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/flare import/Release notes 1606.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_1.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_2.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_3.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_4.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_5.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_6.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_7.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_8.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_9.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_10.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_11.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_12.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_13.png"
+      TimeStamp="11/08/2016 11:01:59 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_14.png"
+      TimeStamp="11/08/2016 11:02:00 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_15.png"
+      TimeStamp="11/08/2016 11:02:00 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_16.png"
+      TimeStamp="11/08/2016 11:02:00 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Release notes 1606/New Features_17.png"
+      TimeStamp="11/08/2016 11:02:00 AM" />
+    <Url
+      Source="../../Content/Release notes 1606/New Features.htm"
+      TimeStamp="11/08/2016 11:02:00 AM" />
+    <Url
+      Source="../TOCs/Release notes 1606.fltoc"
+      TimeStamp="11/08/2016 11:02:00 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_7.css"
+      TimeStamp="11/08/2016 11:02:00 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="Small Link" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>
