@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Email Settings Introduction"
+    Link="/Content/D_Settings/Email Settings/Email Settings Introduction.htm" />
+  <TocEntry
+    Title="Categories of notifications"
+    Link="/Content/D_Settings/Email Settings/Categories of notifications.htm" />
+  <TocEntry
+    Title="Modify message templates"
+    Link="/Content/D_Settings/Email Settings/Modify message templates.htm" />
+  <TocEntry
+    Title="Manager notifications"
+    Link="/Content/D_Settings/Email Settings/Manager notifications.htm" />
+  <TocEntry
+    Title="Marking notifications"
+    Link="/Content/D_Settings/Email Settings/Marking notifications.htm" />
+  <TocEntry
+    Title="Purchase notifications"
+    Link="/Content/D_Settings/Email Settings/Purchase notifications.htm" />
+  <TocEntry
+    Title="Reminder notifications"
+    Link="/Content/D_Settings/Email Settings/Reminder notifications.htm" />
+</CatapultToc>

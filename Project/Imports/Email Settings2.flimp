@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="false"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-08-12T12:29:35.7191021+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\okiss\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-08-12T12:35:33.2308119+10:00">
+  <Files>
+    <Url
+      Source="file://diggers/CS Documentation/Source docs/Settings/Email Settings/Email Settings.docx"
+      AbsoluteSource="file://diggers/CS Documentation/Source docs/Settings/Email Settings/Email Settings.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Email Settings Introduction.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Email Settings Introduction_1.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Email Settings Introduction_2.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Email Settings2/Email Settings Introduction.htm"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Categories of notifications.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Email Settings2/Categories of notifications.htm"
+      TimeStamp="12/08/2016 12:33:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Modify message templates.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Modify message templates_1.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Modify message templates_2.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Email Settings2/Modify message templates.htm"
+      TimeStamp="12/08/2016 12:33:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Manager notifications.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Email Settings2/Manager notifications.htm"
+      TimeStamp="12/08/2016 12:33:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Marking notifications.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Email Settings2/Marking notifications.htm"
+      TimeStamp="12/08/2016 12:33:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Purchase notifications.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Purchase notifications_1.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Email Settings2/Purchase notifications.htm"
+      TimeStamp="12/08/2016 12:33:54 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Reminder notifications.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Email Settings2/Reminder notifications_1.png"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Email Settings2/Reminder notifications.htm"
+      TimeStamp="12/08/2016 12:33:54 PM" />
+    <Url
+      Source="../TOCs/Email Settings2.fltoc"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_9.css"
+      TimeStamp="12/08/2016 12:33:53 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1" />
+    <Map
+      From="Heading 2"
+      To="h2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="Strong"
+      To="b" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="apple-converted-space" />
+    <StyleName
+      Name="Hyperlink" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>
