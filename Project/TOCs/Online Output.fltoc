@@ -1521,31 +1521,6 @@
         Link="/Content/D_Settings/Custom Attributes/Custom Attributes and Self.htm" />
     </TocEntry>
     <TocEntry
-      Title="Email Settings"
-      Link="/Content/D_Settings/Email Settings/Email Settings Introduction.htm">
-      <TocEntry
-        Title="Email Settings Introduction"
-        Link="/Content/D_Settings/Email Settings/Email Settings Introduction.htm" />
-      <TocEntry
-        Title="Categories of Notifications."
-        Link="/Content/D_Settings/Email Settings/Categories of Notifications.htm" />
-      <TocEntry
-        Title="Booking Notifications"
-        Link="/Content/D_Settings/Email Settings/Booking Notifications.htm" />
-      <TocEntry
-        Title="Manager Notifications"
-        Link="/Content/D_Settings/Email Settings/Manager Notifications.htm" />
-      <TocEntry
-        Title="Marking Notifications"
-        Link="/Content/D_Settings/Email Settings/Marking Notifications.htm" />
-      <TocEntry
-        Title="Purchase Notifications"
-        Link="/Content/D_Settings/Email Settings/Purchase Notifications.htm" />
-      <TocEntry
-        Title="Reminder Notifications"
-        Link="/Content/D_Settings/Email Settings/Reminder Notifications.htm" />
-    </TocEntry>
-    <TocEntry
       Title="Languages"
       Link="/Content/D_Settings/Languages/Languages Introduction.htm">
       <TocEntry

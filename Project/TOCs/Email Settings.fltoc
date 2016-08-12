@@ -2,24 +2,17 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Email Settings Introduction"
-    Link="/Content/D_Settings/Email Settings/Email Settings Introduction.htm" />
+    Title="Email Settings Introduction" />
   <TocEntry
-    Title="Categories of Notifications."
-    Link="/Content/D_Settings/Email Settings/Categories of Notifications.htm" />
+    Title="Categories of Notifications." />
   <TocEntry
-    Title="Booking Notifications"
-    Link="/Content/D_Settings/Email Settings/Booking Notifications.htm" />
+    Title="Booking Notifications" />
   <TocEntry
-    Title="Manager Notifications"
-    Link="/Content/D_Settings/Email Settings/Manager Notifications.htm" />
+    Title="Manager Notifications" />
   <TocEntry
-    Title="Marking Notifications"
-    Link="/Content/D_Settings/Email Settings/Marking Notifications.htm" />
+    Title="Marking Notifications" />
   <TocEntry
-    Title="Purchase Notifications"
-    Link="/Content/D_Settings/Email Settings/Purchase Notifications.htm" />
+    Title="Purchase Notifications" />
   <TocEntry
-    Title="Reminder Notifications"
-    Link="/Content/D_Settings/Email Settings/Reminder Notifications.htm" />
+    Title="Reminder Notifications" />
 </CatapultToc>
