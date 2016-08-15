@@ -1,10 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="251" MadCap:lastWidth="964">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="251" MadCap:lastWidth="1162">
     <head>
         <meta charset="utf-8" />
         <meta name="description" content="" />
         <meta name="author" content="" /><title></title>
         <link href="../Stylesheets/StylesForHomePage.css" rel="stylesheet" type="text/css" />
+		<script src="https://use.fontawesome.com/719f493426.js">
+		</script>
     </head>
     <body>
         <div id="contentBody" class="off-canvas-main">
@@ -14,7 +16,7 @@
                     <div class="small-12 medium-3 columns"><a href="http://www.janison.com.au/" target="_blank"><img src="../Images/CompanyLogo.png" alttext="" class="Hyperlinked footer-logo" /></a>
                     </div>
                     <div class="small-12 medium-6 columns">
-                        <div class="footer-links"><a href="https://helpdesk.janison.com" target="_blank">Support</a><a href="../../E_Footer Topics/Release notes.htm">Release notes</a><a href="http://www.janison.com.au" target="_blank">Company</a>
+                        <div class="footer-links"><a href="https://helpdesk.janison.com" target="_blank">Support</a><a class="RNnotification" href="../../E_Footer Topics/Release notes.htm">Release notes</a><a href="http://www.janison.com.au" target="_blank">Company</a>
                         </div>
                         <p class="Copyright">Copyright © 2016 <MadCap:variable name="General.CompanyName" /></p>
                     </div>
