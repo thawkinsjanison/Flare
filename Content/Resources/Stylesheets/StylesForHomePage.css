@@ -324,18 +324,6 @@ div.slidingshow
 	text-align: right;
 }
 
-a.RNnotification:unvisited:after {
-	font-family: FontAwesome;
-	content: "\f0a2";
-	display: inline-block;
-	padding-right: 3px;
-	vertical-align: top;
-}
-				
-a.RNnotification:visited:after {
-	content: " ";
-}
-
 ul.menu._Skins_SideMenu ul > li > a:hover
 {
 	background-color: #efefef;
