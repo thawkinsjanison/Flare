@@ -1521,6 +1521,31 @@
         Link="/Content/D_Settings/Custom Attributes/Custom Attributes and Self.htm" />
     </TocEntry>
     <TocEntry
+      Title="Email Settings"
+      Link="/Content/D_Settings/Email Settings/Email Settings Introduction.htm">
+      <TocEntry
+        Title="Email Settings Introduction"
+        Link="/Content/D_Settings/Email Settings/Email Settings Introduction.htm" />
+      <TocEntry
+        Title="Categories of notifications"
+        Link="/Content/D_Settings/Email Settings/Categories of notifications.htm" />
+      <TocEntry
+        Title="Modify message templates"
+        Link="/Content/D_Settings/Email Settings/Modify message templates.htm" />
+      <TocEntry
+        Title="Manager notifications"
+        Link="/Content/D_Settings/Email Settings/Manager notifications.htm" />
+      <TocEntry
+        Title="Marking notifications"
+        Link="/Content/D_Settings/Email Settings/Marking notifications.htm" />
+      <TocEntry
+        Title="Purchase notifications"
+        Link="/Content/D_Settings/Email Settings/Purchase notifications.htm" />
+      <TocEntry
+        Title="Reminder notifications"
+        Link="/Content/D_Settings/Email Settings/Reminder notifications.htm" />
+    </TocEntry>
+    <TocEntry
       Title="Languages"
       Link="/Content/D_Settings/Languages/Languages Introduction.htm">
       <TocEntry
@@ -1896,6 +1921,9 @@
       <TocEntry
         Title="Testing a User Enrolment Rule"
         Link="/Content/D_Settings/User Enrolment Rules/Testing a User Enrolment Rule.htm" />
+      <TocEntry
+        Title="Recent Activities"
+        Link="/Content/D_Settings/User Enrolment Rules/Recent Activities.htm" />
     </TocEntry>
     <TocEntry
       Title="User Settings"

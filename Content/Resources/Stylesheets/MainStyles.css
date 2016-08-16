@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 /*inserted to resolve bug in Chrome 47.0.2526.73 m where hovering over text caused it to be highlighted*/
 
@@ -10,7 +10,7 @@ body
 	font-family: Arial;
 	font-size: 1em;
 	line-height: 1.7em;
-} 
+}
 
 a
 {
@@ -229,21 +229,26 @@ img
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
 	border-bottom-color: #a9a9a9;
-/* inserted by sally ----------------------*/
-	max-width:100%;
+	/* inserted by sally ----------------------*/
+	max-width: 100%;
 	height: auto;
 }
-.shareWithMenu
- /* to shrink it down when sharing with RHS menu */
+
+.shareWithMenu	/* to shrink it down when sharing with RHS menu */
 {
-    max-width: 63%;
+	max-width: 63%;
 }
-@media only screen and (max-width: 767px) {
-    /* no RHS menu at this screen size */
- .shareWithMenu {
-     max-width: 100%;
-    }
+
+@media only screen and (max-width: 767px)
+{
+	/* no RHS menu at this screen size */
+
+	.shareWithMenu
+	{
+		max-width: 100%;
+	}
 }
+
 /* end inserted by sally ------------------*/
 
 .FiftyPercentMaxWidth
@@ -1381,3 +1386,4 @@ ul.menu._Skins_SideMenu
 {
 	color: #c6130c;
 }
+

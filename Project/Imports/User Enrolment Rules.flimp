@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MsWordImport
   PreserveSourceStyles="false"
   KeepSourceLinks="false"
@@ -14,107 +14,116 @@
   FilenameLength="24"
   GeneratePageLayouts="false"
   UseFirstHeadingAsTopicTitle="true"
-  LastCollectTime="2015-09-01T08:57:32.2632784+10:00"
+  LastCollectTime="2016-08-16T10:06:07.8209032+10:00"
   ProjectName="April 13"
   ProjectFolder="C:\April 13\"
   AutoSync="false"
   AutoFitTables="false"
   UseHeaderRows="false"
   Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
-  LastImport="2015-09-01T08:58:47.1716812+10:00">
+  LastImport="2016-08-16T10:08:14.6924054+10:00">
   <Files>
     <Url
-      Source="../../../Users/thawkins/Desktop/help site docs/settings/User Enrolment Rules.docx"
-      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/settings/User Enrolment Rules.docx" />
+      Source="file://diggers/CS Documentation/Source docs/Settings/User Enrolment Rules/User Enrolment Rules_imp.docx"
+      AbsoluteSource="file://diggers/CS Documentation/Source docs/Settings/User Enrolment Rules/User Enrolment Rules_imp.docx" />
   </Files>
   <ExcludedFiles />
   <CollectedSourceFiles />
   <SkippedSourceFiles />
   <GeneratedFiles>
     <Url
-      Source="../../Content/Resources/Images/User Enrolment Rules/User Enrolment Rules Introduction.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      Source="../../Content/Resources/Images/User Enrolment Rules/Introduction.png"
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
-      Source="../../Content/User Enrolment Rules/User Enrolment Rules Introduction.htm"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      Source="../../Content/User Enrolment Rules/Introduction.htm"
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/Add User Enrolment Rule.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/User Enrolment Rules/Add User Enrolment Rule.htm"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_1.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_2.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_3.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_4.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_5.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_6.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_7.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_8.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_9.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/What does this Rule enrol_10.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/User Enrolment Rules/What does this Rule enrol.htm"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/Which users does this rule.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/User Enrolment Rules/Which users does this rule.htm"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/When should the rule apply.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
-    <Url
-      Source="../../Content/Resources/Images/User Enrolment Rules/When should the rule apply_1.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
-    <Url
-      Source="../../Content/Resources/Images/User Enrolment Rules/When should the rule apply_2.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/User Enrolment Rules/When should the rule apply.htm"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_1.png"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_2.png"
+      TimeStamp="16/08/2016 10:06:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_3.png"
+      TimeStamp="16/08/2016 10:06:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_4.png"
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/User Enrolment Rules/Testing a User Enrolment Rule.htm"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
+    <Url
+      Source="../../Content/Resources/Images/User Enrolment Rules/Recent Activities.png"
+      TimeStamp="16/08/2016 10:06:08 AM" />
+    <Url
+      Source="../../Content/User Enrolment Rules/Recent Activities.htm"
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../TOCs/User Enrolment Rules.fltoc"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/MasterPages/User Enrolment Rules.flmsp"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
     <Url
       Source="../../Content/Resources/Stylesheets/MainStyles.css"
-      TimeStamp="1/09/2015 8:58:00 AM" />
+      TimeStamp="16/08/2016 10:06:08 AM" />
   </GeneratedFiles>
   <ParagraphStyles>
     <Map
@@ -149,9 +158,16 @@
     <StyleName
       Name="Heading 1" />
     <StyleName
-      Name="Heading 2" />
+      Name="Comment Text" />
     <StyleName
       Name="List Paragraph" />
+    <StyleName
+      Name="Heading 2" />
   </UsedParagraphStyles>
-  <UsedCharacterStyles />
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Comment Reference" />
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
 </MsWordImport>

@@ -1,31 +1,87 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="1035" MadCap:lastWidth="1169">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="1797" MadCap:lastWidth="1149">
     <head><title></title>
         <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+        <script src="https://use.fontawesome.com/719f493426.js">
+        </script>
+        <style>
+		span.hver {
+			display: block;
+			background: #fff url("../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_4.png") no-repeat;
+			width: 518px;
+			height: 202px
+			overflow: hidden;
+			border: solid 1px black;
+			}
+		span.hver img {
+			visibility: hidden;
+		span.hver:hover {
+			background: 0;
+			}
+		span.hver:hover img {
+			visibility: visible;
+			border: none;
+			}
+		.tooltip {
+			position: relative;
+			display: inline-block;
+			color: grey;
+			-webkit-transition: color 1s;
+			transition: color 1s;
+			}
+		.tooltip:hover {
+			color:black;
+			}	
+		.tooltip .tooltiptext {
+			visibility: hidden;
+			width: 200px;
+			background-color: black;
+			color: #fff;
+			text-align: center;
+			padding: 5px 0;
+			border-radius: 6px;
+			position: absolute;
+			z-index: 1;
+			}
+		.tooltip:hover .tooltiptext {
+			visibility: visible;
+			}
+		
+		</style>
     </head>
     <body>
-        <h1 class="Heading1">Testing a User Enrolment Rule</h1>
+        <h1>Testing a User Enrolment Rule</h1>
         <p>To ensure that you have the rule set up correctly and also to check who will be affected by the rule or to run the rule, a <b>Test</b> feature is available. </p>
         <p>To test an enrolment rule:</p>
-        <ul style="list-style-type: disc;">
-            <li style="list-style-type: disc;">Navigate to <b>Settings</b> &gt; <b>User Enrolment Rules</b>.</li>
-            <li style="list-style-type: disc;">Select the required enrolment rule.</li>
-            <li style="list-style-type: disc;">Click <b>Test Action Rule</b>.</li>
-        </ul>
-        <p>
-            <img src="../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule.png" style="visibility: visible;mso-wrap-style: square;" />
-        </p>
+        <p>Browse to <b>Settings</b> &gt; <b>User Enrolment Rules</b>.</p>
+        <img src="../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule.png" />
+        <p>1.	Find and Select an Enrolment Rule.</p>
+        <img src="../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_1.png" />
+        <ol start="2">
+            <li>Select<b>Test Action Rule</b>.</li>
+        </ol>
+        <img src="../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_2.png" />
         <p>A page will open with 3 tabs:</p>
-        <p><b>To Be Enrolled</b> – This will list the Users who will be enrolled when the rule is run.</p>
-        <p><b>Already Enrolled</b> – This will list the Users who have already been enrolled when the rule was previously run.</p>
-        <p><b>All</b> – Includes all Users.</p>
-        <p>When you click <b>Run Now</b>, All Users listed under <b>To Be Enrolled</b> tab will be enrolled. If you do not click <b>Run Now</b>, the rule will enrol the Users when the system runs the Daily Check or when the User Registers, depending on what is set in <b>When should the rule apply</b>?</p>
-        <p>
-            <img src="../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_1.png" style="visibility: visible;mso-wrap-style: square;" />
+        <ol style="list-style-type: lower-alpha;">
+            <li>
+                <p>The <b>To Be Enrolled</b> tab shows the users who will be enrolled when the rule is run.</p>
+            </li>
+            <li>
+                <p>The <b>Already Enrolled</b> tab shows the users who have already been enrolled by this rule.</p>
+            </li>
+            <li>
+                <p>The <b>All</b> tab show both the users to be enrolled and those users already enrolled.</p>
+            </li>
+        </ol>
+        <p>If the list of users in the <b>To Be Enrolled</b> tab do not match the users you would like to, it is a good idea to return to the User Enrolment Rule and adjust the filter options before continuing.</p>
+        <img src="../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_3.png" />
+        <ol start="3">
+            <li>Select Run Now.</li>
+        </ol>
+        <p><span class="hver"><img src="../../Resources/Images/User Enrolment Rules/runnowrules.gif" /></span>
+            <div class="tooltip"><i class="fa fa-eye" aria-hidden="true"></i><span class="tooltiptext">Hover over this image for a demonstration</span>
+            </div>
         </p>
-        <p>
-            <br />
-        </p>
-        <p>&#160;</p>
+        <p>After selecting <b>Run Now</b>, the users in the <b>To Be Enrolled</b> tab will be enrolled into the courses and moved to the <b>Already Enrolled</b> tab.</p>
     </body>
 </html>
