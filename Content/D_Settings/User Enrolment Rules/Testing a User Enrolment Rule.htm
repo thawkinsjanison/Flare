@@ -8,13 +8,15 @@
 		span.hver {
 			display: block;
 			background: #fff url("../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_4.png") no-repeat;
-			width: 518px;
-			height: 202px
+			max-width: 518px;
+			max-height: 202px;
 			overflow: hidden;
-			border: solid 1px black;
+			border: solid 1px #a9a9a9;
+			border-radius: 2px 2px 2px 2px;
 			}
 		span.hver img {
 			visibility: hidden;
+			}
 		span.hver:hover {
 			background: 0;
 			}
@@ -26,27 +28,49 @@
 			position: relative;
 			display: inline-block;
 			color: grey;
+			padding-bottom: 0.6em;
 			-webkit-transition: color 1s;
-			transition: color 1s;
+			transition: color 1s;			
 			}
 		.tooltip:hover {
 			color:black;
 			}	
 		.tooltip .tooltiptext {
 			visibility: hidden;
-			width: 200px;
-			background-color: black;
+			width: 350px;
+			background-color: #fff;
 			color: #fff;
 			text-align: center;
 			padding: 5px 0;
 			border-radius: 6px;
 			position: absolute;
 			z-index: 1;
+			-webkit-transition: visibility 1s, color 1s, background-color 1s;
+			transition: visibility 1s, color 1s, background-color 1s;
 			}
 		.tooltip:hover .tooltiptext {
 			visibility: visible;
+			background-color: black;
 			}
-		
+		.tooltip .tooltiptextmob	{
+			visibility: hidden;
+			}
+		@media screen and (max-width: 600px) {
+			.tooltip .tooltiptextmob {
+				visibility: visible;
+				color: grey;
+				padding-left: 0.3em;
+				width: 350px;
+				border: none;
+				z-index: 0;
+			}
+			.tooltip:hover .tooltiptext {
+			visibility: hidden;
+			}
+			span.hver {
+				background-size: contain;
+			}
+		}
 		</style>
     </head>
     <body>
@@ -78,10 +102,10 @@
         <ol start="3">
             <li>Select Run Now.</li>
         </ol>
-        <p><span class="hver"><img src="../../Resources/Images/User Enrolment Rules/runnowrules.gif" /></span>
-            <div class="tooltip"><i class="fa fa-eye" aria-hidden="true"></i><span class="tooltiptext">Hover over this image for a demonstration</span>
-            </div>
+        <p>
+            <div class="tooltip"><i class="fa fa-eye fa-2x" aria-hidden="true"></i><span class="tooltiptext">Hover over this image for a demonstration</span><span class="tooltiptextmob">Select this image for a demonstration</span>
+            </div><span class="hver"><img src="../../Resources/Images/User Enrolment Rules/runnowrules.gif" /></span>
         </p>
-        <p>After selecting <b>Run Now</b>, the users in the <b>To Be Enrolled</b> tab will be enrolled into the courses and moved to the <b>Already Enrolled</b> tab.</p>
+        <p><b>Note</b>: After selecting <b>Run Now</b>, the users in the <b>To Be Enrolled</b> tab will be enrolled into the courses and moved to the <b>Already Enrolled</b> tab.</p>
     </body>
 </html>
