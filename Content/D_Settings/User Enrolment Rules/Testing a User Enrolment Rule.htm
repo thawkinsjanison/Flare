@@ -2,76 +2,7 @@
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="4" MadCap:lastHeight="1797" MadCap:lastWidth="1149">
     <head><title></title>
         <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
-        <script src="https://use.fontawesome.com/719f493426.js">
-        </script>
-        <style>
-		span.hver {
-			display: block;
-			background: #fff url("../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_4.png") no-repeat;
-			max-width: 518px;
-			max-height: 202px;
-			overflow: hidden;
-			border: solid 1px #a9a9a9;
-			border-radius: 2px 2px 2px 2px;
-			}
-		span.hver img {
-			visibility: hidden;
-			}
-		span.hver:hover {
-			background: 0;
-			}
-		span.hver:hover img {
-			visibility: visible;
-			border: none;
-			}
-		.tooltip {
-			position: relative;
-			display: inline-block;
-			color: grey;
-			padding-bottom: 0.6em;
-			-webkit-transition: color 1s;
-			transition: color 1s;			
-			}
-		.tooltip:hover {
-			color:black;
-			}	
-		.tooltip .tooltiptext {
-			visibility: hidden;
-			width: 350px;
-			background-color: #fff;
-			color: #fff;
-			text-align: center;
-			padding: 5px 0;
-			border-radius: 6px;
-			position: absolute;
-			z-index: 1;
-			-webkit-transition: visibility 1s, color 1s, background-color 1s;
-			transition: visibility 1s, color 1s, background-color 1s;
-			}
-		.tooltip:hover .tooltiptext {
-			visibility: visible;
-			background-color: black;
-			}
-		.tooltip .tooltiptextmob	{
-			visibility: hidden;
-			}
-		@media screen and (max-width: 600px) {
-			.tooltip .tooltiptextmob {
-				visibility: visible;
-				color: grey;
-				padding-left: 0.3em;
-				width: 350px;
-				border: none;
-				z-index: 0;
-			}
-			.tooltip:hover .tooltiptext {
-			visibility: hidden;
-			}
-			span.hver {
-				background-size: contain;
-			}
-		}
-		</style>
+        <script src="https://use.fontawesome.com/719f493426.js"></script>
     </head>
     <body>
         <h1>Testing a User Enrolment Rule</h1>
@@ -102,10 +33,11 @@
         <ol start="3">
             <li>Select Run Now.</li>
         </ol>
-        <p>
-            <div class="tooltip"><i class="fa fa-eye fa-2x" aria-hidden="true"></i><span class="tooltiptext">Hover over this image for a demonstration</span><span class="tooltiptextmob">Select this image for a demonstration</span>
-            </div><span class="hver"><img src="../../Resources/Images/User Enrolment Rules/runnowrules.gif" /></span>
-        </p>
-        <p><b>Note</b>: After selecting <b>Run Now</b>, the users in the <b>To Be Enrolled</b> tab will be enrolled into the courses and moved to the <b>Already Enrolled</b> tab.</p>
+		<div class="beholder">
+			<div class="static fa" style="background-image: url('../../Resources/Images/User Enrolment Rules/Testing a User Enrolment Rule_4.png');">
+				<img class="animate" src="../../Resources/Images/User Enrolment Rules/runnowrules.gif" />
+			</div>
+		</div>
+        <p class="spnote">After selecting <b>Run Now</b>, the users in the <b>To Be Enrolled</b> tab will be enrolled into the courses and moved to the <b>Already Enrolled</b> tab.</p>
     </body>
 </html>

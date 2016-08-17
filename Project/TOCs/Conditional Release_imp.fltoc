@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Conditional Release"
+    Link="/Content/B_Manage Learning/Conditional Release/Conditional Release.htm" />
+  <TocEntry
+    Title="Configure Conditional Release"
+    Link="/Content/B_Manage Learning/Conditional Release/Configure Conditional Release.htm" />
+  <TocEntry
+    Title="Manage a User’s Conditional Release"
+    Link="/Content/B_Manage Learning/Conditional Release/Manage a User s Conditional.htm" />
+  <TocEntry
+    Title="Learner Experience"
+    Link="/Content/B_Manage Learning/Conditional Release/Learner Experience.htm" />
+</CatapultToc>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au" MadCap:lastBlockDepth="5" MadCap:lastHeight="3040" MadCap:lastWidth="1136">
+    <head><title></title>
+        <link href="../../Resources/Stylesheets/MainStyles.css" rel="stylesheet" />
+        <script src="https://use.fontawesome.com/719f493426.js"></script>
+    </head>
+    <body>
+        <h1>Configure Conditional Release</h1>
+        <p>Conditional Release is applied within a program and directly to the components which they effect. Before you set up Conditional Release of program components, remember:</p>
+        <ul>
+            <li>Conditional Release cannot be applied to the following learning assets.</li>
+            <ul>
+                <li>Assessment Events</li>
+                <li>Booked Assessment Events</li>
+                <li>Learning Events</li>
+                <li>Plans</li>
+                <li>Subscriptions</li>
+            </ul>
+            <li>Setting up Conditional Release on a program which already has active enrolments will not affect those enrolments.</li>
+            <li>Conditional Release cannot be set on components with Share Progress selected.</li>
+        </ul>
+        <h2>Setup</h2>
+        <p>Browse to Manage Learning &gt; Manage Catalogue.</p>
+        <p>
+            <img src="../../Resources/Images/Conditional Release_imp/Configure Conditional Release.png" />
+        </p>
+        <p>From here, you can either choose to configure Conditional Release on an existing Catalogue Item by editing it or on a new Catalogue Item. For this tutorial, we will be creating a new Catalogue Item.</p>
+        <ol start="1">
+            <li>Select Add Catalogue Item.</li>
+        </ol>
+        <p> <img src="../../Resources/Images/Conditional Release_imp/Configure Conditional Release_1.png" /></p>
+        <ol start="2">
+            <li>Enter a Name and Identifier.</li>
+        </ol>
+        <p> <img src="../../Resources/Images/Conditional Release_imp/Configure Conditional Release_2.png" /></p>
+        <ol start="3">
+            <li>In the Components section, Select Learning Asset and Add Component.</li>
+        </ol>
+        <p> <img src="../../Resources/Images/Conditional Release_imp/Configure Conditional Release_3.png" /></p>
+        <p>Make sure to add at least two component to enable Conditional Release.</p>
+        <div class="spnote">
+            <ul>
+                <li style="list-style-image: url('../../Resources/Images/Conditional Release_imp/condred.png');">Indicates that Conditional Release is not available on this component. Selecting the icon will provide details as to why.</li>
+                <li style="list-style-image: url('../../Resources/Images/Conditional Release_imp/condyel.png');">Indicates that Conditional Release is available for this component but has not been set.</li>
+                <li style="list-style-image: url('../../Resources/Images/Conditional Release_imp/condgre.png');">Indicates that Conditional Release has been set for this component.</li>
+            </ul>
+        </div>
+        <ol start="4">
+            <li>Select <img src="../../Resources/Images/Conditional Release_imp/Configure Conditional Release_4.png" style="border: none" /> to set the Conditional Release on this component.</li>
+        </ol>
+        <p> <img src="../../Resources/Images/Conditional Release_imp/Configure Conditional Release_5.png" /></p>
+        <p>A dialogue box will appear with several options which allow you to set the Conditional Release of a Component.</p>
+        <ol start="1">
+            <li>Release Date options allow you to set the time on which the component becomes available for use.</li>
+            <ol start="1">
+                <li>This option does not set a Conditional Release rule. The component will be available on enrolment.</li>
+                <li>This option releases the component on the specified number of days, weeks or months after the enrolment is received.</li>
+                <li>This option releases the component on the specified day of the year after the enrolment is received. </li>
+            </ol>
+            <li>Lock Date options allow you to set the time on which the component becomes locked from use.</li>
+            <ol start="1">
+                <li>This option does not set a Conditional Lock rule. The component will always be available after release.</li>
+                <li>This option locks the component on the specified number of days, weeks or months after the enrolment is received.</li>
+                <li>This option locks the component on the specified day of the year after the enrolment is received.</li>
+            </ol>
+            <li value="5">Select Save to complete the action.</li>
+        </ol>
+        <div class="beholder">
+            <div class="static fa" style="background-image: url('../../Resources/Images/Conditional Release_imp/Configure Conditional Release_6.png');">
+                <img class="animate" src="../../Resources/Images/Conditional Release_imp/cond release extra.gif" />
+            </div>
+        </div>
+        <p class="spnote">The Lock Date settings react to the Release Date settings. If a Release date is set the Lock Date rules change from ‘after enrolment’ to ‘after release’.</p>
+        <ol start="6">
+            <li>Select Save Catalogue Item.</li>
+        </ol>
+        <p> <img src="../../Resources/Images/Conditional Release_imp/Configure Conditional Release_7.png" /></p>
+        <p class="spnote">You can edit Conditional Release on components by selecting <img src="../../Resources/Images/Conditional Release_imp/Configure Conditional Release_8.png" style="border: none;" /> while editing the catalogue item.</p>
+    </body>
+</html>
