@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="false"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-08-18T15:48:58.1998681+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\okiss\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="file://diggers/CS Documentation/Templates/Practice helpsite/Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-08-18T15:52:45.3860942+10:00">
+  <Files>
+    <Url
+      Source="file://diggers/CS Documentation/Source docs/Manage Learning/Challenges/upload/Challenges.docx"
+      AbsoluteSource="file://diggers/CS Documentation/Source docs/Manage Learning/Challenges/upload/Challenges.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_1.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_2.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_3.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_4.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_5.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_6.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_7.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_8.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_9.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_10.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_11.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_12.png"
+      TimeStamp="18/08/2016 3:50:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_13.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_14.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_15.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_16.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Introduction_17.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Challenges/Introduction.htm"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/Administering a challenge.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Challenges/Administering a challenge.htm"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/User experience.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/User experience_1.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/User experience_2.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/User experience_3.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/User experience_4.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/User experience_5.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Challenges/User experience_6.png"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Challenges/User experience.htm"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../TOCs/Challenges.fltoc"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Challenges.flmsp"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_1.css"
+      TimeStamp="18/08/2016 3:50:49 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1" />
+    <Map
+      From="Heading 2"
+      To="h2" />
+    <Map
+      From="Heading 3"
+      To="h3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.Heading 5" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+    <Map
+      From="Strong"
+      To="b" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 1" />
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="List Paragraph" />
+    <StyleName
+      Name="SomethingOdd" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Strong" />
+  </UsedCharacterStyles>
+</MsWordImport>

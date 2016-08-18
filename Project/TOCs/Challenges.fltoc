@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/B_Manage Learning/Challenges/Introduction.htm" />
+  <TocEntry
+    Title="Administering a challenge"
+    Link="/Content/B_Manage Learning/Challenges/Administering a challenge.htm" />
+  <TocEntry
+    Title="User experience"
+    Link="/Content/B_Manage Learning/Challenges/User experience.htm" />
+</CatapultToc>
