@@ -471,16 +471,16 @@
       Link="/Content/B_Manage Learning/Conditional Release/Conditional Release.htm">
       <TocEntry
         Title="Conditional Release"
-        Link="/Content/B_Manage Learning/Conditional Release/Conditional Release.htm"></TocEntry>
+        Link="/Content/B_Manage Learning/Conditional Release/Conditional Release.htm" />
       <TocEntry
         Title="Configure Conditional Release"
-        Link="/Content/B_Manage Learning/Conditional Release/Configure Conditional Release.htm"></TocEntry>
-      <TocEntry
-        Title="Manage a User’s Conditional Release"
-        Link="/Content/B_Manage Learning/Conditional Release/Manage a User s Conditional.htm" />
+        Link="/Content/B_Manage Learning/Conditional Release/Configure Conditional Release.htm" />
       <TocEntry
         Title="Learner Experience"
         Link="/Content/B_Manage Learning/Conditional Release/Learner Experience.htm" />
+      <TocEntry
+        Title="Manage a User’s Conditional Release"
+        Link="/Content/B_Manage Learning/Conditional Release/Manage a User s Conditional.htm" />
     </TocEntry>
     <TocEntry
       Title="Continuing Professional Development"

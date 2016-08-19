@@ -1387,19 +1387,22 @@ ul.menu._Skins_SideMenu
 	color: #c6130c;
 }
 
-.spnote {
+.spnote
+{
 	padding: 0.4em;
 	border: solid 1px #9d9d9d;
 	display: inline-block;
 }
 
-.spnote:before {
+.spnote:before
+{
 	content: "Note: ";
 	font-weight: bold;
 	font-family: Droid Sans, sans-serif;
 }
 
-div.beholder {
+div.beholder
+{
 	padding: 0.5em;
 	padding-top: 2em;
 	background-color: #CFCFCF;
@@ -1407,7 +1410,8 @@ div.beholder {
 	position: relative;
 }
 
-div.static {
+div.static
+{
 	background-color: #D1D1D1;
 	background: no-repeat;
 	background-size: contain;
@@ -1416,7 +1420,8 @@ div.static {
 	display: inline-block;
 }
 
-div.static:before {
+div.static:before
+{
 	content: "\f06e";
 	font-size: 2em;
 	color: black;
@@ -1425,23 +1430,30 @@ div.static:before {
 	top: 0;
 }
 
-div.static img {
+div.static img
+{
 	border: none;
 }
 
-.static .animate {
+.static .animate
+{
 	visibility: hidden;
 }
 
-.static:hover .animate {
+.static:hover .animate
+{
 	visibility: visible;
 }
 
-@media screen and (max-width: 600px) {
-	div.beholder {
+@media screen and (max-width: 600px)
+{
+	div.beholder
+	{
 		padding-top: 1.5em;
 	}
-	div.static:before {
+
+	div.static:before
+	{
 		font-size: 1em;
 		top: 0.2em;
 		left: 0.4em;
@@ -1451,41 +1463,8 @@ div.static img {
 	}
 }
 
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-	div.beholder {
-		padding: 0.5em;
-		padding-top: 2em;
-		background-color: #CFCFCF;
-		display: inline-block;
-		position: relative;
-	}
-
-	div.static {
-		background-color: #D1D1D1;
-		background: no-repeat;
-		background-size: contain;
-		background-position: bottom;
-		max-width: 600px;
-		display: inline-block;
-	}
-
-	div.static:before {
-		content: "\f06e";
-		color: black;
-		position: absolute;
-		left: 0.2em;
-		top: 0;
-	}
-
-	div.static img {
-		border: none;
-	}
-
-	.static .animate {
-		visibility: hidden;
-	}
-
-	.static:hover .animate {
-		visibility: visible;
-	}
+@media screen
+{
+	
 }
+

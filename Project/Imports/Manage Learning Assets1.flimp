@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <MsWordImport
   PreserveSourceStyles="false"
   KeepSourceLinks="false"
@@ -14,18 +14,18 @@
   FilenameLength="24"
   GeneratePageLayouts="false"
   UseFirstHeadingAsTopicTitle="true"
-  LastCollectTime="2015-05-21T15:25:32.7622746+10:00"
+  LastCollectTime="2016-08-19T11:13:43.5179200+10:00"
   ProjectName="April 13"
   ProjectFolder="C:\Users\thawkins\Documents\Madcap Flare 11\April 13\"
   AutoSync="false"
   AutoFitTables="true"
   UseHeaderRows="true"
   Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
-  LastImport="2015-05-21T15:27:25.4690707+10:00">
+  LastImport="2016-08-19T11:16:24.4481695+10:00">
   <Files>
     <Url
-      Source="../../../../../Desktop/help site docs/manage learning/Manage Learning Assets.docx"
-      AbsoluteSource="file:///C:/Users/thawkins/Desktop/help site docs/manage learning/Manage Learning Assets.docx" />
+      Source="file://diggers/CS Documentation/Source docs/Manage Learning/Manage Learning Assets/Manage_Learning_Assets.docx"
+      AbsoluteSource="file://diggers/CS Documentation/Source docs/Manage Learning/Manage Learning Assets/Manage_Learning_Assets.docx" />
   </Files>
   <ExcludedFiles />
   <CollectedSourceFiles />
@@ -33,178 +33,220 @@
   <GeneratedFiles>
     <Url
       Source="../../Content/Manage Learning Assets1/Learning Assets introduction.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_1.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_2.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_3.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_4.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_5.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_6.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_7.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_8.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Types of Learning Assets_9.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Types of Learning Assets.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Manage Learning Assets.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Manage Learning Assets_1.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Manage Learning Assets_2.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Manage Learning Assets_3.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Manage Learning Assets.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset_1.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Edit Learning Asset.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Inspect Learning Asset Learning.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:43 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Inspect Learning Asset Learning.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning_1.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning_2.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning_3.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning_4.png"
-      TimeStamp="21/05/2015 3:27:12 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning_5.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning_6.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning_7.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Learning_8.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Learning.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Add Session.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Add Session_1.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Add Session.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Course.htm"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Other Learning.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Other Learning_1.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Other Learning_2.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Other Learning_3.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Other Learning_4.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Other Learning_5.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Other Learning.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_1.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_2.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_3.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_4.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_5.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_6.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_7.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_8.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_9.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_10.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_11.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_12.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_13.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset SCORM Course_14.png"
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset SCORM Course.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Trackable.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Trackable.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Images/Manage Learning Assets1/Add Learning Asset Assessment.png"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Assessment.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Assignment.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Discussion.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Plan.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Survey.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:45 AM" />
     <Url
       Source="../../Content/Manage Learning Assets1/Add Learning Asset Test.htm"
-      TimeStamp="21/05/2015 3:27:14 PM" />
+      TimeStamp="19/08/2016 11:13:45 AM" />
     <Url
       Source="../TOCs/Manage Learning Assets1.fltoc"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/MasterPages/Manage Learning Assets1.flmsp"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
     <Url
       Source="../../Content/Resources/Stylesheets/MainStyles.css"
-      TimeStamp="21/05/2015 3:27:13 PM" />
+      TimeStamp="19/08/2016 11:13:44 AM" />
   </GeneratedFiles>
   <ParagraphStyles>
     <Map
@@ -230,6 +272,9 @@
     <Map
       From="Hyperlink"
       To="a.(MS Word Style)" />
+    <Map
+      From="Strong"
+      To="b" />
   </CharacterStyles>
   <NewTopicStyles>
     <StyleName
@@ -239,10 +284,14 @@
     <StyleName
       Name="Heading 1" />
     <StyleName
+      Name="Heading 2" />
+    <StyleName
       Name="List Paragraph" />
   </UsedParagraphStyles>
   <UsedCharacterStyles>
     <StyleName
       Name="Hyperlink" />
+    <StyleName
+      Name="Strong" />
   </UsedCharacterStyles>
 </MsWordImport>
