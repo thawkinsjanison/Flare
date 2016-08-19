@@ -1273,6 +1273,9 @@
         Title="Video"
         Link="/Content/C_Design/Panel type/Panel type Video.htm" />
       <TocEntry
+        Title="SCORM"
+        Link="/Content/C_Design/Panel type/Panel type SCORM.htm" />
+      <TocEntry
         Title="Module Progress"
         Link="/Content/C_Design/Panel type/Panel type Module progress.htm" />
     </TocEntry>
