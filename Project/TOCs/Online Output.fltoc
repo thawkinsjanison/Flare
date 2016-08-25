@@ -405,19 +405,6 @@
         Link="/Content/B_Manage Learning/Certificates1/Access and View the Completed.htm" />
     </TocEntry>
     <TocEntry
-      Title="Challenges"
-      Link="/Content/B_Manage Learning/Challenges/Introduction.htm">
-      <TocEntry
-        Title="Introduction"
-        Link="/Content/B_Manage Learning/Challenges/Introduction.htm" />
-      <TocEntry
-        Title="Administering a challenge"
-        Link="/Content/B_Manage Learning/Challenges/Administering a challenge.htm" />
-      <TocEntry
-        Title="User experience"
-        Link="/Content/B_Manage Learning/Challenges/User experience.htm" />
-    </TocEntry>
-    <TocEntry
       Title="Competencies"
       Link="/Content/B_Manage Learning/Competencies/Competencies an introduction.htm">
       <TocEntry
@@ -2013,6 +2000,22 @@
       <TocEntry
         Title="Import Venues and Locations"
         Link="/Content/D_Settings/Venues/Import Venues and Locations.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Social Learning">
+    <TocEntry
+      Title="Challenges"
+      Link="/Content/B_Manage Learning/Challenges/Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/B_Manage Learning/Challenges/Introduction.htm" />
+      <TocEntry
+        Title="Administering a challenge"
+        Link="/Content/B_Manage Learning/Challenges/Administering a challenge.htm" />
+      <TocEntry
+        Title="User experience"
+        Link="/Content/B_Manage Learning/Challenges/User experience.htm" />
     </TocEntry>
   </TocEntry>
 </CatapultToc>
