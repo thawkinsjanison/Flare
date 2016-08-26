@@ -12,10 +12,6 @@
         <Properties>
           <Property
             Name="Width">100%</Property>
-          <Property
-            Name="BackgroundColor">#ffffff</Property>
-          <Property
-            Name="BorderRight">none 1px #000000</Property>
         </Properties>
       </Style>
       <Style
@@ -33,9 +29,9 @@
             Name="1st Level">
             <Properties>
               <Property
-                Name="PaddingBottom">6px</Property>
-              <Property
                 Name="PaddingTop">6px</Property>
+              <Property
+                Name="PaddingBottom">6px</Property>
             </Properties>
           </StyleClass>
           <StyleClass
@@ -56,34 +52,8 @@
                 Name="PaddingBottom">2px</Property>
             </Properties>
           </StyleClass>
-          <StyleClass
-            Name="4th Level">
-            <Properties>
-              <Property
-                Name="PaddingBottom">2px</Property>
-              <Property
-                Name="PaddingTop">2px</Property>
-            </Properties>
-          </StyleClass>
         </Classes>
       </Style>
-      <Style
-        Name="Menu Item (hover)">
-        <Properties>
-          <Property
-            Name="Color">#000000</Property>
-        </Properties>
-      </Style>
-      <Medium
-        Name="Mobile">
-        <Style
-          Name="Menu">
-          <Properties>
-            <Property
-              Name="Display">none</Property>
-          </Properties>
-        </Style>
-      </Medium>
     </Styles>
   </Stylesheet>
   <Strings />
