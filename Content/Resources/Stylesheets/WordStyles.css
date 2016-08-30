@@ -144,3 +144,10 @@ MadCap|tocProxy
 	border-bottom: none 1px #000000;
 }
 
+aside
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 12pt;
+}
+
