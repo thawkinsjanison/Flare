@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Challenges"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Challenges.fltoc"
+  AutoSizeCaptureCaptions="true"
+  GetLatestBeforeCompile="true"
+  MasterPageLayout="/Content/Resources/PageLayouts/8_5X11/Chapters8_5X11.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/WordStyles.css"
+  Medium="print"
+  EmbedImages="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Keywords="Challenges"
+    Title="Challenges"
+    Subject="Challenges" />
+  <PDF
+    ShowUsedBookmarks="false"
+    TitleBar="DocumentTitle"
+    PageMode="UseNone"
+    PageLayout="SinglePage"
+    ImageCompression="Automatic"
+    RestrictPermissions="false"
+    DownsampleImages="false"
+    InitialMagnification="100" />
+</CatapultTarget>
