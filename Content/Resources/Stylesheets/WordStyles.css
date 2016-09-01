@@ -32,7 +32,6 @@ div.TopicContent
 
 h1
 {
-	font-size: 1.5em;
 	font-weight: normal;
 	page-break-before: avoid;
 	page-break-after: avoid;
@@ -40,6 +39,8 @@ h1
 	margin-top: 5px;
 	margin-bottom: 2px;
 	padding-bottom: 10px;
+	font-family: Calibri;
+	font-size: 12px;
 }
 
 h2
@@ -112,19 +113,20 @@ div.sideContent
 img
 {
 	max-height: auto;
+	margin: auto;
 	border-left-style: solid;
-	border-left-width: 1px;
 	border-left-color: #a9a9a9;
 	border-right-style: solid;
-	border-right-width: 1px;
 	border-right-color: #a9a9a9;
 	border-top-style: solid;
-	border-top-width: 1px;
 	border-top-color: #a9a9a9;
 	border-bottom-style: solid;
-	border-bottom-width: 1px;
 	border-bottom-color: #a9a9a9;
 	max-width: 620px;
+	border-bottom-width: .5px;
+	border-left-width: .5px;
+	border-right-width: .5px;
+	border-top-width: .5px;
 }
 
 ol

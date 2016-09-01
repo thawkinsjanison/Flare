@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="200" MadCap:lastWidth="1134">
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="200" MadCap:lastWidth="1122">
     <head>
         <meta charset="utf-8" />
         <meta name="description" content="" />
@@ -11,7 +11,7 @@
             <div id="contentBody">
                 <div class="row collapse">
                     <div class="sideContent">
-                        <div class="clearfix" style="text-align: right;"><a href="http://docs.madcapsoftware.com/FlareV12/FlareIndexingGuide.pdf" target="_blank"><img src="../Images/PDFguide.png" class="Hyperlinked" /> </a>
+                        <div class="clearfix" style="text-align: right;"><a href="../../PDFs/Challenges.pdf" target="_blank"><img src="../Images/PDFguide.png" class="Hyperlinked" /> </a>
                             <MadCap:topicToolbarProxy />
                         </div>
                         <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
