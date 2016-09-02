@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-au">
+    <head><title></title>
+        <link href="../Resources/Stylesheets/MainStyles_3.css" rel="stylesheet" />
+    </head>
+    <body>
+        <h1 class="Heading1">Introduction</h1>
+        <p>In Social Learning Tags are used to fulfil different purposes:</p>
+        <ul style="list-style-type: disc;margin-left: 36pt;">
+            <li style="list-style-type: disc;">Providing information for learners on the tiles of content. </li>
+            <li style="list-style-type: disc;">Setting items to appear in filters on the <b class="Strong">Learn</b> dashboard.</li>
+            <li style="list-style-type: disc;">Providing retrievable words in the <b class="Strong">Search</b> field.</li>
+        </ul>
+        <h2 class="Heading2">Providing information for learners on the tiles of content.</h2>
+        <p>In the example below:</p>
+        <ul style="list-style-type: disc;margin-left: 36pt;">
+            <li style="list-style-type: disc;">The <b class="Strong">Category</b> and <b class="Strong">Type</b> are tags on the Catalogue item. They are manually set to display on the tiles. Instructions on how to achieve this are in the topic below Enabling Tag Types on tiles.</li>
+            <li style="list-style-type: disc;">The Provider (CrossKnowledge) and Author (Didier Noyer) are fields in the Catalogue Item, which if populated, will automatically display on the tile.</li>
+            <li style="list-style-type: disc;">Other information such as the status<img src="../Resources/Images/Introduction/Introduction.png" style="visibility: visible;mso-wrap-style: square;width: 113px;height: 20px;" />, star ratings <img src="../Resources/Images/Introduction/Introduction_1.png" style="visibility: visible;mso-wrap-style: square;width: 67px;height: 16px;" /> and comments <img src="../Resources/Images/Introduction/Introduction_2.png" style="visibility: visible;mso-wrap-style: square;width: 101px;height: 18px;" /> are automatically set to display by the system.</li>
+        </ul>
+        <p>
+            <img src="../Resources/Images/Introduction/Introduction_3.png" style="visibility: visible;mso-wrap-style: square;width: 395px;height: 424px;" />
+        </p>
+        <h2 class="Heading2">Setting items to appear in filters on the Learn dashboard.</h2>
+        <p>The filters available on the Learn page are set by the system. The lists that appear in some of the dropdowns can be controlled by Tags on Catalogue Items.</p>
+        <p>
+            <img src="../Resources/Images/Introduction/Introduction_4.png" style="visibility: visible;mso-wrap-style: square;width: 601px;height: 43px;" />
+        </p>
+        <p>Items in the Quick Filter dropdown are set by the system.</p>
+        <p>
+            <img src="../Resources/Images/Introduction/Introduction_5.png" style="visibility: visible;mso-wrap-style: square;width: 159px;height: 192px;" />
+        </p>
+        <p>Items in the <b class="Strong">Filter by Interest</b> dropdown are controlled by the Tags you have set in the Tag Type of <b class="Strong">Professional Interests</b>.</p>
+        <p>
+            <img src="../Resources/Images/Introduction/Introduction_6.png" style="visibility: visible;mso-wrap-style: square;width: 305px;height: 330px;" />
+        </p>
+        <p>Items in the <b class="Strong">Type</b> dropdown are controlled by Tags you have set in the Tag Type of <b class="Strong">Resource Type</b>.</p>
+        <p>
+            <img src="../Resources/Images/Introduction/Introduction_7.png" style="visibility: visible;mso-wrap-style: square;width: 114px;height: 210px;" />
+        </p>
+        <p>The <b class="Strong">Duration</b><img src="../Resources/Images/Introduction/Introduction_8.png" style="visibility: visible;mso-wrap-style: square;width: 167px;height: 42px;" /> field is controlled by the values set in the  <img src="../Resources/Images/Introduction/Introduction_9.png" style="visibility: visible;mso-wrap-style: square;width: 238px;height: 33px;" /> <b class="Strong">Approx Duration (minutes)</b> field of the Catalogue Item.</p>
+        <h2 class="Heading2">Providing retrievable words in the <b class="Strong">Search</b> field</h2>
+        <p>
+            <img src="../Resources/Images/Introduction/Introduction_10.png" style="visibility: visible;mso-wrap-style: square;width: 222px;height: 38px;" />
+        </p>
+        <p>The results returned in Search are determined by Tags and three fields of Catalogue Items.</p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li style="list-style-type: disc;">Catalogue Name</li>
+            <li style="list-style-type: disc;">Catalogue Overview</li>
+            <li style="list-style-type: disc;">Catalogue Author</li>
+        </ul>
+        <p>There is a weighting applied to each item which determines the order in which a user will see results. Tags have the greatest weighting, followed by Name and then Overview and lastly Author. </p>
+        <p>As a simple example, when we have 4 catalogue Items:</p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li style="list-style-type: disc;">Catalogue Item one is tagged with Elephant.</li>
+            <li style="list-style-type: disc;">Catalogue Item two has the word Elephant in the Title.</li>
+            <li style="list-style-type: disc;">Catalogue Item three has the word Elephant in the Overview.</li>
+            <li style="list-style-type: disc;">Catalogue Item Four has an Author of John Elephant.</li>
+        </ul>
+        <p>When we search for Elephant the Catalogue item will be returned in the following order:</p>
+        <ol style="list-style-type: decimal;margin-left: 18pt;" start="1">
+            <li>Catalogue Item one.</li>
+            <li>Catalogue Item two Elephant.</li>
+            <li>Catalogue Item three.</li>
+            <li>Catalogue Item Four.</li>
+        </ol>
+        <h3 class="Heading3">Weighting</h3>
+        <p>If a Catalogue Item was tagged with Elephant and included Elephant in the title, it would appear above the Catalogue Items listed above. This is due to weighting. The tagging weight of 4 + the Name weight of 3 = 7 which is higher than just the Tag which is = to 4.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Item</p>
+                    </th>
+                    <th>
+                        <p>Weighting</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>Tags</p>
+                    </td>
+                    <td>
+                        <p>4</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Name</p>
+                    </td>
+                    <td>
+                        <p>3</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Overview</p>
+                    </td>
+                    <td>
+                        <p>2</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Author</p>
+                    </td>
+                    <td>
+                        <p>0</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&#160;</p>
+        <h3 class="Heading3">Managing content loaded globally vs content loaded locally</h3>
+        <p>Global content is loaded and managed by Janison on the parent site. Local content is loaded and managed locally by the client on their Tenant which is a child of global site.</p>
+        <p>Content loaded globally is equally searchable as content loaded locally.</p>
+        <p>There are two means available to stop content from appearing in the search and in the filters:</p>
+        <ol style="list-style-type: decimal;margin-left: 18pt;" start="1">
+            <li>Remove the tag. This is only possible if the tags have been applied locally. Any tags applied globally can only be edited by Janison.</li>
+            <li>Archive or make the Catalogue Item private by changing the Status. You can read more about setting the status in our Catalogue Manager document.</li>
+        </ol>
+        <p>
+            <img src="../Resources/Images/Introduction/Introduction_11.png" style="visibility: visible;mso-wrap-style: square;width: 406px;height: 110px;" />
+        </p>
+        <p>Note: </p>
+        <ul style="list-style-type: disc;margin-left: 18pt;">
+            <li style="list-style-type: disc;">Setting a catalogue Item to <b class="Strong">Private</b> will prevent it from appearing in the search results and filters but learners already enrolled will still have access to the Catalogue Item via their Dashboard.</li>
+            <li style="list-style-type: disc;">Setting a Catalogue Item to <b class="Strong">Archive</b> will prevent it from appearing in the search results and filters and in addition will remove all learner access to the Catalogue Item. This option is used to completely hide content from learners.</li>
+        </ul>
+        <h2 class="Heading2">New Catalogue Items</h2>
+        <p>There will be a one hour delay before you can see any newly created Catalogue Items. This is due to the time it takes for Azure search to index the content. It will take longer on the Beta site, up to 24 hours.</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+    </body>
+</html>

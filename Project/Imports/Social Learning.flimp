@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="false"
+  KeepSourceLinks="false"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2016-09-01T13:00:37.1596600+10:00"
+  ProjectName="CLS Helpsite"
+  ProjectFolder="C:\Users\thawkins\Documents\My Projects\CLS Helpsite\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  Stylesheet="../../Content/Resources/Stylesheets/MainStyles.css"
+  LastImport="2016-09-01T13:02:32.4992220+10:00">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/flare import/Social Learning.docx"
+      AbsoluteSource="file:///C:/Users/thawkins/Desktop/flare import/Social Learning.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Social Learning/Janison Academy.png"
+      TimeStamp="1/09/2016 1:02:27 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Social Learning/Janison Academy_1.png"
+      TimeStamp="1/09/2016 1:02:27 PM" />
+    <Url
+      Source="../../Content/Social Learning/Janison Academy.htm"
+      TimeStamp="1/09/2016 1:02:27 PM" />
+    <Url
+      Source="../TOCs/Social Learning.fltoc"
+      TimeStamp="1/09/2016 1:02:27 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles_2.css"
+      TimeStamp="1/09/2016 1:02:27 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading 2" />
+    <Map
+      From="Heading 3"
+      To="h3.Heading 3" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles />
+  <UsedCharacterStyles />
+</MsWordImport>

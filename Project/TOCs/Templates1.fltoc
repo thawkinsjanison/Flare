@@ -5,11 +5,9 @@
     Title="Templates Introduction"
     Link="/Content/C_Design/Templates1/Templates Introduction.htm" />
   <TocEntry
-    Title="Search for Templates"
-    Link="/Content/C_Design/Templates1/Search for Templates.htm" />
+    Title="Search for Templates" />
   <TocEntry
-    Title="Edit a Template"
-    Link="/Content/C_Design/Templates1/Edit a Template.htm" />
+    Title="Edit a Template" />
   <TocEntry
     Title="Add Content Layout Template"
     Link="/Content/C_Design/Templates1/Add Content Layout Template.htm" />

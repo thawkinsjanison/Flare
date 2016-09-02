@@ -1429,12 +1429,6 @@
         Title="Templates Introduction"
         Link="/Content/C_Design/Templates1/Templates Introduction.htm" />
       <TocEntry
-        Title="Search for Templates"
-        Link="/Content/C_Design/Templates1/Search for Templates.htm" />
-      <TocEntry
-        Title="Edit a Template"
-        Link="/Content/C_Design/Templates1/Edit a Template.htm" />
-      <TocEntry
         Title="Add Content Layout Template"
         Link="/Content/C_Design/Templates1/Add Content Layout Template.htm" />
       <TocEntry
@@ -2004,7 +1998,10 @@
   </TocEntry>
   <TocEntry
     Title="Academy"
-    Link="/Content/B_Manage Learning/Challenges/Introduction.htm">
+    Link="/Content/Social Learning/Janison Academy.htm">
+    <TocEntry
+      Title="Janison Academy"
+      Link="/Content/Social Learning/Janison Academy.htm" />
     <TocEntry
       Title="Challenges"
       Link="/Content/B_Manage Learning/Challenges/Introduction.htm">
@@ -2020,13 +2017,13 @@
     </TocEntry>
     <TocEntry
       Title="Catalogue Item Tags"
-      Link="/Content/Social Learning/Catalogue Item Tags/Show Tags on Tiles.htm">
+      Link="/Content/Social Learning/Catalogue Item Tags/Setting up Tags.htm">
       <TocEntry
-        Title="Show Tags on Tiles"
-        Link="/Content/Social Learning/Catalogue Item Tags/Show Tags on Tiles.htm" />
+        Title="Setting up Tags"
+        Link="/Content/Social Learning/Catalogue Item Tags/Setting up Tags.htm" />
       <TocEntry
-        Title="Enabling Tag Types on Items"
-        Link="/Content/Social Learning/Catalogue Item Tags/Enabling Tag Types on Items.htm" />
+        Title="Enabling Tag Types on Tiles"
+        Link="/Content/Social Learning/Catalogue Item Tags/Enabling Tag Types on tiles.htm" />
       <TocEntry
         Title="Adding Tags Manually"
         Link="/Content/Social Learning/Catalogue Item Tags/Adding Tags Manually.htm" />
