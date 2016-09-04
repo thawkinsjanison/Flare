@@ -2017,7 +2017,10 @@
     </TocEntry>
     <TocEntry
       Title="Catalogue Item Tags"
-      Link="/Content/Social Learning/Catalogue Item Tags/Setting up Tags.htm">
+      Link="/Content/Social Learning/Tags Introduction/Introduction.htm">
+      <TocEntry
+        Title="Introduction"
+        Link="/Content/Social Learning/Tags Introduction/Introduction.htm" />
       <TocEntry
         Title="Setting up Tags"
         Link="/Content/Social Learning/Catalogue Item Tags/Setting up Tags.htm" />

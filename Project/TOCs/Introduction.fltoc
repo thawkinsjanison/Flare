@@ -1,4 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultToc Version="1">
-    <TocEntry Title="Introduction" Link="/Content/Introduction/Introduction.htm" />
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/Social Learning/Tags Introduction/Introduction.htm" />
 </CatapultToc>
